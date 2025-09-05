@@ -1,3 +1,7 @@
+# 4 praktika. Supaprastinta diagnostika
+
+Ši supaprastinta diagnostika padės kiekvienam partneriui užfiksuoti pagrindines sąlygas, poreikius ir funkcijas šiuo metu. Pirmiausia užpildykite individualiai, tuomet aptarkite kartu.
+
 ### 1. Pasirinkite iki 5 pagrindinių sąlygų, kurios dabar veikia jūsų gyvenimą:
 
 ____________________________________________________________
