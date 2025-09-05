@@ -21,10 +21,10 @@ plugins:
           build: true
         - locale: en
           name: English
-          build: false
+          build: true
         - locale: lt
           name: Lietuvių
-          build: false
+          build: true
 
 # Навигация задаётся для дефолтного языка (ru).
 # Плагин сам переключит префикс на en/ lt/ при смене языка.
