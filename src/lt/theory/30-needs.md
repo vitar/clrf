@@ -1,12 +1,12 @@
 # 3 skyrius. Poreikiai
 
-Poreikiai – tai vidiniai prašymai, susiformuojantys esant sąlygoms. Jie apibrėžia, kas mums svarbu šiuo metu, ir nurodo kryptį bendriems bei asmeniniams veiksmams. Sąlygų ir poreikių atskyrimas padeda išvengti painiavos: sąlyga – faktas, poreikis – noras ar prašymas.
+Poreikiai – tai vidiniai poreikiai, kylantys esant sąlygoms. Jie apibrėžia, kas mums svarbu šiuo metu, ir nurodo kryptį bendriems bei asmeniniams veiksmams. Sąlygų ir poreikių atskyrimas padeda išvengti painiavos: sąlyga – faktas, poreikis – noras ar prašymas.
 
 ## Poreikių kategorijos
 
 1. Fiziologiniai / baziniai – sveikata, saugumas, seksualinis artumas.
 2. Emociniai / psichologiniai – meilė, pripažinimas, palaikymas, emocinis saugumas.
-3. Vystymosi / augimo – asmeninis tobulėjimas, savirealizacija, naujovės ir įspūdžiai.
+3. Vystymosi / augimo – asmeninis tobulėjimas, savirealizacija, naujovės ir patirtys.
 4. Bendri / poriniai – bendri tikslai, tradicijos, bendras laikas, „mes“ jausmas.
 5. Socialiniai / išoriniai – pripažinimas kaip poros, socialinis palaikymas, darna su aplinka.
 
@@ -41,4 +41,4 @@ Svarbu atskirti sąlygas ir poreikius:
 
 ## Išvada
 
-Poreikiai sudaro pagrindą ateities vizijai ir nurodo funkcijų pasirinkimą. Juos pripažinus, lengviau suprasti save ir vienas kitą bei išvengti nesusipratimų, kai partneriai kalba apie sąlygas, o turi omenyje poreikius.
+Poreikiai sudaro pagrindą ateities vizijai ir padeda pasirinkti funkcijas. Juos pripažinus, lengviau suprasti save ir vienas kitą bei išvengti nesusipratimų, kai partneriai kalba apie sąlygas, o turi omenyje poreikius.

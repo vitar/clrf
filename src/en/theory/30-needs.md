@@ -1,6 +1,6 @@
 # Chapter 3. Needs
 
-Needs are internal requests formed against conditions. They define what matters to us at the moment and set direction for joint and personal actions. Distinguishing conditions from needs helps avoid confusion: a condition is a fact; a need is a desire or request.
+Needs are internal requests formed in relation to conditions. They define what matters to us at a given moment and set the direction for joint and personal actions. Distinguishing conditions from needs helps avoid confusion: a condition is a fact; a need is a desire or request.
 
 ## Categories of needs
 
@@ -16,11 +16,11 @@ These needs relate to survival and basic stability: health, sleep, nutrition, fi
 
 ## 2. Emotional / psychological
 
-These are needs for love, attention, recognition and respect. They relate to feeling valued and safe in the relationship. When met, partners feel trust and emotional closeness.
+These are needs for love, attention, recognition, and respect. They relate to feeling valued and safe in the relationship. When met, partners feel trust and emotional closeness.
 
 ## 3. Development / growth
 
-Every person strives for growth: learning, new skills, self-realization. For a couple, this is also the need for novelty and impressions. When development is blocked, a sense of stagnation and dissatisfaction appears.
+Every person strives for growth: learning, new skills, self-realization. For a couple, this is also the need for novelty and experiences. When development is blocked, a sense of stagnation and dissatisfaction arises.
 
 ## 4. Shared / couple
 
@@ -28,7 +28,7 @@ These are needs that shape the identity of the couple: common goals and projects
 
 ## 5. Social / external
 
-These needs relate to the outside world: recognition and support from family and friends, as well as harmony with the environment. The social environment can strengthen the couple or, on the contrary, create tension.
+These needs relate to the outside world: recognition and support from family and friends, as well as harmony with the surrounding environment. The social environment can strengthen the couple or, on the contrary, create tension.
 
 ## Difference between conditions and needs
 
@@ -41,4 +41,4 @@ This distinction helps build visions and changes more realistically and construc
 
 ## Conclusion
 
-Needs form the basis for a vision of the future and guide the choice of functions. Recognizing them helps us understand ourselves and each other better and avoid misunderstandings when partners speak about conditions but mean needs.
+Needs form the basis for a vision of the future and inform the choice of functions. Recognizing them helps us understand ourselves and each other better and avoid misunderstandings when partners speak about conditions but mean needs.
