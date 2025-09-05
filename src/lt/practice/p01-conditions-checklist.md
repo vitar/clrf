@@ -8,7 +8,7 @@
 
 ☐ Finansai (pajamos, išlaidos, skolos, santaupos)
 
-☐ Buitis (namų darbų pasidalijimas, patogumas, technika)
+☐ Buitis (namų darbų pasidalijimas, patogumas, buitinė technika)
 
 ## 2. Laiko sąlygos
 
@@ -40,7 +40,7 @@
 
 ☐ Emocinis fonas (stresas, nuotaika, stabilumas)
 
-☐ Asmeninė erdvė ir autonomija (laikas / teritorija sau)
+☐ Asmeninė erdvė ir autonomija (laikas / erdvė sau)
 
 Mano pastabos ir papildymai
 ____________________________________________________________

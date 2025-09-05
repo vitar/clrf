@@ -1,6 +1,6 @@
 # Practice 1. Conditions Checklist
 
-This checklist will help note the main conditions of your life that influence the relationship. Mark the most important ones and add your own if necessary.
+This checklist will help you identify the main conditions in your life that influence your relationship. Mark the most important ones and add your own if necessary.
 
 ## 1. Material conditions
 
@@ -12,9 +12,9 @@ This checklist will help note the main conditions of your life that influence th
 
 ## 2. Time conditions
 
-☐ Work schedules (compatibility in time, workload)
+☐ Work schedules (schedule compatibility, workload)
 
-☐ Free time (how it matches or is divided)
+☐ Free time (how it aligns or is divided)
 
 ☐ Life rhythm (pace, sleep/rest habits)
 
@@ -40,7 +40,7 @@ This checklist will help note the main conditions of your life that influence th
 
 ☐ Emotional background (stress, mood, stability)
 
-☐ Personal space and autonomy (time/territory for oneself)
+☐ Personal space and autonomy (time/space for oneself)
 
 My notes and additions
 ____________________________________________________________
