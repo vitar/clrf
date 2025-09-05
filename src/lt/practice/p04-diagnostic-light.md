@@ -2,13 +2,15 @@
 
 Ši supaprastinta diagnostika padės kiekvienam partneriui užfiksuoti pagrindines sąlygas, poreikius ir funkcijas šiuo metu. Pirmiausia užpildykite individualiai, tuomet aptarkite kartu.
 
+## 1 žingsnis. Individualus pasirinkimas
+
 ### 1. Pasirinkite iki 5 pagrindinių sąlygų, kurios dabar veikia jūsų gyvenimą:
 
 ____________________________________________________________
 ____________________________________________________________
 ____________________________________________________________
 
-### 2. Pasirinkite iki 5 svarbiausių poreikių, kurie jums šiuo metu aktualiausi:
+### 2. Pasirinkite iki 5 svarbiausių jums šiuo metu poreikių:
 
 ____________________________________________________________
 ____________________________________________________________
@@ -28,7 +30,7 @@ ____________________________________________________________
 
 Atsakykite laisva forma (2–3 sakiniais):
 
-* Kas man patinka tame, kaip dabar gyvename?
+* Kas man patinka tame, kaip mes dabar gyvename?
 
 ____________________________________________________________
 

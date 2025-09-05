@@ -1,20 +1,22 @@
-# Practice 4. Diagnostic Light
+# Practice 4. Simplified Diagnostic
 
-This simplified diagnostic will help each partner note the main conditions, needs, and functions at the moment. Fill it out individually first, then discuss together.
+This simplified diagnostic will help each partner identify the main conditions, needs, and functions right now. Fill it out individually first, then discuss together.
 
-### 1. Choose up to 5 key conditions that influence your life now:
+## Step 1. Individual selection
 
-____________________________________________________________
-____________________________________________________________
-____________________________________________________________
-
-### 2. Choose up to 5 main needs that are most important for you now:
+### 1. Choose up to 5 key conditions that influence your life right now:
 
 ____________________________________________________________
 ____________________________________________________________
 ____________________________________________________________
 
-### 3. Note the functions:
+### 2. Choose up to 5 needs that are most important to you right now:
+
+____________________________________________________________
+____________________________________________________________
+____________________________________________________________
+
+### 3. Assess the functions:
 
 * What I do well:
 
@@ -26,7 +28,7 @@ ____________________________________________________________
 
 ## Step 2. Short answers
 
-Answer freely (2–3 sentences):
+Answer freely (in 2–3 sentences):
 
 * What do I like about how we live now?
 
@@ -46,9 +48,9 @@ ____________________________________________________________
 
 ## Step 3. Joint discussion
 
-After filling in individually, discuss together:
+After filling it out individually, discuss together:
 
-- Where the chosen conditions and needs coincide.
+- Where the selected conditions and needs overlap.
 - Where they differ.
-- What each does well and where support is needed.
-- Read the short answers to each other.
+- What each person does well and where support is needed.
+- Read your short answers to each other.
