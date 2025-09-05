@@ -1,6 +1,6 @@
 # 8 skyrius. Prioritetai ir strategija
 
-Nustačius pokyčius, svarbu sudėlioti prioritetus ir parengti jų įgyvendinimo strategiją. Be to kyla perkrovos rizika: per daug tikslų vienu metu veda į perdegimą ar pokyčių atsisakymą.
+Nustačius pokyčius, svarbu sudėlioti prioritetus ir parengti jų įgyvendinimo strategiją. Priešingu atveju kyla perkrovos rizika: per daug tikslų vienu metu veda į perdegimą ar pokyčių atsisakymą.
 
 ## 1. Prioritetai
 
@@ -11,7 +11,7 @@ Prioritetų nustatymo būdai:
     - Svarbu, bet neskubu – planuojame.
     - Nesvarbu, bet skubu – deleguojame arba minimizuojame.
     - Nesvarbu ir neskubu – atsisakome.
-- „Top-3“ taisyklė: pasirinkite ne daugiau kaip tris pagrindinius pokyčius artimiausiems 3–6 mėnesiams.
+- „Top 3“ taisyklė: pasirinkite ne daugiau kaip tris pagrindinius pokyčius artimiausiems 3–6 mėnesiams.
 - Balansas: prioritetuose turi būti tiek bendri, tiek asmeniniai pokyčiai.
 
 ## 2. Strategija
