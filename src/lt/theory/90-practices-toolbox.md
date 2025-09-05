@@ -67,7 +67,7 @@ Situacinės lyderystės modelis rodo, kad sąveikos stilius priklauso nuo partne
 - D1: entuziazmas be patirties – reikia palaikymo ir instrukcijų.
 - D2: pirmieji nusivylimai – reikia pagalbos ir bendrų sprendimų.
 - D3: dalinė kompetencija – naudinga parama ir pasitikėjimas.
-- D4: brandą ir patirtį – galima deleguoti ir suteikti laisvę.
+- D4: branda ir patirtis – galima deleguoti ir suteikti laisvę.
 
 Porai šis modelis padeda suprasti, kada partneriui reikia atramos, o kada – erdvės.
 
@@ -77,7 +77,7 @@ Working Agreements – tai bendros taisyklės, dėl kurių pora susitaria kasdie
 
 Pavyzdžiai:
 
-- Svarbių sprendimų neaptariame konflikto būsenoje.
+- Svarbių sprendimų neaptariame konflikto metu.
 - Savaitinį planavimą darome sekmadienio vakarais.
 - Net ginče vartojame pagarbią kalbą.
 
