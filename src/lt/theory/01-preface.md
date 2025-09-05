@@ -4,7 +4,7 @@
 
 Užuot rėmęsis tik straipsnių patarimais ar emocijomis, nusprendžiau sukurti sistemą, kuri sujungia logiką ir jausmus. Taip atsirado **> CL/RF _ Couple Life Reflection Framework** – įrankis, padedantis poroms (pirmiausia mums su žmona) suvokti sąlygas, poreikius ir funkcijas, o tada paversti juos bendromis vizijomis ir konkrečiais žingsniais.
 
-Šis karkasas ypač artimas tiems, kurie įpratę mąstyti sistemiškai: programinės įrangos inžinieriams, komandų vadovams, techniniams lyderiams, vadybininkams. Tiems, kurie darbe vertina aiškumą, skaidrumą ir strategiją, bet asmeniniame gyvenime susiduria su tais pačiais iššūkiais – neapibrėžtumu, perdegimu, konfliktais.
+Šis karkasas ypač artimas tiems, kurie įpratę mąstyti sistemiškai: programinės įrangos inžinieriams, komandų vadovams, techniniams lyderiams, vadybininkams. Tiems, kurie darbe vertina aiškumą, skaidrumą ir strategiją, bet asmeniniame gyvenime susiduria su tais pačiais iššūkiais – neapibrėžtumu, perkrovimu, konfliktais.
 
 Tikiuosi, kad šis įrankis padės jums taip pat, kaip padėjo mums: chaotiškus pokalbius paversti aiškiu žemėlapiu, vedančiu į bendrą ateitį.
 
