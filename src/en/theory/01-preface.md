@@ -8,6 +8,6 @@ This framework will be especially close to those who are used to thinking system
 
 I hope this tool helps you just as it helped us: turning chaotic conversations into a clear map that leads to a common future.
 
-_Viktor Evdokimov_
+_[Viktor Jevdokimov](https://www.linkedin.com/in/viktor-jevdokimov)_
 
 _Vilnius, 2025_

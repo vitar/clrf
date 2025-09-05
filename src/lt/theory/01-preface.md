@@ -8,6 +8,6 @@ Užuot rėmęsis tik straipsnių patarimais ar emocijomis, nusprendžiau sukurti
 
 Tikiuosi, kad šis įrankis padės jums taip pat, kaip padėjo mums: chaotiškus pokalbius paversti aiškiu žemėlapiu, vedančiu į bendrą ateitį.
 
-_Viktoras Jevdokimovas_
+_[Viktor Jevdokimov](https://www.linkedin.com/in/viktor-jevdokimov)_
 
 _Vilnius, 2025_
