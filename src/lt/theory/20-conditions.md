@@ -1,6 +1,6 @@
 # 2 skyrius. Sąlygos
 
-Sąlygos – tai fonas ir aplinka, kurioje gyvena pora. Jos sukuria rėmus, kurie gali palaikyti santykius arba, priešingai, juos apsunkinti. Sąlygų ne visada galima iškart pakeisti, bet jas reikia suvokti, kad suprastume, kokie poreikiai kyla ir kokias funkcijas reikia įjungti.
+Sąlygos – tai fonas ir aplinka, kurioje gyvena pora. Jos sukuria rėmus, kurie gali palaikyti santykius arba, priešingai, juos apsunkinti. Sąlygų ne visada galima iškart pakeisti, bet jas reikia suvokti, kad suprastume, kokie poreikiai kyla ir kokias funkcijas reikia aktyvuoti.
 
 ## Sąlygų kategorijos
 
@@ -32,4 +32,4 @@ Tai sveikata (fizinė ir psichinė), emocinė būsena ir asmeninė erdvė. Jei v
 
 ## Išvada
 
-Sąlygos nėra „teisingos“ ar „neteisingos“. Tai realybė, kurią svarbu pripažinti. Nuo sąlygų suvokimo priklauso, kurie poreikiai bus aktualūs ir kokias funkcijas reikės įjungti.
+Sąlygos nėra „teisingos“ ar „neteisingos“. Tai realybė, kurią svarbu pripažinti. Nuo sąlygų suvokimo priklauso, kurie poreikiai bus aktualūs ir kokias funkcijas reikės aktyvuoti.

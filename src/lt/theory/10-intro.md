@@ -8,7 +8,7 @@ Karkasas reikalingas, kad atsirastų struktūra ir aiškumas. Jis padeda suprast
 
 ## 2. Fantazinių vizijų problema
 
-Be diagnostikos partneriai dažnai kuria ateities vizijas fantazijų pavidalu. Šie paveikslai gali būti per daug asmeniški ir toli nuo realybės. Tokių fantazijų palyginimas gali sukelti nusivylimą ar nesuderinamumo jausmą, nors pagrinde yra bendras potencialas.
+Be įvertinimo partneriai dažnai kuria ateities vizijas fantazijų pavidalu. Šie paveikslai gali būti per daug asmeniški ir toli nuo realybės. Tokių fantazijų palyginimas gali sukelti nusivylimą ar nesuderinamumo jausmą, nors pagrinde yra bendras potencialas.
 
 Karkasas padeda nuleisti vizijas ant žemės: kurti jas remiantis realiomis sąlygomis ir poreikiais.
 
@@ -35,7 +35,7 @@ Balansas pasiekiamas tada, kai asmeniška ir bendra neprieštarauja, o papildo v
 
 Karkasas nediktuoja paruoštų sprendimų, o pateikia žemėlapį. Remdamasi juo, pora pereina etapus:
 
-1. Dabartinių sąlygų, poreikių ir funkcijų diagnostika.
+1. Dabartinių sąlygų, poreikių ir funkcijų įvertinimas.
 2. Ateities vizijų kūrimas (individualių ir bendrų).
 3. Reikalingų pokyčių nustatymas.
 4. Žingsnių prioritetų sudėliojimas.
