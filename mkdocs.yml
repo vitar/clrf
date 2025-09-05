@@ -1,0 +1,39 @@
+site_name: CL/RF — Couple Life Reflection Framework
+site_url: https://vitar.github.io/clrf
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.expand
+    - content.code.copy
+nav:
+  - Обложка: src/ru/theory/00-cover.md
+  - Предисловие: src/ru/theory/01-preface.md
+  - Теория:
+    - Введение: src/ru/theory/10-intro.md
+    - Условия: src/ru/theory/20-conditions.md
+    - Потребности: src/ru/theory/30-needs.md
+    - Функции: src/ru/theory/40-functions.md
+    - Связки: src/ru/theory/50-links.md
+    - Визия: src/ru/theory/60-vision.md
+    - Изменения: src/ru/theory/70-changes.md
+    - Приоритезация и стратегия: src/ru/theory/80-priorities-strategy.md
+    - Практики: src/ru/theory/90-practices-toolbox.md
+    - Заключение: src/ru/theory/99-outro.md
+  - Практики:
+    - Чек-лист условий: src/ru/practice/p01-conditions-checklist.md
+    - Чек-лист потребностей: src/ru/practice/p02-needs-checklist.md
+    - Чек-лист функций: src/ru/practice/p03-functions-checklist.md
+    - Диагностика-лайт: src/ru/practice/p04-diagnostic-light.md
+    - Индивидуальная визия: src/ru/practice/p05-individual-vision.md
+    - Таблица изменений: src/ru/practice/p06-change-table.md
+    - Матрица приоритетов: src/ru/practice/p07-priority-matrix.md
+    - Ретроспектива: src/ru/practice/p08-retrospective.md
+    - Роли и обязанности (RACI): src/ru/practice/p09-raci.md
+    - Карта традиций и ритуалов: src/ru/practice/p10-rituals-map.md
+    - Чек-лист личных функций: src/ru/practice/p11-personal-functions.md
+    - Совместная визия: src/ru/practice/p12-shared-vision.md
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
