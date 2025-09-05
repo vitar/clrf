@@ -2,11 +2,11 @@
 
 ## 1. Why a framework for relationships is needed
 
-Relationships often evolve spontaneously: partners are guided by emotions, habits, and cultural expectations. This works up to a certain point but eventually leads to misunderstanding, conflicts, and a feeling of stagnation.
+Relationships often evolve spontaneously: partners are guided by emotions, habits, and cultural expectations. This works up to a certain point, but eventually leads to misunderstanding, conflicts, and a feeling of stagnation.
 
 A framework is needed to bring structure and clarity. It helps to understand what conditions shape our lives, what needs stand behind our emotions and requests, and what functions of the couple and each of us can satisfy those needs.
 
-## 2. The problem of fantasy visions
+## 2. The problem with fantasy visions
 
 Without diagnostics, partners often build visions of the future in the form of fantasies. These pictures may be too personal and far from reality. Comparing such fantasies can cause disappointment or a sense of incompatibility, even though there is common potential underneath.
 
@@ -33,7 +33,7 @@ Balance is achieved when the personal and the joint do not contradict each other
 
 ## 5. How to use this framework
 
-The framework does not dictate ready-made solutions but gives a map. Based on this map the couple goes through stages:
+The framework does not dictate ready-made solutions but gives a map. Based on this map, the couple goes through stages:
 
 1. Diagnosing current conditions, needs, and functions.
 2. Building visions of the future (individual and joint).
