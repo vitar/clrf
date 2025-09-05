@@ -2,6 +2,6 @@
 
 **A practical tool for understanding, visions, and changes in relationships**
 
-_Viktor Evdokimov_
+_[Viktor Jevdokimov](https://www.linkedin.com/in/viktor-jevdokimov)_
 
 _Vilnius 2025_

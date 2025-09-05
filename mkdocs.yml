@@ -20,17 +20,17 @@ plugins:
           name: English
           default: true
           build: true
-        - locale: ru
-          name: Русский
-          default: false
-          build: true
         - locale: lt
           name: Lietuvių
           default: false
           build: true
+        - locale: ru
+          name: Русский
+          default: false
+          build: true
 
 # Навигация задаётся для дефолтного языка.
-# Плагин сам переключит префикс на en/ ru/ lt/ при смене языка.
+# Плагин сам переключит префикс на en/ lt/ ru/ при смене языка.
 nav:
   - index.md
   - theory/00-cover.md

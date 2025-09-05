@@ -2,6 +2,6 @@
 
 **Praktinis įrankis santykiams suprasti, vizijoms ir pokyčiams**
 
-_Viktoras Jevdokimovas_
+_[Viktor Jevdokimov](https://www.linkedin.com/in/viktor-jevdokimov)_
 
 _Vilnius 2025_
