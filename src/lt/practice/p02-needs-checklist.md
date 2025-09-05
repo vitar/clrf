@@ -12,9 +12,9 @@
 
 ## 2. Emociniai / psichologiniai
 
-☐ Meilė ir prisirišimas (jausmas būti mylimam/reikalingam)
+☐ Meilė ir prisirišimas (jausmas būti mylimam ir reikalingam)
 
-☐ Pripažinimas ir pagarba (vertė partnerio akyse)
+☐ Pripažinimas ir pagarba (būti vertinamam partnerio akyse)
 
 ☐ Palaikymas ir dėmesys (empatija, rūpestis)
 
@@ -26,7 +26,7 @@
 
 ☐ Savirealizacija (prasmingumo ir pasiekimo jausmas)
 
-☐ Naujos patirtys ir įspūdžiai (kelionės, hobiai, naujos praktikos)
+☐ Naujovės ir patirtys (kelionės, hobiai, naujos praktikos)
 
 ## 4. Bendri / poriniai
 
@@ -40,11 +40,11 @@
 
 ## 5. Socialiniai / išoriniai
 
-☐ Pripažinimas kaip poros (iš šeimos, draugų, aplinkos)
+☐ Poros pripažinimas (iš šeimos, draugų, bendruomenės)
 
-☐ Socialinis palaikymas (kad nebūtų izoliacijos)
+☐ Socialinis palaikymas (vengiant izoliacijos)
 
-☐ Darna su aplinka (mažiau spaudimo iš išorės)
+☐ Darna su aplinka (minimalus išorinis spaudimas)
 
 Mano pastabos ir papildymai
 ____________________________________________________________
