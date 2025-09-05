@@ -1,11 +1,11 @@
 # 10 skyrius. Pabaiga
 
-„Couple Life System“ karkasas siūlo struktūrą, padedančią poroms sąmoningai žiūrėti į santykius. Jis remiasi trimis lygiais: sąlygomis, poreikiais ir funkcijomis. Šie lygiai sudaro pagrindą įvertinimui, vizijai ir pokyčiams.
+„Couple Life Reflection Framework“ karkasas siūlo struktūrą, padedančią poroms sąmoningai žiūrėti į santykius. Jis remiasi trimis lygiais: sąlygomis, poreikiais ir funkcijomis. Šie lygiai sudaro pagrindą diagnostikai, vizijai ir pokyčiams.
 
 ## 1. Karkaso santrauka
 
 - Sąlygos – fonas ir aplinka, darantys įtaką santykiams.
-- Poreikiai – vidiniai prašymai, formuojantys motyvaciją.
+- Poreikiai – vidiniai poreikiai, formuojantys motyvaciją.
 - Funkcijos – veiksmai ir mechanizmai, patenkinantys poreikius.
 
 Kartu jie sudaro žemėlapį, padedantį suprasti, kur esame ir kur norime judėti.
@@ -22,7 +22,7 @@ Karkasas leidžia:
 
 ## 3. Naudojimas gyvenime
 
-Šis įrankis nepakeičia emocijų ar intuicijos. Jis padeda joms įgauti formą. Galite naudoti jį reguliariai arba grįžti, kai jaučiate, kad santykiams reikia atnaujinimo ir peržiūros.
+Šis įrankis nepakeičia emocijų ar intuicijos. Jis padeda joms įgauti formą. Galite naudoti jį reguliariai arba grįžti, kai jaučiate, kad santykiams reikia atnaujinimo ar peržiūros.
 
 ## 4. Baigiamasis žodis
 
