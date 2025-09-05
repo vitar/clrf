@@ -8,7 +8,7 @@ Kiekvienas partneris formuluoja savo ateities vaizdą. Svarbu rašyti pirmuoju a
 
 ## 2. Partnerio vizija kito akimis
 
-Naudinga praktika – aprašyti, kaip įsivaizduojate partnerio viziją. Pavyzdžiui: „Manau, tau svarbu…“. Tai padeda atskleisti nesusipratimus ir patikrinti, kiek gerai pažįstate vienas kitą.
+Naudinga praktika – aprašyti, kaip įsivaizduojate partnerio viziją. Pavyzdžiui: „Manau, tau svarbu…“. Tai padeda atskleisti nesusipratimus ir patikrinti, kaip gerai pažįstate vienas kitą.
 
 ## 3. Bendra vizija
 
@@ -16,7 +16,7 @@ Kai kiekvienas pasidalija savo vizija, kuriamas bendras ateities vaizdas. Jis ap
 
 ## 4. Asmeninių tikslų ir fantazijų pripažinimas
 
-Ne visos asmeninės svajonės ir fantazijos gali būti įgyvendintos. Tačiau jų pripažinimas svarbus: jos atskleidžia vertybes ir norus. Fantazija „namas prie jūros“ gali reikšti vertę „ramybė ir erdvė“. Tokias vertybes galima atsižvelgti kuriant bendrą viziją, net jei pati svajonė lieka asmeniška.
+Ne visos asmeninės svajonės ir fantazijos gali būti įgyvendintos. Tačiau jų pripažinimas svarbus: jos atskleidžia vertybes ir norus. Fantazija „namas prie jūros“ gali reikšti vertę „ramybė ir erdvė“. Į tokias vertybes galima atsižvelgti kuriant bendrą viziją, net jei pati svajonė lieka asmeniška.
 
 ## 5. Vizijų palyginimas ir sintezė
 
