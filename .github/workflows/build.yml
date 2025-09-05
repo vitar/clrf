@@ -1,4 +1,4 @@
-name: build
+name: build-and-deploy
 
 on:
   push:
@@ -8,6 +8,11 @@ on:
 concurrency:
   group: build-${{ github.ref }}
   cancel-in-progress: true
+
+permissions:
+  contents: read
+  pages: write      # нужно для deploy-pages
+  id-token: write   # нужно для OIDC при деплое
 
 jobs:
   build:
@@ -33,18 +38,37 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y pandoc wkhtmltopdf
 
-      - name: Build site
+      - name: Build site (MkDocs)
         run: mkdocs build -d dist/site
 
-      - name: Build PDFs
+      - name: Build PDFs (Pandoc → wkhtmltopdf)
         run: make pdf
 
-      - name: Build DOCX
+      - name: Build DOCX (Pandoc)
         run: make docx
 
-      - name: Upload build artifacts
+      # 1) Артефакт всего dist (PDF/DOCX для скачивания с вкладки Actions)
+      - name: Upload dist artifacts
         uses: actions/upload-artifact@v4
         with:
           name: dist
           path: dist
           if-no-files-found: warn
+
+      # 2) Артефакт сайта для GitHub Pages
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist/site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
