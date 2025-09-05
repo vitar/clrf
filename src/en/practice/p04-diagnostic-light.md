@@ -1,3 +1,7 @@
+# Practice 4. Diagnostic Light
+
+This simplified diagnostic will help each partner note the main conditions, needs, and functions at the moment. Fill it out individually first, then discuss together.
+
 ### 1. Choose up to 5 key conditions that influence your life now:
 
 ____________________________________________________________
