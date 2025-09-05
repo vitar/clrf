@@ -8,7 +8,7 @@ Karkasas reikalingas, kad atsirastų struktūra ir aiškumas. Jis padeda suprast
 
 ## 2. Fantazinių vizijų problema
 
-Be įvertinimo partneriai dažnai kuria ateities vizijas fantazijų pavidalu. Šie paveikslai gali būti per daug asmeniški ir toli nuo realybės. Tokių fantazijų palyginimas gali sukelti nusivylimą ar nesuderinamumo jausmą, nors pagrinde yra bendras potencialas.
+Be diagnostikos partneriai dažnai kuria ateities vizijas fantazijų pavidalu. Šie paveikslai gali būti per daug asmeniški ir toli nuo realybės. Tokių fantazijų palyginimas gali sukelti nusivylimą ar nesuderinamumo jausmą, nors slypi bendras potencialas.
 
 Karkasas padeda nuleisti vizijas ant žemės: kurti jas remiantis realiomis sąlygomis ir poreikiais.
 
@@ -17,10 +17,10 @@ Karkasas padeda nuleisti vizijas ant žemės: kurti jas remiantis realiomis sąl
 Sistema remiasi trijų lygių modeliu:
 
 - Sąlygos: faktai ir aplinka, kurioje gyvename.
-- Poreikiai: vidiniai prašymai, susiformuojantys esant sąlygoms.
+- Poreikiai: vidiniai poreikiai, kylantys esant sąlygoms.
 - Funkcijos: veiksmai ir mechanizmai, kuriais patenkiname poreikius.
 
-Ši logika universali ir padeda atskirti foną, prašymą ir veikimo būdą.
+Ši logika yra universali ir padeda atskirti foną, prašymą ir veikimo būdą.
 
 ## 4. „Aš“ ir „Mes“ balansas
 
@@ -38,5 +38,5 @@ Karkasas nediktuoja paruoštų sprendimų, o pateikia žemėlapį. Remdamasi juo
 1. Dabartinių sąlygų, poreikių ir funkcijų įvertinimas.
 2. Ateities vizijų kūrimas (individualių ir bendrų).
 3. Reikalingų pokyčių nustatymas.
-4. Žingsnių prioritetų sudėliojimas.
+4. Žingsnių prioritetų nustatymas.
 5. Sąveikos principų ir strategijų parengimas.
