@@ -1,8 +1,8 @@
 # Practice 9. RACI
 
-This practice helps distribute roles and responsibilities in the couple. The method is based on the RACI principle: Responsible (executor), Accountable (final responsible), Consulted (who we consult), Informed (who we inform). Fill the table together to reduce misunderstandings and conflicts.
+This practice helps distribute roles and responsibilities in the couple. The method is based on the RACI principle: Responsible (who does the work), Accountable (who is ultimately answerable and approves the result), Consulted (whose opinions are sought before a decision), Informed (who is kept updated after decisions and actions). Fill the table together to reduce misunderstandings and conflicts.
 
-| Area / task                            | Responsible (who does) | Accountable (who is answerable) | Consulted (who we consult) | Informed (who we inform) |
+| Area / task | Responsible (who does the work) | Accountable (who is ultimately answerable and approves) | Consulted (whose opinions are sought) | Informed (who is kept updated) |
 |---------------------------------------|------------------------|---------------------------------|----------------------------|--------------------------|
 | Finances (budget, payments)           |                        |                                 |                            |                          |
 |---------------------------------------|------------------------|---------------------------------|----------------------------|--------------------------|
