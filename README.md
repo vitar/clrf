@@ -1,19 +1,21 @@
 # CL/RF — Couple Life Reflection Framework
 
-Инженерный набор: теория + практики для пар. Исходники в Markdown, сборка в HTML/PDF/DOCX.
+Engineering toolkit: theory and practice for couples. Sources are written in Markdown and can be built into HTML/PDF/DOCX.
 
-## Структура
-- `src/ru` — русская версия (theory + practice)
-- `assets` — шаблоны и изображения
-- `dist` — артефакты сборки (генерируется)
-- `mkdocs.yml` — сайт документации
-- `Makefile` — локальная сборка
-- `.github/workflows/build.yml` — CI сборка
+## Structure
+- `src/en` — English version (theory + practice)
+- `src/lt` — Lithuanian version (theory + practice)
+- `src/ru` — Russian version (theory + practice)
+- `assets` — templates and images
+- `dist` — build artifacts (generated)
+- `mkdocs.yml` — documentation site configuration
+- `Makefile` — local build commands
+- `.github/workflows/build.yml` — CI build pipeline
 
-## Быстрый старт
+## Quick start
 ```bash
 pip install mkdocs mkdocs-material
-sudo apt-get install -y pandoc wkhtmltopdf   # либо weasyprint
+sudo apt-get install -y pandoc wkhtmltopdf   # or weasyprint
 make site
 make pdf
 make docx
