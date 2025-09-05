@@ -12,7 +12,7 @@ Sąlygos – tai fonas ir aplinka, kurioje gyvena pora. Jos sukuria rėmus, kuri
 
 ## 1. Materialios sąlygos
 
-Tai būstas, pajamų lygis, finansinis stabilumas, namų ruošos pasidalijimas ir patogios buities buvimas. Materialios sąlygos formuoja bazinį stabilumą. Pavyzdžiui, ribotas būstas gali kelti įtampą, o finansinis nestabilumas – didinti nerimą.
+Tai būstas, pajamų lygis, finansinis stabilumas, namų ruošos pasidalijimas ir patogus kasdienis ritmas. Materialios sąlygos formuoja bazinį stabilumą. Pavyzdžiui, ribotas būstas gali kelti įtampą, o finansinis nestabilumas – didinti nerimą.
 
 ## 2. Laiko sąlygos
 
@@ -20,7 +20,7 @@ Laikas yra pagrindinis santykių išteklius. Darbo grafikai, laisvo laiko sutapi
 
 ## 3. Socialinės sąlygos
 
-Šeima, vaikai, giminaičiai ir jų dalyvavimas poros gyvenime gali būti ir paramos šaltinis, ir spaudimo faktorius. Draugai ir bendruomenė suteikia priklausymo jausmą, bet kartais sukelia lūkesčius. Socialiniai vaidmenys (pavyzdžiui, profesinis statusas) taip pat uždeda savo įsipareigojimus.
+Šeima, vaikai, giminaičiai ir jų dalyvavimas poros gyvenime gali būti ir paramos šaltinis, ir spaudimo faktorius. Draugai ir bendruomenė suteikia priklausymo jausmą, bet kartais sukelia lūkesčius. Socialiniai vaidmenys (pavyzdžiui, profesinis statusas) taip pat sukuria įsipareigojimus.
 
 ## 4. Kultūrinės ir vertybinės sąlygos
 
