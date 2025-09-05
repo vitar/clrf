@@ -30,7 +30,6 @@ plugins:
 # Плагин сам переключит префикс на en/ lt/ при смене языка.
 nav:
   - index.md
-  - ru/index.md
   - ru/theory/00-cover.md
   - ru/theory/01-preface.md
   - ru/theory/10-intro.md

@@ -1,6 +1,4 @@
-> CL/RF _
-
-# Couple Life Reflection Framework
+# > CL/RF _ Couple Life Reflection Framework
 
 **Практический инструмент для понимания, визий и изменений в отношениях**
 
