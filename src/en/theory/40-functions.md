@@ -1,6 +1,6 @@
 # Chapter 4. Functions
 
-Functions are ways of action through which the couple and each partner satisfy their needs under given conditions. Functions are divided into shared (working for the couple) and personal (working for each individually). Their balance determines relationship stability.
+Functions are ways of acting through which the couple and each partner satisfy their needs under given conditions. Functions are divided into shared (that serve the couple) and personal (that serve each individual). Their balance determines the stability of the relationship.
 
 ## Categories of functions
 
@@ -11,19 +11,19 @@ Functions are ways of action through which the couple and each partner satisfy t
 
 They include:
 
-- Communication (discussing emotions, decision-making, conflict handling).
+- Communication (discussing emotions, decision-making, conflict resolution).
 - Support (emotional, practical, financial).
-- Cooperation (distribution of duties, agreements, flexibility).
+- Cooperation (division of duties, agreements, and flexibility).
 - Intimacy (physical, emotional, intellectual).
 - Joint development (projects, learning, rituals, new experiences).
 
-These functions form the foundation of “we”.
+These functions form the foundation of the “we”.
 
 ## 2. Personal functions
 
 They include:
 
-- Self-support (health, stress management, rest).
+- Self-care (health, stress management, rest).
 - Emotional work (self-reflection, self-regulation, self-worth).
 - Hobbies and interests (creativity, sports, pursuits).
 - Social self-realization (work, friends, contribution to society).
@@ -35,8 +35,8 @@ These functions help a person stay fulfilled and avoid overloading the relations
 
 Strong personal functions ease the shared ones: for example, if a person can cope with stress, the partner does not become the sole source of support. Weak personal functions, on the contrary, overload the relationship: when there are no hobbies or friends, the partner has to compensate for everything.
 
-Balance is achieved when personal and shared do not contradict but reinforce each other.
+Balance is achieved when personal and shared do not contradict each other but reinforce one another.
 
 ## Conclusion
 
-Functions are not obligations or rules. They are mechanisms activated to satisfy needs. They can be implemented through different practices, and this is where the flexibility of the framework lies.
+Functions are not obligations or rules. They are mechanisms activated to satisfy needs. They can be implemented through different practices, and this is where the framework’s flexibility comes from.
