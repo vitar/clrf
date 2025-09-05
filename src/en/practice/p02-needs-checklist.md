@@ -1,20 +1,22 @@
 # Practice 2. Needs Checklist
 
-This checklist will help capture personal and shared needs. Choose the most significant for you and add your own if necessary. You can also set priorities (for example, from 1 to 5).
+This checklist will help you identify personal and shared needs.
+Choose the most significant ones for you and add your own if needed.
+You can also set priorities (for example, from 1 to 5).
 
 ## 1. Physiological / basic
 
 ☐ Health (sleep, nutrition, physical activity)
 
-☐ Sexual closeness
+☐ Sexual intimacy
 
 ☐ Safety (housing, financial stability)
 
 ## 2. Emotional / psychological
 
-☐ Love and attachment (feeling loved/needed)
+☐ Love and attachment (feeling loved and needed)
 
-☐ Recognition and respect (value in the partner’s eyes)
+☐ Recognition and respect (feeling valued in your partner’s eyes)
 
 ☐ Support and attention (empathy, care)
 
@@ -26,25 +28,25 @@ This checklist will help capture personal and shared needs. Choose the most sign
 
 ☐ Self-realization (sense of meaning and achievement)
 
-☐ Novelty and impressions (travel, hobbies, new practices)
+☐ Novelty and experiences (travel, hobbies, new practices)
 
 ## 4. Shared / couple
 
-☐ Common goals (family future, projects, plans)
+☐ Common goals (the family's future, projects, plans)
 
-☐ Traditions and rituals (joint holidays, habits)
+☐ Traditions and rituals (shared holidays, routines)
 
-☐ Shared time (quality, not only quantity)
+☐ Shared time (quality, not just quantity)
 
 ☐ Sense of “we” (identity of the couple, not just two individuals)
 
 ## 5. Social / external
 
-☐ Recognition as a couple (from family, friends, environment)
+☐ Recognition as a couple (from family, friends, and the community)
 
-☐ Social support (not to be isolated)
+☐ Social support (to avoid isolation)
 
-☐ Harmony with the environment (minimal external pressure)
+☐ Harmony with the surrounding environment (minimal external pressure)
 
 My notes and additions
 ____________________________________________________________
