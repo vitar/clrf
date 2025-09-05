@@ -15,45 +15,47 @@ plugins:
   - search
   - i18n:
       languages:
-        - locale: ru
-          name: Русский
-          default: true
-          build: true
         - locale: en
           name: English
+          default: true
+          build: true
+        - locale: ru
+          name: Русский
+          default: false
           build: true
         - locale: lt
           name: Lietuvių
+          default: false
           build: true
 
 # Навигация задаётся для дефолтного языка (ru).
 # Плагин сам переключит префикс на en/ lt/ при смене языка.
 nav:
   - index.md
-  - ru/theory/00-cover.md
-  - ru/theory/01-preface.md
-  - ru/theory/10-intro.md
-  - ru/theory/20-conditions.md
-  - ru/theory/30-needs.md
-  - ru/theory/40-functions.md
-  - ru/theory/50-links.md
-  - ru/theory/60-vision.md
-  - ru/theory/70-changes.md
-  - ru/theory/80-priorities-strategy.md
-  - ru/theory/90-practices-toolbox.md
-  - ru/theory/99-outro.md
-  - ru/practice/p01-conditions-checklist.md
-  - ru/practice/p02-needs-checklist.md
-  - ru/practice/p03-functions-checklist.md
-  - ru/practice/p04-diagnostic-light.md
-  - ru/practice/p05-individual-vision.md
-  - ru/practice/p06-change-table.md
-  - ru/practice/p07-priority-matrix.md
-  - ru/practice/p08-retrospective.md
-  - ru/practice/p09-raci.md
-  - ru/practice/p10-rituals-map.md
-  - ru/practice/p11-personal-functions.md
-  - ru/practice/p12-shared-vision.md
+  - theory/00-cover.md
+  - theory/01-preface.md
+  - theory/10-intro.md
+  - theory/20-conditions.md
+  - theory/30-needs.md
+  - theory/40-functions.md
+  - theory/50-links.md
+  - theory/60-vision.md
+  - theory/70-changes.md
+  - theory/80-priorities-strategy.md
+  - theory/90-practices-toolbox.md
+  - theory/99-outro.md
+  - practice/p01-conditions-checklist.md
+  - practice/p02-needs-checklist.md
+  - practice/p03-functions-checklist.md
+  - practice/p04-diagnostic-light.md
+  - practice/p05-individual-vision.md
+  - practice/p06-change-table.md
+  - practice/p07-priority-matrix.md
+  - practice/p08-retrospective.md
+  - practice/p09-raci.md
+  - practice/p10-rituals-map.md
+  - practice/p11-personal-functions.md
+  - practice/p12-shared-vision.md
 
 markdown_extensions:
   - admonition
