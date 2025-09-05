@@ -6,7 +6,7 @@
 
 ☐ Bendravimas – emocijų ir problemų aptarimas
 
-☐ Sprendimų priėmimas – kaip renkamės ir derinamės
+☐ Sprendimų priėmimas – kaip renkamės ir sutariame
 
 ☐ Konfliktai – kaip ginčijamės ir atkuriame pasitikėjimą
 
@@ -30,11 +30,11 @@
 
 ☐ Bendras vystymasis – tradicijos ir ritualai
 
-☐ Bendras vystymasis – nauji įspūdžiai
+☐ Bendras vystymasis – nauji patyrimai
 
 ## 2. Asmeninės funkcijos
 
-☐ Savipalaika – sveikata, poilsis, streso valdymas
+☐ Savigloba – sveikata, poilsis, streso valdymas
 
 ☐ Emocinis darbas – savirefleksija, savireguliacija
 
@@ -50,7 +50,7 @@
 
 ☐ Dvasinės praktikos – tikėjimas, filosofija, meditacija
 
-☐ Naujos patirtys – eksperimentai, kelionės
+☐ Naujovės – eksperimentai, kelionės
 
 ☐ Autonomija – asmeninė erdvė, laikas sau
 
