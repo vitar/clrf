@@ -1,12 +1,11 @@
 site_name: CL/RF — Couple Life Reflection Framework
 site_url: https://vitar.github.io/clrf
 
-# ВАЖНО: контент лежит в src/<lang>/
+# Контент лежит в src/<locale>/...
 docs_dir: src
 
 theme:
   name: material
-  # язык темы будет подставляться плагином i18n автоматически
   features:
     - navigation.sections
     - navigation.expand
@@ -17,12 +16,13 @@ plugins:
   - i18n:
       default_language: ru
       languages:
-        ru: Русский
-        en: English
-        lt: Lietuvių
-      # Папки-языки:
-      docs_structure: suffix     # ожидает src/<lang>/...
-      # Локализация заголовков навигации:
+        - locale: ru
+          name: Русский
+        - locale: en
+          name: English
+        - locale: lt
+          name: Lietuvių
+      # Переименования пунктов меню (опционально)
       nav_translations:
         ru:
           Cover: "Обложка"
@@ -70,8 +70,8 @@ plugins:
           Toolbox: "Praktikos"
           Outro: "Pabaiga"
 
-# Навигация задаётся ОДИН раз (для дефолтного языка ru);
-# плагин подменит пути на en/ lt/ при переключении языка.
+# Навигация задаётся для дефолтного языка (ru).
+# Плагин сам переключит префикс на en/ lt/ при смене языка.
 nav:
   - Cover: ru/theory/00-cover.md
   - Preface: ru/theory/01-preface.md
