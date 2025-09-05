@@ -15,7 +15,7 @@ Joms priskiriama:
 - Palaikymas (emocinis, praktinis, finansinis).
 - Bendradarbiavimas (pareigų pasiskirstymas, susitarimai, lankstumas).
 - Intymumas (fizinis, emocinis, intelektinis).
-- Bendras vystymasis (projektai, mokymasis, ritualai, nauji įspūdžiai).
+- Bendras vystymasis (projektai, mokymasis, ritualai, nauji patyrimai).
 
 Šios funkcijos formuoja „mes“ pagrindą.
 
@@ -23,19 +23,19 @@ Joms priskiriama:
 
 Joms priskiriama:
 
-- Savipalaika (sveikata, streso valdymas, poilsis).
+- Savigloba (sveikata, streso valdymas, poilsis).
 - Emocinis darbas (savirefleksija, savireguliacija, savivertė).
 - Hobiai ir interesai (kūryba, sportas, pomėgiai).
 - Socialinė savirealizacija (darbas, draugai, indėlis visuomenei).
 - Asmeninis tobulėjimas (mokymasis, dvasinės praktikos, nauji patyrimai).
 
-Šios funkcijos padeda žmogui būti užpildytam ir neperkrauti santykių.
+Šios funkcijos padeda žmogui jaustis pilnaverčiu ir neperkrauti santykių.
 
 ## Asmeninių ir bendrų funkcijų balansas
 
 Stiprios asmeninės funkcijos palengvina bendras: pavyzdžiui, jei žmogus moka susitvarkyti su stresu, partneris netampa vieninteliu palaikymo šaltiniu. Silpnos asmeninės funkcijos, priešingai, perkrauna santykius: kai nėra hobių ar draugų, partneris priverstas kompensuoti viską.
 
-Balansas pasiekiamas tada, kai asmeniška ir bendra neprieštarauja, o papildo viena kitą.
+Balansas pasiekiamas tada, kai asmeninės ir bendros funkcijos neprieštarauja, o papildo viena kitą.
 
 ## Išvada
 
