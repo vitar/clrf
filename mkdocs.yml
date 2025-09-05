@@ -29,6 +29,7 @@ plugins:
 # Навигация задаётся для дефолтного языка (ru).
 # Плагин сам переключит префикс на en/ lt/ при смене языка.
 nav:
+  - Index: ru/index.md
   - Cover: ru/theory/00-cover.md
   - Preface: ru/theory/01-preface.md
   - Theory:
