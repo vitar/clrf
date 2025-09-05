@@ -5,7 +5,7 @@ Pokyčiai – tai tiltas tarp dabartinės situacijos ir ateities vizijos. Jie le
 ## 1. Pokyčių kategorijos
 
 - Kardinalūs – dideli, ilgalaikiai žingsniai (persikraustymas, darbo keitimas, sprendimas dėl vaikų).
-- Kompromisiniai – suderintos susitarimų formos (pareigų pasidalijimas, grafikai, ribos su giminaičiais).
+- Kompromisiniai – susitarimai (pareigų pasidalijimas, grafikai, ribos su giminaičiais).
 - Mikro pokyčiai – maži įpročiai ir ritualai (vakarienė be telefonų, kasdieniai komplimentai, bendras rytinis kavos puodelis).
 
 ## 2. Skirtumo analizė
@@ -24,7 +24,7 @@ Pavyzdys 1
 
 - Dabartinė būklė: mažai bendro laiko.
 - Norima ateitis: daugiau emocinio artumo.
-- Pokytis: įvesti savaitinį vakarą be gadžetų (mikro pokytis).
+- Pokytis: įvesti savaitinį vakarą be įrenginių (mikro pokytis).
 
 Pavyzdys 2
 
@@ -35,7 +35,7 @@ Pavyzdys 2
 Pavyzdys 3
 
 - Dabartinė būklė: konfliktai dėl buities.
-- Norima ateitis: teisingas pasiskirstymas.
+- Norima ateitis: teisingas pareigų pasiskirstymas.
 - Pokytis: sudaryti pareigų sąrašą ir jį perskirstyti (kompromisinis).
 
 ## 4. Bendri ir asmeniniai pokyčiai
