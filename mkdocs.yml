@@ -29,33 +29,31 @@ plugins:
 # Навигация задаётся для дефолтного языка (ru).
 # Плагин сам переключит префикс на en/ lt/ при смене языка.
 nav:
-  - Index: ru/index.md
-  - Cover: ru/theory/00-cover.md
-  - Preface: ru/theory/01-preface.md
-  - Theory:
-      - Intro: ru/theory/10-intro.md
-      - Conditions: ru/theory/20-conditions.md
-      - Needs: ru/theory/30-needs.md
-      - Functions: ru/theory/40-functions.md
-      - Links: ru/theory/50-links.md
-      - Vision: ru/theory/60-vision.md
-      - Changes: ru/theory/70-changes.md
-      - Priorities & Strategy: ru/theory/80-priorities-strategy.md
-      - Toolbox: ru/theory/90-practices-toolbox.md
-      - Outro: ru/theory/99-outro.md
-  - Practice:
-      - ru/practice/p01-conditions-checklist.md
-      - ru/practice/p02-needs-checklist.md
-      - ru/practice/p03-functions-checklist.md
-      - ru/practice/p04-diagnostic-light.md
-      - ru/practice/p05-individual-vision.md
-      - ru/practice/p06-change-table.md
-      - ru/practice/p07-priority-matrix.md
-      - ru/practice/p08-retrospective.md
-      - ru/practice/p09-raci.md
-      - ru/practice/p10-rituals-map.md
-      - ru/practice/p11-personal-functions.md
-      - ru/practice/p12-shared-vision.md
+  - ru/index.md
+  - ru/theory/00-cover.md
+  - ru/theory/01-preface.md
+  - ru/theory/10-intro.md
+  - ru/theory/20-conditions.md
+  - ru/theory/30-needs.md
+  - ru/theory/40-functions.md
+  - ru/theory/50-links.md
+  - ru/theory/60-vision.md
+  - ru/theory/70-changes.md
+  - ru/theory/80-priorities-strategy.md
+  - ru/theory/90-practices-toolbox.md
+  - ru/theory/99-outro.md
+  - ru/practice/p01-conditions-checklist.md
+  - ru/practice/p02-needs-checklist.md
+  - ru/practice/p03-functions-checklist.md
+  - ru/practice/p04-diagnostic-light.md
+  - ru/practice/p05-individual-vision.md
+  - ru/practice/p06-change-table.md
+  - ru/practice/p07-priority-matrix.md
+  - ru/practice/p08-retrospective.md
+  - ru/practice/p09-raci.md
+  - ru/practice/p10-rituals-map.md
+  - ru/practice/p11-personal-functions.md
+  - ru/practice/p12-shared-vision.md
 
 markdown_extensions:
   - admonition
