@@ -14,6 +14,7 @@ theme:
 plugins:
   - search
   - i18n:
+      docs_structure: folder
       languages:
         - locale: en
           name: English
@@ -28,8 +29,8 @@ plugins:
           default: false
           build: true
 
-# Навигация задаётся для дефолтного языка (ru).
-# Плагин сам переключит префикс на en/ lt/ при смене языка.
+# Навигация задаётся для дефолтного языка.
+# Плагин сам переключит префикс на en/ ru/ lt/ при смене языка.
 nav:
   - index.md
   - theory/00-cover.md
