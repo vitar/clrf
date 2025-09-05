@@ -33,9 +33,9 @@ site:
 
 pdf:
 	mkdir -p dist/pdf
-	pandoc $(THEORY_RU) -o dist/pdf/clrf-ru-theory.pdf --toc --metadata title="CL/RF — Теория"
-	pandoc $(PRACTICE_RU) -o dist/pdf/clrf-ru-practice.pdf --toc --metadata title="CL/RF — Практика"
-
+	pandoc $(THEORY_RU) -o dist/pdf/clrf-ru-theory.pdf --toc --metadata title="CL/RF — Теория" --pdf-engine=wkhtmltopdf
+	pandoc $(PRACTICE_RU) -o dist/pdf/clrf-ru-practice.pdf --toc --metadata title="CL/RF — Практика" --pdf-engine=wkhtmltopdf
+  
 docx:
 	mkdir -p dist/docx
 	pandoc $(THEORY_RU) -o dist/docx/clrf-ru-theory.docx --reference-doc=assets/templates/reference.docx --toc

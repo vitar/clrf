@@ -25,53 +25,6 @@ plugins:
         - locale: lt
           name: Lietuvių
           build: false
-      # Переименования пунктов меню (опционально)
-      nav_translations:
-        ru:
-          Cover: "Обложка"
-          Preface: "Предисловие"
-          Theory: "Теория"
-          Practice: "Практики"
-          Intro: "Введение"
-          Conditions: "Условия"
-          Needs: "Потребности"
-          Functions: "Функции"
-          Links: "Связки"
-          Vision: "Визия"
-          Changes: "Изменения"
-          Priorities & Strategy: "Приоритезация и стратегия"
-          Toolbox: "Практики"
-          Outro: "Заключение"
-        en:
-          Cover: "Cover"
-          Preface: "Preface"
-          Theory: "Theory"
-          Practice: "Practice"
-          Intro: "Introduction"
-          Conditions: "Conditions"
-          Needs: "Needs"
-          Functions: "Functions"
-          Links: "Linkages"
-          Vision: "Vision"
-          Changes: "Changes"
-          Priorities & Strategy: "Priorities & Strategy"
-          Toolbox: "Practices"
-          Outro: "Conclusion"
-        lt:
-          Cover: "Viršelis"
-          Preface: "Pratarmė"
-          Theory: "Teorija"
-          Practice: "Praktikos"
-          Intro: "Įvadas"
-          Conditions: "Sąlygos"
-          Needs: "Poreikiai"
-          Functions: "Funkcijos"
-          Links: "Sąsajos"
-          Vision: "Vizija"
-          Changes: "Pokyčiai"
-          Priorities & Strategy: "Prioritetai ir strategija"
-          Toolbox: "Praktikos"
-          Outro: "Pabaiga"
 
 # Навигация задаётся для дефолтного языка (ru).
 # Плагин сам переключит префикс на en/ lt/ при смене языка.
