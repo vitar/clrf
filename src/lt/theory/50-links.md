@@ -1,6 +1,6 @@
 # 5 skyrius. Sąsajos
 
-Sąlygos, poreikiai ir funkcijos neegzistuoja atskirai. Juos sieja seka: Sąlyga → Poreikis → Funkcija. Ši logika padeda suprasti, kaip realybė formuoja prašymus, o prašymai lemia veiksmus.
+Sąlygos, poreikiai ir funkcijos neegzistuoja atskirai. Juos sieja seka: Sąlyga → Poreikis → Funkcija. Ši logika padeda suprasti, kaip realybė formuoja poreikius, o poreikiai lemia veiksmus.
 
 ## 1. Sąlyga → Poreikis
 
@@ -22,9 +22,9 @@ Pavyzdžiai:
 
 ## 3. Asmeninės funkcijos ir jų įtaka bendroms
 
-Stiprios asmeninės funkcijos mažina bendrųjų krūvį. Pavyzdžiui, jei žmogus moka valdyti stresą, konfliktų mažiau. Jei turi hobių ir socialinių ryšių, partneris netampa vieninteliu džiaugsmo ir pripažinimo šaltiniu.
+Stiprios asmeninės funkcijos mažina bendrųjų funkcijų krūvį. Pavyzdžiui, jei žmogus moka valdyti stresą, konfliktų mažiau. Jei turi hobių ir socialinių ryšių, partneris netampa vieninteliu džiaugsmo ir pripažinimo šaltiniu.
 
-Silpnos asmeninės funkcijos padidina bendrųjų krūvį: autonomijos, draugų ar savireguliacijos stoka gali kelti per didelius lūkesčius ir įtampą.
+Silpnos asmeninės funkcijos padidina bendrųjų funkcijų krūvį: autonomijos, draugų ar savireguliacijos stoka gali kelti per didelius lūkesčius ir įtampą.
 
 ## 4. Universalioji formulė
 
