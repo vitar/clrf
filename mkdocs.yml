@@ -14,14 +14,17 @@ theme:
 plugins:
   - search
   - i18n:
-      default_language: ru
       languages:
         - locale: ru
           name: Русский
+          default: true
+          build: true
         - locale: en
           name: English
+          build: false
         - locale: lt
           name: Lietuvių
+          build: false
       # Переименования пунктов меню (опционально)
       nav_translations:
         ru:
