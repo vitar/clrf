@@ -1,6 +1,6 @@
 # Practice 5. Individual Vision
 
-This practice will help you formulate your vision of the future. Write answers freely. It is important to write in the first person (“I want…”, “I see myself…”) so the vision reflects your own desires and goals.
+This practice will help you articulate your vision of the future. Write your answers freely. It is important to write in the first person (“I want…”, “I see myself…”) so that the vision reflects your own desires and goals.
 
 ## Questions for reflection
 
@@ -14,7 +14,7 @@ ____________________________________________________________
 ____________________________________________________________
 ____________________________________________________________
 
-### 3. What is most important for me in a relationship?
+### 3. What is most important to me in a relationship?
 
 ____________________________________________________________
 ____________________________________________________________
@@ -23,7 +23,7 @@ ____________________________________________________________
 ____________________________________________________________
 ____________________________________________________________
 
-### 5. Which needs do I want to meet better than now?
+### 5. Which needs do I want to meet better than I do now?
 
 ____________________________________________________________
 ____________________________________________________________
@@ -33,11 +33,11 @@ ____________________________________________________________
 ____________________________________________________________
 ____________________________________________________________
 
-### 7. Which of my personal dreams and fantasies do I want to keep even if they are not fully realized?
+### 7. Which of my personal dreams and fantasies do I want to preserve, even if they are not fully realized?
 
 ____________________________________________________________
 ____________________________________________________________
 
 ## Conclusion
 
-After completing, discuss your vision with your partner. Comparing individual visions helps find the common core and see differences that can be considered in the joint picture of the future.
+After you complete it, discuss your vision with your partner. Comparing individual visions helps you find the common core and identify differences that can be incorporated into the shared picture of the future.
