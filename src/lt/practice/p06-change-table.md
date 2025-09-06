@@ -1,6 +1,6 @@
 # 6 praktika. Pokyčių lentelė
 
-Ši lentelė padės viziją apie ateitį paversti konkrečiais žingsniais. Pildykite ją kartu: nustatykite dabartinę būseną, aprašykite norimą ateitį, nurodykite pokyčio tipą (kardinalus, kompromisinis ar mikro) ir suplanuokite žingsnius.
+Ši lentelė padės ateities viziją paversti konkrečiais žingsniais. Pildykite ją kartu: nustatykite dabartinę būseną, aprašykite norimą ateitį, nurodykite pokyčio tipą – kardinalų, kompromisinį arba mikro – ir suplanuokite žingsnius.
 
 | Dabar | Norima ateitis | Pokyčio tipas | Žingsnių pavyzdžiai |
 |--------|------------------|---------------|---------------|
