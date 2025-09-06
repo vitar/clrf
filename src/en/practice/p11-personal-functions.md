@@ -1,15 +1,15 @@
 # Practice 11. Personal Functions
 
-This checklist helps each partner recognize which personal functions support their life and the relationship. Mark which ones are developed and which need attention.
+This checklist helps each partner identify which personal functions support their life and relationship. Check which ones are developed and which need attention.
 Personal functions
 
-☐ Self-support – health, rest, stress management
+☐ Self-care – health, rest, stress management
 
 ☐ Emotional work – self-reflection, self-regulation
 
 ☐ Self-worth – sense of personal significance
 
-☐ Hobbies and creativity – music, drawing, sport, etc.
+☐ Hobbies and creativity – music, drawing, sports, etc.
 
 ☐ Social connections – friends, community
 
@@ -19,7 +19,7 @@ Personal functions
 
 ☐ Spiritual practices – faith, philosophy, meditation
 
-☐ Novelty – experiments, travel
+☐ Novelty – experiments and travel
 
 ☐ Autonomy – personal space, time for oneself
 
@@ -37,4 +37,4 @@ ____________________________________________________________
 
 ## Conclusion
 
-Developing personal functions reduces the load on shared ones. When each person feels whole and steady, the relationship becomes more harmonious.
+Developing personal functions reduces the load on shared functions. When each person feels whole and steady, the relationship becomes more harmonious.
