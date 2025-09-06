@@ -1,10 +1,12 @@
 # Practice 10. Rituals Map
 
-Traditions and rituals create a sense of stability and closeness in a couple. They can be big family celebrations or small habits in daily life. This map will help record existing rituals and come up with new ones.
+Traditions and rituals create a sense of stability and closeness in your relationship. They
+can be big family celebrations or small everyday habits. This map will help you record
+existing rituals and come up with new ones.
 
 ### 1. Our existing traditions and rituals
 
-Examples: weekend breakfasts together, anniversary congratulations, annual vacation trip.
+Examples: weekend breakfasts together, anniversary celebrations, annual vacation.
 
 ____________________________________________________________
 ____________________________________________________________
@@ -20,7 +22,7 @@ ____________________________________________________________
 
 ### 3. Personal rituals I would like to keep
 
-Examples: evening reading, morning coffee alone, sport.
+Examples: evening reading, morning coffee alone, sports.
 
 ____________________________________________________________
 ____________________________________________________________
