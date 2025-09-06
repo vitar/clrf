@@ -1,7 +1,6 @@
-# 12 praktika. Bendra vizija
-# 12 praktika. Bendra vizija
+# Praktika 12. Bendra vizija
 
-Ši praktika padeda sukurti bendrą ateities vaizdą. Pirmiausia kiekvienas pasidalija savo individualia vizija, po to kartu kuriate bendrą. Joje turi būti bendras branduolys (kas sutampa) ir pagarbiai pripažinti skirtumai (kas lieka asmeniška).
+Ši praktika padeda sukurti bendrą ateities vaizdą. Pirmiausia, kiekvienas pasidalija savo individualia vizija, tuomet kartu kuriate bendrą. Joje turi būti bendras branduolys (kas sutampa) ir pagarbiai pripažinti skirtumai (tai, kas lieka asmeniška).
 
 ### 1. Mūsų bendras branduolys (sutapimai)
 
@@ -29,4 +28,4 @@ ____________________________________________________________
 
 ## Išvada
 
-Bendra vizija – gairė, o ne griežtas planas. Ji padeda judėti ta pačia kryptimi išsaugant kiekvieno partnerio individualumą.
+Bendra vizija – gairė, o ne griežtas planas. Ji padeda judėti ta pačia kryptimi, išsaugant kiekvieno partnerio individualumą.
