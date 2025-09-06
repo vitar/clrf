@@ -2,7 +2,7 @@
 
 Retrospektyva – tai bendras aptarimas, padedantis suprasti, kas santykiuose veikia, o ką galima pagerinti. Rekomenduojama ją rengti kartą per mėnesį arba ketvirtį.
 
-Klausimai aptarimui
+Klausimai aptarimui:
 
 ### 1. Kas mums šiuo laikotarpiu pavyko gerai?
 
@@ -24,11 +24,11 @@ ____________________________________________________________
 ____________________________________________________________
 ____________________________________________________________
 
-### 5. Ką pažadu pabandyti pakeisti/patobulinti?
+### 5. Ką pažadu pabandyti pakeisti ar patobulinti?
 
 ____________________________________________________________
 ____________________________________________________________
 
 ## Išvada
 
-Retrospektyva – ne kritika, o bendras gerinimo paieškų procesas. Svarbu išlaikyti pagarbią toną ir pažymėti teigiamus momentus.
+Retrospektyva – ne kritika, o bendras gerinimo paieškų procesas. Svarbu išlaikyti pagarbią toną ir pabrėžti teigiamus momentus.
