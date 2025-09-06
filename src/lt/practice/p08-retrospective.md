@@ -1,4 +1,4 @@
-# 8 praktika. Retrospektyvos šablonas
+# Praktika 8. Retrospektyvos šablonas
 
 Retrospektyva – tai bendras aptarimas, padedantis suprasti, kas santykiuose veikia, o ką galima pagerinti. Rekomenduojama ją rengti kartą per mėnesį arba ketvirtį.
 

@@ -1,4 +1,4 @@
-# 2 praktika. Poreikių kontrolinis sąrašas
+# Praktika 2. Poreikių kontrolinis sąrašas
 
 Šis sąrašas padės užfiksuoti asmeninius ir bendrus poreikius. Pasirinkite sau svarbiausius ir, jei reikia, papildykite savais. Taip pat galite nustatyti prioritetus (pvz., nuo 1 iki 5).
 

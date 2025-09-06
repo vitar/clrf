@@ -1,4 +1,4 @@
-# 3 praktika. Funkcijų kontrolinis sąrašas
+# Praktika 3. Funkcijų kontrolinis sąrašas
 
 Šis sąrašas padės pažymėti funkcijas, kurios veikia gerai, ir tas, kurias norėtųsi pagerinti. Pažymėkite arba užsirašykite dabartinę kiekvienos funkcijos būseną.
 

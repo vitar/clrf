@@ -1,4 +1,4 @@
-# 4 praktika. Supaprastinta diagnostika
+# Praktika 4. Supaprastinta diagnostika
 
 Ši supaprastinta diagnostika padės kiekvienam partneriui užfiksuoti pagrindines sąlygas, poreikius ir funkcijas šiuo metu. Pirmiausia užpildykite individualiai, tuomet aptarkite kartu.
 

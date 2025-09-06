@@ -1,4 +1,4 @@
-# 5 praktika. Asmeninė vizija
+# Praktika 5. Asmeninė vizija
 
 Ši praktika padės suformuluoti jūsų ateities viziją. Atsakymus rašykite laisva forma. Svarbu rašyti pirmuoju asmeniu („Aš noriu…“, „Aš matau save…“), kad vizija atspindėtų būtent jūsų norus ir tikslus.
 

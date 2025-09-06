@@ -1,4 +1,4 @@
-# 7 praktika. Prioritetų matrica
+# Praktika 7. Prioritetų matrica
 
 Ši matrica padeda išdėstyti pasirinktus pokyčius pagal prioritetus. Paskirstykite juos į keturis kvadrantus pagal svarbą ir skubumą. Naudokite ją kaip bendro aptarimo įrankį.
 
