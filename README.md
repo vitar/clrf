@@ -2,6 +2,8 @@
 
 Engineering toolkit: theory and practice for couples. Sources are written in Markdown and can be built into HTML/PDF/DOCX.
 
+The book website is published at https://vitar.github.io/clrf/.
+
 ## Structure
 - `src/en` — English version (theory + practice)
 - `src/lt` — Lithuanian version (theory + practice)
