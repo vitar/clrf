@@ -40,4 +40,4 @@ ____________________________________________________________
 
 ## Išvada
 
-Užpildę, aptarkite savo viziją su partneriu. Individualių vizijų palyginimas padeda rasti bendrą branduolį ir pamatyti skirtumus, kuriuos galima įtraukti į bendrą ateities paveikslą.
+Užpildę ją, aptarkite savo viziją su partneriu. Individualių vizijų palyginimas padeda rasti bendrą branduolį ir pamatyti skirtumus, kuriuos galima įtraukti į bendrą ateities paveikslą.
