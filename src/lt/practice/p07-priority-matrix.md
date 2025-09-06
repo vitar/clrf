@@ -4,6 +4,6 @@
 
 | Svarbu ir skubu (daryti iškart)                    | Svarbu, bet neskubu (planuoti)        |
 |---------------------------------------------------|--------------------------------------|
-| Nesvarbu, bet skubu (deleguoti/minimizuoti)       | Nesvarbu ir neskubu (atsisakyti)      |
+| Nesvarbu, bet skubu (deleguoti arba minimizuoti)  | Nesvarbu ir neskubu (atsisakyti)      |
 
-Pastaba: pradėkite nuo 3–5 pagrindinių pokyčių paskirstymo. Tai padės susitelkti į tai, kas išties svarbu, ir sumažinti perkrovą.
+Pastaba: pradėkite nuo 3–5 pagrindinių pokyčių paskirstymo. Tai padės susitelkti į tai, kas iš tiesų svarbu, ir sumažinti perkrovą.
