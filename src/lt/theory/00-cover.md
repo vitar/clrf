@@ -1,6 +1,6 @@
 # > CL/RF _ Couple Life Reflection Framework
 
-**Praktinis įrankis santykiams suprasti, vizijoms ir pokyčiams**
+**Praktinis įrankis diagnostikai, vizijai ir pokyčiams**
 
 _[Viktor Jevdokimov](https://www.linkedin.com/in/viktor-jevdokimov)_
 
