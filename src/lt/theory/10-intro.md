@@ -1,8 +1,10 @@
 # 1 skyrius. Įvadas
 
-## 1. Kam reikalingas santykių karkasas
+## 1. Kodėl reikalingas santykių karkasas (Problemos erdvė)
 
 Santykiai dažnai vystosi stichiškai: partneriai vadovaujasi emocijomis, įpročiais ir kultūriniais lūkesčiais. Tai veikia iki tam tikro momento, bet vėliau veda prie nesusipratimų, konfliktų ir stagnacijos jausmo.
+
+Dažnai poros sukasi apie paviršines temas (pinigai, buities darbai, laikas), o ne apie po jomis slypinčius poreikius. Pokalbiai lieka nestruktūruoti, todėl kartojasi tie patys modeliai, daugėja nesusipratimų arba abu partneriai nutyla. Tarp atsitiktinio pasikalbėjimo (per mažai struktūros) ir terapijos (per sunku ar brangu) egzistuoja tarpas. CLRF užpildo šį tarpą lengvu karkasu, kuris palaiko tikrus pokalbius ir padeda pamatyti, įvardinti bei suderinti poreikius.
 
 Karkasas reikalingas, kad atsirastų struktūra ir aiškumas. Jis padeda suprasti, kokios sąlygos formuoja mūsų gyvenimą, kokie poreikiai slypi už emocijų ir prašymų, ir kokios poros bei kiekvieno iš mūsų funkcijos gali tuos poreikius patenkinti.
 
@@ -40,3 +42,31 @@ Karkasas nediktuoja paruoštų sprendimų, o pateikia žemėlapį. Remdamasi juo
 3. Reikalingų pokyčių nustatymas.
 4. Žingsnių prioritetų nustatymas.
 5. Sąveikos principų ir strategijų parengimas.
+
+## 6. Vizija ir Misija
+
+### Vizija
+
+Kiekviena pora gali aiškiai suprasti ir suderinti savo poreikius be terapijos, žargono ar metų bandymų ir klaidų.
+
+### Misija
+
+CLRF suteikia paprastą, praktišką karkasą (knygą, pratimus, programėlę), kuris padeda matyti sąlygas, poreikius ir funkcijas, struktūruoti pokalbius ir išlaikyti dėmesį tikroms patirtims.
+
+## 7. Vertybės ir Įsitikinimai
+
+### Vertybės
+
+- Aiškumas vietoje painiavos
+- Paprastumas vietoje sudėtingumo
+- Tikras ryšys vietoje skaitmeninio triukšmo
+- Abipusė pagarba vietoje vienpusių laimėjimų
+- Žaismingumas vietoje sunkumo
+
+### Įsitikinimai
+
+- Visos poros susiduria su nesuderinamumais — tai žmogiška.
+- Struktūra padeda mažinti trintį ir atveria gilesnį ryšį.
+- Maži, reguliarūs pokalbiai svarbesni už retus „didelius pokalbius“.
+- Kalba formuoja rezultatus: įvardijimas mažina gynybiškumą.
+- Įrankiai — pagalbininkai, o ne pakaitalai.
