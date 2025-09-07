@@ -43,7 +43,7 @@ The framework does not dictate ready-made solutions but gives a map. Based on th
 4. Prioritizing steps.
 5. Developing principles and strategies for interaction.
 
-## 6. Vision and Mission
+## 6. CLRF Vision and Mission
 
 ### Vision
 
@@ -53,7 +53,7 @@ Every couple can gain clarity and shared understanding about their needs without
 
 CLRF provides a simple, practical framework (book, exercises, app) that helps see conditions, needs, and functions, structure conversations, and keep the focus on real experiences.
 
-## 7. Values and Beliefs
+## 7. CLRF Values and Beliefs
 
 ### Values
 
