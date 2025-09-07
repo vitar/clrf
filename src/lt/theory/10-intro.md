@@ -43,7 +43,7 @@ Karkasas nediktuoja paruoštų sprendimų, o pateikia žemėlapį. Remdamasi juo
 4. Žingsnių prioritetų nustatymas.
 5. Sąveikos principų ir strategijų parengimas.
 
-## 6. Vizija ir Misija
+## 6. CLRF Vizija ir Misija
 
 ### Vizija
 
@@ -53,7 +53,7 @@ Kiekviena pora gali aiškiai suprasti ir suderinti savo poreikius be terapijos, 
 
 CLRF suteikia paprastą, praktišką karkasą (knygą, pratimus, programėlę), kuris padeda matyti sąlygas, poreikius ir funkcijas, struktūruoti pokalbius ir išlaikyti dėmesį tikroms patirtims.
 
-## 7. Vertybės ir Įsitikinimai
+## 7. CLRF Vertybės ir Įsitikinimai
 
 ### Vertybės
 
