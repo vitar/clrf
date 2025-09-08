@@ -54,6 +54,7 @@ nav:
   - practice/p11-personal-functions.md
   - practice/p12-shared-vision.md
   - changelog.md
+  - pdf.md
 
 markdown_extensions:
   - admonition
