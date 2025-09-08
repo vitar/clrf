@@ -22,6 +22,19 @@
   .page-inner {
     padding: 6mm 0; /* adjust if you’d like */
   }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1em 0;
+  }
+  table th,
+  table td {
+    border: 1px solid black;
+    padding: 6px 8px;
+    text-align: left;
+  }
+
 }
 
 /* Also apply for screen → wkhtmltopdf renders HTML first */
