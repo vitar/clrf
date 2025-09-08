@@ -1,5 +1,5 @@
 BOOK_EN=\
-	src/en/theory/00-cover.md \
+	src/en/index.md \
 	src/en/theory/01-preface.md \
 	src/en/theory/10-intro.md \
 	src/en/theory/20-conditions.md \
@@ -26,7 +26,7 @@ BOOK_EN=\
 	src/en/changelog.md
 
 BOOK_LT=\
-	src/lt/theory/00-cover.md \
+	src/lt/index.md \
 	src/lt/theory/01-preface.md \
 	src/lt/theory/10-intro.md \
 	src/lt/theory/20-conditions.md \
@@ -53,7 +53,7 @@ BOOK_LT=\
 	src/lt/changelog.md
 
 BOOK_RU=\
-	src/ru/theory/00-cover.md \
+	src/ru/index.md \
 	src/ru/theory/01-preface.md \
 	src/ru/theory/10-intro.md \
 	src/ru/theory/20-conditions.md \
