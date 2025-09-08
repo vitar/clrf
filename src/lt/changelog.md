@@ -1,7 +1,7 @@
 # Knygos atnaujinimai
 
 ## 2025-09-08
-- ♻️ Supaprastinta Pokyčių lentelė: vietoje brūkšnių paliktos tuščios eilutės.
+- ✨ Pridėta nuoroda atsisiųsti knygą PDF formatu.
 
 ## 2025-09-07
 - 📌 Įvado antraštės pakeistos į „CLRF Vizija ir Misija“ bei „CLRF Vertybės ir Įsitikinimai“.

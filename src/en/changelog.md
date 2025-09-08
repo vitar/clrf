@@ -1,7 +1,7 @@
 # Book Updates
 
 ## 2025-09-08
-- ♻️ Simplified Change Table practice layout with concise placeholder rows for easier planning.
+- ✨ Added PDF download section.
 
 ## 2025-09-07
 - 📌 Standards: Intro headings now "CLRF Vision and Mission" and "CLRF Values and Beliefs".
