@@ -22,7 +22,7 @@ BOOK_EN=\
 	src/en/practice/p09-raci.md \
 	src/en/practice/p10-rituals-map.md \
 	src/en/practice/p11-personal-functions.md \
-	src/en/practice/p12-shared-vision.md
+	src/en/practice/p12-shared-vision.md \
 	src/en/changelog.md
 
 BOOK_LT=\
@@ -49,7 +49,7 @@ BOOK_LT=\
 	src/lt/practice/p09-raci.md \
 	src/lt/practice/p10-rituals-map.md \
 	src/lt/practice/p11-personal-functions.md \
-	src/lt/practice/p12-shared-vision.md
+	src/lt/practice/p12-shared-vision.md \
 	src/lt/changelog.md
 
 BOOK_RU=\
@@ -76,7 +76,7 @@ BOOK_RU=\
 	src/ru/practice/p09-raci.md \
 	src/ru/practice/p10-rituals-map.md \
 	src/ru/practice/p11-personal-functions.md \
-	src/ru/practice/p12-shared-vision.md
+	src/ru/practice/p12-shared-vision.md \
 	src/ru/changelog.md
 
 all: site pdf
@@ -101,6 +101,36 @@ pdf:
 	--pdf-engine-opt=--margin-left \
 	--pdf-engine-opt=12mm \
 	-o dist/pdf/clrf-en.pdf
+	pandoc $(BOOK_LT) \
+	-t html5 -s \
+	--css=pdf.css \
+	--pdf-engine=wkhtmltopdf \
+	--pdf-engine-opt=--page-size \
+	--pdf-engine-opt=A4 \
+	--pdf-engine-opt=--margin-top \
+	--pdf-engine-opt=15mm \
+	--pdf-engine-opt=--margin-right \
+	--pdf-engine-opt=12mm \
+	--pdf-engine-opt=--margin-bottom \
+	--pdf-engine-opt=18mm \
+	--pdf-engine-opt=--margin-left \
+	--pdf-engine-opt=12mm \
+	-o dist/pdf/clrf-lt.pdf
+	pandoc $(BOOK_RU) \
+	-t html5 -s \
+	--css=pdf.css \
+	--pdf-engine=wkhtmltopdf \
+	--pdf-engine-opt=--page-size \
+	--pdf-engine-opt=A4 \
+	--pdf-engine-opt=--margin-top \
+	--pdf-engine-opt=15mm \
+	--pdf-engine-opt=--margin-right \
+	--pdf-engine-opt=12mm \
+	--pdf-engine-opt=--margin-bottom \
+	--pdf-engine-opt=18mm \
+	--pdf-engine-opt=--margin-left \
+	--pdf-engine-opt=12mm \
+	-o dist/pdf/clrf-ru.pdf
 
 clean:
 	rm -rf dist
