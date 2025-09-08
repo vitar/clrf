@@ -10,6 +10,19 @@ theme:
     - navigation.expand
     - content.code.copy
 
+extra:
+  analytics:
+    provider: google
+    property: G-ZB00MF626R
+
+  consent:
+    title: "Cookie consent"
+    description: >
+      We use cookies to understand site usage and improve the book.
+    actions:
+      - accept
+      - reject
+
 plugins:
   - search
   - i18n:
