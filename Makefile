@@ -1,83 +1,64 @@
-THEORY_RU=\
-	src/ru/theory/00-cover.md \
-	src/ru/theory/01-preface.md \
-	src/ru/theory/10-intro.md \
-	src/ru/theory/20-conditions.md \
-	src/ru/theory/30-needs.md \
-	src/ru/theory/40-functions.md \
-	src/ru/theory/50-links.md \
-	src/ru/theory/60-vision.md \
-	src/ru/theory/70-changes.md \
-	src/ru/theory/80-priorities-strategy.md \
-	src/ru/theory/90-practices-toolbox.md \
-	src/ru/theory/99-outro.md \
-	src/ru/practice/p01-conditions-checklist.md \
-	src/ru/practice/p02-needs-checklist.md \
-	src/ru/practice/p03-functions-checklist.md \
-	src/ru/practice/p04-diagnostic-light.md \
-	src/ru/practice/p05-individual-vision.md \
-	src/ru/practice/p06-change-table.md \
-	src/ru/practice/p07-priority-matrix.md \
-	src/ru/practice/p08-retrospective.md \
-	src/ru/practice/p09-raci.md \
-	src/ru/practice/p10-rituals-map.md \
-	src/ru/practice/p11-personal-functions.md \
-	src/ru/practice/p12-shared-vision.md
+# -------- Settings --------
+LANGS := en lt ru
+NAME := clrf
+OUTDIR := dist/pdf
 
-PRACTICE_RU=\
-	src/ru/practice/p01-conditions-checklist.md \
-	src/ru/practice/p02-needs-checklist.md \
-	src/ru/practice/p03-functions-checklist.md \
-	src/ru/practice/p04-diagnostic-light.md \
-	src/ru/practice/p05-individual-vision.md \
-	src/ru/practice/p06-change-table.md \
-	src/ru/practice/p07-priority-matrix.md \
-	src/ru/practice/p08-retrospective.md \
-	src/ru/practice/p09-raci.md \
-	src/ru/practice/p10-rituals-map.md \
-	src/ru/practice/p11-personal-functions.md \
-	src/ru/practice/p12-shared-vision.md
+PDF_ENGINE := wkhtmltopdf
+PDF_ENGINE_OPTS := \
+	--page-size A4 \
+	--margin-top 15mm \
+	--margin-right 12mm \
+	--margin-bottom 18mm \
+	--margin-left 12mm
 
-CHANGELOG_RU=src/ru/changelog.md
+PDF_CSS := pdf.css
+CSS_FLAG := $(if $(PDF_CSS),-c $(PDF_CSS),)
 
-all: site pdf
+# -------- Chapters once (language-agnostic) --------
+# List every md path once as it appears under each language directory.
+COMMON_MD := \
+	index.md \
+	theory/01-preface.md \
+	theory/10-intro.md \
+	theory/20-conditions.md \
+	theory/30-needs.md \
+	theory/40-functions.md \
+	theory/50-links.md \
+	theory/60-vision.md \
+	theory/70-changes.md \
+	theory/80-priorities-strategy.md \
+	theory/90-practices-toolbox.md \
+	theory/99-outro.md \
+	practice/p01-conditions-checklist.md \
+	practice/p02-needs-checklist.md \
+	practice/p03-functions-checklist.md \
+	practice/p04-diagnostic-light.md \
+	practice/p05-individual-vision.md \
+	practice/p06-change-table.md \
+	practice/p07-priority-matrix.md \
+	practice/p08-retrospective.md \
+	practice/p09-raci.md \
+	practice/p10-rituals-map.md \
+	practice/p11-personal-functions.md \
+	practice/p12-shared-vision.md
+	changelog.md
 
-site:
-	mkdocs build -d dist/site
+# -------- Outputs --------
+PDFS := $(foreach L,$(LANGS),$(OUTDIR)/$(NAME)-$(L).pdf)
 
-pdf:
-	mkdir -p dist/pdf
-	pandoc $(THEORY_RU) $(PRACTICE_RU) $(CHANGELOG_RU) \
-	-t html5 -s \
-	--css=pdf.css \
-	--pdf-engine=wkhtmltopdf \
-	--pdf-engine-opt=--page-size \
-	--pdf-engine-opt=A4 \
-	--pdf-engine-opt=--margin-top \
-	--pdf-engine-opt=15mm \
-	--pdf-engine-opt=--margin-right \
-	--pdf-engine-opt=12mm \
-	--pdf-engine-opt=--margin-bottom \
-	--pdf-engine-opt=18mm \
-	--pdf-engine-opt=--margin-left \
-	--pdf-engine-opt=12mm \
-	-o dist/pdf/clrf-ru.pdf
+.PHONY: all pdf clean
+all: pdf
+pdf: $(PDFS)
 
-	pandoc $(PRACTICE_RU) \
-	-t html5 -s \
-	--css=pdf.css \
-	--pdf-engine=wkhtmltopdf \
-	--pdf-engine-opt=--page-size \
-	--pdf-engine-opt=A4 \
-	--pdf-engine-opt=--margin-top \
-	--pdf-engine-opt=15mm \
-	--pdf-engine-opt=--margin-right \
-	--pdf-engine-opt=12mm \
-	--pdf-engine-opt=--margin-bottom \
-	--pdf-engine-opt=18mm \
-	--pdf-engine-opt=--margin-left \
-	--pdf-engine-opt=12mm \
-	-o dist/pdf/clrf-practice-ru.pdf
+# -------- Pattern rule: build any language PDF --------
+# Uses $* (the stem) to expand 'src/<lang>/' for the same COMMON_MD list.
+$(OUTDIR)/$(NAME)-%.pdf:
+	@mkdir -p $(OUTDIR)
+	pandoc $(addprefix src/$*/,$(COMMON_MD)) \
+		--pdf-engine=$(PDF_ENGINE) \
+		$(foreach opt,$(PDF_ENGINE_OPTS),--pdf-engine-opt=$(opt)) \
+		$(CSS_FLAG) \
+		-o $@
 
 clean:
-	rm -rf dist
+	rm -rf $(OUTDIR)

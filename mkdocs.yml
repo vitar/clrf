@@ -33,7 +33,6 @@ plugins:
 # Плагин сам переключит префикс на en/ lt/ ru/ при смене языка.
 nav:
   - index.md
-  - theory/00-cover.md
   - theory/01-preface.md
   - theory/10-intro.md
   - theory/20-conditions.md

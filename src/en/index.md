@@ -1,5 +1,8 @@
----
-title: "> CL/RF _"
----
-
 # > CL/RF _ Couple Life Reflection Framework
+
+**A practical tool for diagnostics, vision, and change in relationships**
+
+_[Viktor Jevdokimov](https://www.linkedin.com/in/viktor-jevdokimov)_<br/>
+_Vilnius 2025_
+
+<div style="page-break-after: always;"></div>
