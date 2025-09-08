@@ -44,10 +44,7 @@ jobs:
       - name: Build PDFs (Pandoc → wkhtmltopdf)
         run: make pdf
 
-      - name: Build DOCX (Pandoc)
-        run: make docx
-
-      # 1) Артефакт всего dist (PDF/DOCX для скачивания с вкладки Actions)
+      # 1) Артефакт всего dist (PDF для скачивания с вкладки Actions)
       - name: Upload dist artifacts
         uses: actions/upload-artifact@v4
         with:
