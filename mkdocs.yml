@@ -18,10 +18,16 @@ extra:
   consent:
     title: "Cookie consent"
     description: >
-      We use cookies to understand site usage and improve the book.
+      We use Google Analytics to understand site usage and improve the book.
     actions:
       - accept
       - reject
+
+  translations:
+    consent:
+      actions:
+        accept: "Allow"
+        reject: "Decline"
 
 plugins:
   - search
