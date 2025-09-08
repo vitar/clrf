@@ -1,4 +1,4 @@
-BOOK_RU=\
+THEORY_RU=\
 	src/ru/theory/00-cover.md \
 	src/ru/theory/01-preface.md \
 	src/ru/theory/10-intro.md \
@@ -22,8 +22,7 @@ BOOK_RU=\
 	src/ru/practice/p09-raci.md \
 	src/ru/practice/p10-rituals-map.md \
 	src/ru/practice/p11-personal-functions.md \
-	src/ru/practice/p12-shared-vision.md \
-	src/ru/changelog.md
+	src/ru/practice/p12-shared-vision.md
 
 PRACTICE_RU=\
 	src/ru/practice/p01-conditions-checklist.md \
@@ -39,32 +38,32 @@ PRACTICE_RU=\
 	src/ru/practice/p11-personal-functions.md \
 	src/ru/practice/p12-shared-vision.md
 
+CHANGELOG_RU=src/ru/changelog.md
+
 all: site pdf docx
 
 site:
 	mkdocs build -d dist/site
 
 pdf:
-	mkdir -p dist/site/assets/pdf
-	pandoc $(BOOK_RU) \
-	-t html -s \
+	mkdir -p dist/pdf
+	pandoc $(THEORY_RU) $(PRACTICE_RU) $(CHANGELOG_RU) \
 	--pdf-engine=wkhtmltopdf \
 	--pdf-engine-opt=--page-size=A4 \
 	--pdf-engine-opt=--margin-top=15mm \
 	--pdf-engine-opt=--margin-right=12mm \
 	--pdf-engine-opt=--margin-bottom=18mm \
 	--pdf-engine-opt=--margin-left=12mm \
-	-o dist/site/assets/pdf/clrf-ru.pdf
+	-o dist/pdf/clrf-ru.pdf
 
 	pandoc $(PRACTICE_RU) \
-	-t html -s \
 	--pdf-engine=wkhtmltopdf \
 	--pdf-engine-opt=--page-size=A4 \
 	--pdf-engine-opt=--margin-top=15mm \
 	--pdf-engine-opt=--margin-right=12mm \
 	--pdf-engine-opt=--margin-bottom=18mm \
 	--pdf-engine-opt=--margin-left=12mm \
-	-o dist/site/assets/pdf/clrf-practice-ru.pdf
+	-o dist/pdf/clrf-practice-ru.pdf
 	
 docx:
 	mkdir -p dist/docx
