@@ -6,14 +6,12 @@ This simplified diagnostic will help each partner identify the main conditions, 
 
 ### 1. Choose up to 5 key conditions that influence your life right now:
 
-<br/>
 ____________________________________________________________
 <br/><br/>
 ____________________________________________________________
 
 ### 2. Choose up to 5 needs that are most important to you right now:
 
-<br/>
 ____________________________________________________________
 <br/><br/>
 ____________________________________________________________
