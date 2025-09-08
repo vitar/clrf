@@ -40,7 +40,7 @@ PRACTICE_RU=\
 
 CHANGELOG_RU=src/ru/changelog.md
 
-all: site pdf docx
+all: site pdf
 
 site:
 	mkdocs build -d dist/site
@@ -49,26 +49,31 @@ pdf:
 	mkdir -p dist/pdf
 	pandoc $(THEORY_RU) $(PRACTICE_RU) $(CHANGELOG_RU) \
 	--pdf-engine=wkhtmltopdf \
-	--pdf-engine-opt=--page-size=A4 \
-	--pdf-engine-opt=--margin-top=15mm \
-	--pdf-engine-opt=--margin-right=12mm \
-	--pdf-engine-opt=--margin-bottom=18mm \
-	--pdf-engine-opt=--margin-left=12mm \
+	--pdf-engine-opt=--page-size \
+	--pdf-engine-opt=A4 \
+	--pdf-engine-opt=--margin-top \
+	--pdf-engine-opt=15mm \
+	--pdf-engine-opt=--margin-right \
+	--pdf-engine-opt=12mm \
+	--pdf-engine-opt=--margin-bottom \
+	--pdf-engine-opt=18mm \
+	--pdf-engine-opt=--margin-left \
+	--pdf-engine-opt=12mm \
 	-o dist/pdf/clrf-ru.pdf
 
 	pandoc $(PRACTICE_RU) \
 	--pdf-engine=wkhtmltopdf \
-	--pdf-engine-opt=--page-size=A4 \
-	--pdf-engine-opt=--margin-top=15mm \
-	--pdf-engine-opt=--margin-right=12mm \
-	--pdf-engine-opt=--margin-bottom=18mm \
-	--pdf-engine-opt=--margin-left=12mm \
+	--pdf-engine-opt=--page-size \
+	--pdf-engine-opt=A4 \
+	--pdf-engine-opt=--margin-top \
+	--pdf-engine-opt=15mm \
+	--pdf-engine-opt=--margin-right \
+	--pdf-engine-opt=12mm \
+	--pdf-engine-opt=--margin-bottom \
+	--pdf-engine-opt=18mm \
+	--pdf-engine-opt=--margin-left \
+	--pdf-engine-opt=12mm \
 	-o dist/pdf/clrf-practice-ru.pdf
-	
-docx:
-	mkdir -p dist/docx
-	pandoc $(THEORY_RU) -o dist/docx/clrf-ru.docx --reference-doc=assets/templates/reference.docx --toc
-	pandoc $(PRACTICE_RU) -o dist/docx/clrf-practice-ru.docx --reference-doc=assets/templates/reference.docx --toc
 
 clean:
 	rm -rf dist
