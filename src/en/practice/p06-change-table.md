@@ -9,11 +9,11 @@ This table will help translate your vision of the future into concrete steps. Fi
 </style>
 | Now | Desired future | Type of change | Example steps |
 |:--:|:--:|:--:|:--:|
-|<br/><br/><br/>|||
-|<br/><br/><br/>|||
-|<br/><br/><br/>|||
-|<br/><br/><br/>|||
-|<br/><br/><br/>|||
+|<br/><br/><br/><br/><br/>|||
+|<br/><br/><br/><br/><br/>|||
+|<br/><br/><br/><br/><br/>|||
+|<br/><br/><br/><br/><br/>|||
+|<br/><br/><br/><br/><br/>|||
 
 Note: start with 3–5 key changes to avoid overload. Balance shared and personal steps.
 

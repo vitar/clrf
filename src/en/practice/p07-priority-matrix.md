@@ -9,9 +9,8 @@ This matrix helps you prioritize selected changes. Distribute them into four qua
 </style>
 |||
 |:--:|:--:|
-| Important and urgent (do immediately)<br/><br/><br/><br/><br/> | Important but not urgent (plan)<br/><br/><br/><br/><br/> |
-| Not important but urgent (delegate or minimize)<br/><br/><br/><br/><br/> | Not important and not urgent (discard)<br/><br/><br/><br/><br/> |
-|||
+| Important and urgent (do immediately)<br/><br/><br/><br/><br/><br/><br/><br/><br/> | Important but not urgent (plan) |
+| Not important but urgent (delegate or minimize)<br/><br/><br/><br/><br/><br/><br/><br/> | Not important and not urgent (discard) |
 
 Note: Start by distributing 3–5 key changes. This helps you focus on what truly matters and reduces overload.
 

@@ -14,7 +14,6 @@
 | Vaikai (mokykla, būreliai)<br/><br/><br/><br/> |||||
 | Giminaičiai (bendravimas, šventės)<br/><br/><br/><br/> |||||
 | Poilsis ir atostogos (planavimas)<br/><br/><br/><br/> |||||
-||||||
 
 <br/>
 ____________________________________________________________

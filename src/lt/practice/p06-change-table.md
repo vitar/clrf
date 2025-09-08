@@ -9,13 +9,11 @@
 </style>
 | Dabar | Norima ateitis | Pokyčio tipas | Žingsnių pavyzdžiai |
 |:--:|:--:|:--:|:--:|
-|<br/><br/><br/>|||
-|<br/><br/><br/>|||
-|<br/><br/><br/>|||
-|<br/><br/><br/>|||
-|<br/><br/><br/>|||
-|<br/><br/><br/>|||
-||||
+|<br/><br/><br/><br/><br/>|||
+|<br/><br/><br/><br/><br/>|||
+|<br/><br/><br/><br/><br/>|||
+|<br/><br/><br/><br/><br/>|||
+|<br/><br/><br/><br/><br/>|||
 
 Pastaba: pradėkite nuo 3–5 pagrindinių pokyčių, kad neperkrautumėte savęs. Balansuokite bendrus ir asmeninius žingsnius.
 

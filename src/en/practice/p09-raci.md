@@ -14,7 +14,6 @@ This practice helps distribute roles and responsibilities in your relationship. 
 | Children (school, activities)<br/><br/><br/><br/> |||||
 | Relatives (communication, holidays)<br/><br/><br/><br/> |||||
 | Leisure and vacation (planning)<br/><br/><br/><br/> |||||
-||||||
 
 <br/>
 ____________________________________________________________
