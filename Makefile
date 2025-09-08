@@ -23,7 +23,7 @@ BOOK_RU=\
 	src/ru/practice/p10-rituals-map.md \
 	src/ru/practice/p11-personal-functions.md \
 	src/ru/practice/p12-shared-vision.md \
-	src/ru/changes.md
+	src/ru/changelog.md
 
 PRACTICE_RU=\
 	src/ru/practice/p01-conditions-checklist.md \
