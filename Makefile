@@ -86,7 +86,6 @@ site:
 
 pdf:
 	mkdir -p dist/pdf
-
 	pandoc $(BOOK_EN) \
 	-t html5 -s \
 	--css=pdf.css \
@@ -102,7 +101,6 @@ pdf:
 	--pdf-engine-opt=--margin-left \
 	--pdf-engine-opt=12mm \
 	-o dist/pdf/clrf-en.pdf
-
 	pandoc $(BOOK_LT) \
 	-t html5 -s \
 	--css=pdf.css \
@@ -118,7 +116,6 @@ pdf:
 	--pdf-engine-opt=--margin-left \
 	--pdf-engine-opt=12mm \
 	-o dist/pdf/clrf-lt.pdf
-
 	pandoc $(BOOK_RU) \
 	-t html5 -s \
 	--css=pdf.css \
