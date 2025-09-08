@@ -6,12 +6,14 @@ This simplified diagnostic will help each partner identify the main conditions, 
 
 ### 1. Choose up to 5 key conditions that influence your life right now:
 
+<br/>
 ____________________________________________________________
 <br/><br/>
 ____________________________________________________________
 
 ### 2. Choose up to 5 needs that are most important to you right now:
 
+<br/>
 ____________________________________________________________
 <br/><br/>
 ____________________________________________________________
@@ -56,8 +58,7 @@ ____________________________________________________________
 
 After filling it out individually, discuss together:
 
-- Where the selected conditions and needs overlap.
-- Where they differ.
+- Where the selected conditions and needs overlap, where they differ.
 - What each person does well and where support is needed.
 - Read your short answers to each other.
 

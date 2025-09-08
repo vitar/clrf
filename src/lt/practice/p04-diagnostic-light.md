@@ -6,12 +6,14 @@
 
 ### 1. Pasirinkite iki 5 pagrindinių sąlygų, kurios dabar veikia jūsų gyvenimą:
 
+<br/>
 ____________________________________________________________
 <br/><br/>
 ____________________________________________________________
 
 ### 2. Pasirinkite iki 5 svarbiausių jums šiuo metu poreikių:
 
+<br/>
 ____________________________________________________________
 <br/><br/>
 ____________________________________________________________
@@ -56,8 +58,7 @@ ____________________________________________________________
 
 Užpildę atskirai, aptarkite kartu:
 
-- Kur pasirinktos sąlygos ir poreikiai sutampa.
-- Kur skiriasi.
+- Kur pasirinktos sąlygos ir poreikiai sutampa, kur skiriasi.
 - Ką kiekvienas daro gerai ir kur reikia palaikymo.
 - Perskaitykite vienas kitam trumpus atsakymus.
 
