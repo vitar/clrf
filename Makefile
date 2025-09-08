@@ -1,4 +1,4 @@
-THEORY_RU=\
+BOOK_RU=\
   src/ru/theory/00-cover.md \
   src/ru/theory/01-preface.md \
   src/ru/theory/10-intro.md \
@@ -10,7 +10,20 @@ THEORY_RU=\
   src/ru/theory/70-changes.md \
   src/ru/theory/80-priorities-strategy.md \
   src/ru/theory/90-practices-toolbox.md \
-  src/ru/theory/99-outro.md
+  src/ru/theory/99-outro.md \
+  src/ru/practice/p01-conditions-checklist.md \
+  src/ru/practice/p02-needs-checklist.md \
+  src/ru/practice/p03-functions-checklist.md \
+  src/ru/practice/p04-diagnostic-light.md \
+  src/ru/practice/p05-individual-vision.md \
+  src/ru/practice/p06-change-table.md \
+  src/ru/practice/p07-priority-matrix.md \
+  src/ru/practice/p08-retrospective.md \
+  src/ru/practice/p09-raci.md \
+  src/ru/practice/p10-rituals-map.md \
+  src/ru/practice/p11-personal-functions.md \
+  src/ru/practice/p12-shared-vision.md \
+  src/ru/changes.md
 
 PRACTICE_RU=\
   src/ru/practice/p01-conditions-checklist.md \
@@ -29,17 +42,34 @@ PRACTICE_RU=\
 all: site pdf docx
 
 site:
-	mkdocs build -d dist/site
+  mkdocs build -d dist/site
 
 pdf:
-	mkdir -p dist/pdf
-	pandoc $(THEORY_RU) -o dist/pdf/clrf-ru-theory.pdf --toc --metadata title="CL/RF — Теория" --pdf-engine=wkhtmltopdf
-	pandoc $(PRACTICE_RU) -o dist/pdf/clrf-ru-practice.pdf --toc --metadata title="CL/RF — Практика" --pdf-engine=wkhtmltopdf
+  mkdir -p dist/site/assets/pdf
+  pandoc $(BOOK_RU) \
+  -t html -s \
+  --pdf-engine=wkhtmltopdf \
+  --pdf-engine-opt=--page-size=A4 \
+  --pdf-engine-opt=--margin-top=15mm \
+  --pdf-engine-opt=--margin-right=12mm \
+  --pdf-engine-opt=--margin-bottom=18mm \
+  --pdf-engine-opt=--margin-left=12mm \
+  -o dist/site/assets/pdf/clrf-ru.pdf
+
+  pandoc $(PRACTICE_RU) \
+  -t html -s \
+  --pdf-engine=wkhtmltopdf \
+  --pdf-engine-opt=--page-size=A4 \
+  --pdf-engine-opt=--margin-top=15mm \
+  --pdf-engine-opt=--margin-right=12mm \
+  --pdf-engine-opt=--margin-bottom=18mm \
+  --pdf-engine-opt=--margin-left=12mm \
+  -o dist/site/assets/pdf/clrf-practice-ru.pdf
   
 docx:
-	mkdir -p dist/docx
-	pandoc $(THEORY_RU) -o dist/docx/clrf-ru-theory.docx --reference-doc=assets/templates/reference.docx --toc
-	pandoc $(PRACTICE_RU) -o dist/docx/clrf-ru-practice.docx --reference-doc=assets/templates/reference.docx --toc
+  mkdir -p dist/docx
+  pandoc $(THEORY_RU) -o dist/docx/clrf-ru.docx --reference-doc=assets/templates/reference.docx --toc
+  pandoc $(PRACTICE_RU) -o dist/docx/clrf-practice-ru.docx --reference-doc=assets/templates/reference.docx --toc
 
 clean:
-	rm -rf dist
+  rm -rf dist
