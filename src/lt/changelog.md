@@ -10,5 +10,3 @@
 
 ## 2025-09-08
 - ♻️ Supaprastinta Pokyčių lentelė: vietoje brūkšnių paliktos tuščios eilutės.
-
-Verta perskaityti iš naujo: Praktika 6 — Pokyčių lentelė

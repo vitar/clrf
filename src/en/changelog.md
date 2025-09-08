@@ -10,5 +10,3 @@
 
 ## 2025-09-08
 - ♻️ Simplified Change Table practice layout with concise placeholder rows for easier planning.
-
-Worth re-reading: Practice 6 — Change Table
