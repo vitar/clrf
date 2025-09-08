@@ -476,3 +476,20 @@
 
 #### Глава 1. Введение
 - Обновлено: доработан контент
+
+## 2025-09-08
+
+### English
+
+#### PDF
+- Added: download page and file
+
+### Lithuanian
+
+#### PDF
+- Pridėta: nuoroda atsisiųsti knygą PDF formatu
+
+### Russian
+
+#### PDF
+- Добавлено: ссылка на PDF

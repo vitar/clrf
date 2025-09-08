@@ -6,26 +6,37 @@
 
 Kas mums abiem svarbu ateityje:
 
+<br/>
 ____________________________________________________________
+<br/><br/>
 ____________________________________________________________
+<br/><br/>
 ____________________________________________________________
 
 ### 2. Mūsų skirtumai (erdvė asmeniškumui)
 
 Kas lieka asmeniška kiekvienam:
 
+<br/>
 ____________________________________________________________
+<br/><br/>
 ____________________________________________________________
+<br/><br/>
 ____________________________________________________________
 
 ### 3. Bendra vizijos formuluotė
 
 Pabandykite kartu suformuluoti 2–3 pastraipas, aprašančias jūsų bendrą viziją:
 
+<br/>
 ____________________________________________________________
+<br/><br/>
 ____________________________________________________________
+<br/><br/>
 ____________________________________________________________
 
 ## Išvada
 
 Bendra vizija – gairė, o ne griežtas planas. Ji padeda judėti ta pačia kryptimi, išsaugant kiekvieno partnerio individualumą.
+
+<div style="page-break-after: always;"></div>

@@ -35,3 +35,5 @@ These rituals create a steady rhythm and reduce the likelihood of accumulating c
 ## Conclusion
 
 Prioritization and strategy help turn intentions into actions. They provide clarity on what is important right now, what can be postponed, and how you maintain movement toward the vision together.
+
+<div style="page-break-after: always;"></div>

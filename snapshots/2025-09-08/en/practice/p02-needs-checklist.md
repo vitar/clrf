@@ -49,6 +49,12 @@ You can also set priorities (for example, from 1 to 5).
 ☐ Harmony with the surrounding environment (minimal external pressure)
 
 My notes and additions
+
+<br/>
 ____________________________________________________________
+<br/><br/>
 ____________________________________________________________
+<br/><br/>
 ____________________________________________________________
+
+<div style="page-break-after: always;"></div>

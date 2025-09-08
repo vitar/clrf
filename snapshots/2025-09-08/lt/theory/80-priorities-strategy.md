@@ -35,3 +35,5 @@ Paprastos reguliarios praktikos padeda palaikyti strategiją:
 ## Išvada
 
 Prioritetai ir strategija padeda paversti ketinimus veiksmais. Jie suteikia aiškumą, kas svarbu dabar, ką galima atidėti ir kaip kartu palaikote judėjimą link vizijos.
+
+<div style="page-break-after: always;"></div>

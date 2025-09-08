@@ -40,3 +40,5 @@ Example:
 ## Conclusion
 
 Links turn abstract conversations (“we need more closeness”) into concrete steps (“we set aside an evening, we create a ritual”). This is the key to practical use of the framework.
+
+<div style="page-break-after: always;"></div>

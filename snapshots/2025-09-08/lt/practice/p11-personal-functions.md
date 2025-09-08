@@ -27,14 +27,20 @@ Mano pastabos
 
 Kas man sekasi gerai:
 
+<br/>
 ____________________________________________________________
+<br/><br/>
 ____________________________________________________________
 
 Ką noriu pagerinti:
 
+<br/>
 ____________________________________________________________
+<br/><br/>
 ____________________________________________________________
 
 ## Išvada
 
 Asmeninių funkcijų vystymas mažina bendrųjų funkcijų krūvį. Kai kiekvienas jaučiasi vientisas ir stabilus, santykiai tampa harmoningesni.
+
+<div style="page-break-after: always;"></div>

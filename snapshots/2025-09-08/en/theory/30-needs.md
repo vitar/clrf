@@ -42,3 +42,5 @@ This distinction helps build visions and changes more realistically and construc
 ## Conclusion
 
 Needs form the basis for a vision of the future and inform the choice of functions. Recognizing them helps us understand ourselves and each other better and avoid misunderstandings when partners speak about conditions but mean needs.
+
+<div style="page-break-after: always;"></div>

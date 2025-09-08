@@ -40,3 +40,5 @@ Pavyzdys:
 ## Išvada
 
 Sąsajos leidžia paversti abstrakčius pokalbius („mums reikia daugiau artumo“) į konkrečius žingsnius („skiriame vakarą, sukuriame ritualą“). Tai raktas į praktinį karkaso naudojimą.
+
+<div style="page-break-after: always;"></div>

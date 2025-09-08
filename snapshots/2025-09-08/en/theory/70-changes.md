@@ -50,3 +50,5 @@ Balance means moving in both directions: developing both the “we” and the �
 ## Conclusion
 
 Change is a process, not a one-time decision. It requires time, agreement, and readiness to adjust. Even small steps can lead to big results over time.
+
+<div style="page-break-after: always;"></div>

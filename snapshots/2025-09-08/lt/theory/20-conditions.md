@@ -33,3 +33,5 @@ Tai sveikata (fizinė ir psichinė), emocinė būsena ir asmeninė erdvė. Jei v
 ## Išvada
 
 Sąlygos nėra „teisingos“ ar „neteisingos“. Tai realybė, kurią svarbu pripažinti. Nuo sąlygų suvokimo priklauso, kurie poreikiai bus aktualūs ir kokias funkcijas reikės aktyvuoti.
+
+<div style="page-break-after: always;"></div>

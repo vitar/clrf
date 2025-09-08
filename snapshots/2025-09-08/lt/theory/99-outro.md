@@ -27,3 +27,5 @@ Karkasas leidžia:
 ## 4. Baigiamasis žodis
 
 Santykiai – gyvas procesas. Karkasas padeda jį padaryti sąmoningesnį ir lankstesnį. Jis neduoda paruoštų receptų, o siūlo žemėlapį, kuriuo kiekviena pora gali rasti savo kelią.
+
+<div style="page-break-after: always;"></div>
