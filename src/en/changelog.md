@@ -1,3 +1,5 @@
+<div style="page-break-before: always;"></div>
+
 # Book Updates
 
 ## 2025-09-08

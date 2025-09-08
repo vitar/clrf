@@ -1,3 +1,5 @@
+<div style="page-break-before: always;"></div>
+
 # 10 skyrius. Pabaiga
 
 „Couple Life Reflection Framework“ karkasas siūlo struktūrą, padedančią poroms sąmoningai žiūrėti į santykius. Jis remiasi trimis lygiais: sąlygomis, poreikiais ir funkcijomis. Šie lygiai sudaro pagrindą diagnostikai, vizijai ir pokyčiams.

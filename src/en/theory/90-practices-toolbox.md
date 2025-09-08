@@ -1,3 +1,5 @@
+<div style="page-break-before: always;"></div>
+
 # Chapter 9. Practices from Professional and Personal Toolkit
 
 The **> CL/RF _ Couple Life Reflection Framework** sets the basics: conditions, needs, and functions. But changes and actions can be implemented through different practices. Many come from the professional environment and can be adapted for a couple. Additionally, tools are included that help in daily interaction.

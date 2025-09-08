@@ -1,3 +1,5 @@
+<div style="page-break-before: always;"></div>
+
 # 2 skyrius. Sąlygos
 
 Sąlygos – tai fonas ir aplinka, kurioje gyvena pora. Jos sukuria rėmus, kurie gali palaikyti santykius arba, priešingai, juos apsunkinti. Sąlygų ne visada galima iškart pakeisti, bet jas reikia suvokti, kad suprastume, kokie poreikiai kyla ir kokias funkcijas reikia aktyvuoti.

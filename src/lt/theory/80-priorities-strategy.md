@@ -1,3 +1,5 @@
+<div style="page-break-before: always;"></div>
+
 # 8 skyrius. Prioritetai ir strategija
 
 Nustačius pokyčius, svarbu sudėlioti prioritetus ir parengti jų įgyvendinimo strategiją. Priešingu atveju kyla perkrovos rizika: per daug tikslų vienu metu veda į perdegimą ar pokyčių atsisakymą.

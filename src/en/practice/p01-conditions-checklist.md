@@ -1,3 +1,5 @@
+<div style="page-break-before: always;"></div>
+
 # Practice 1. Conditions Checklist
 
 This checklist will help you identify the main conditions in your life that influence your relationship. Mark the most important ones and add your own if necessary.
@@ -43,6 +45,10 @@ This checklist will help you identify the main conditions in your life that infl
 ☐ Personal space and autonomy (time/space for oneself)
 
 My notes and additions
+
+<br/>
 ____________________________________________________________
+<br/><br/>
 ____________________________________________________________
+<br/><br/>
 ____________________________________________________________

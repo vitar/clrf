@@ -1,7 +1,14 @@
+<div style="page-break-before: always;"></div>
+
 # Praktika 7. Prioritetų matrica
 
 Ši matrica padeda išdėstyti pasirinktus pokyčius pagal prioritetus. Paskirstykite juos į keturis kvadrantus pagal svarbą ir skubumą. Naudokite ją kaip bendro aptarimo įrankį.
 
+<style>
+    table {
+        width: 100%;
+    }
+</style>
 |||
 |:--:|:--:|
 | Svarbu ir skubu (daryti iškart)<br/><br/><br/><br/><br/> | Svarbu, bet neskubu (planuoti)<br/><br/><br/><br/><br/> |

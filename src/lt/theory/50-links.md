@@ -1,3 +1,5 @@
+<div style="page-break-before: always;"></div>
+
 # 5 skyrius. Sąsajos
 
 Sąlygos, poreikiai ir funkcijos neegzistuoja atskirai. Juos sieja seka: Sąlyga → Poreikis → Funkcija. Ši logika padeda suprasti, kaip realybė formuoja poreikius, o poreikiai lemia veiksmus.

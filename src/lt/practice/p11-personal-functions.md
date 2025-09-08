@@ -1,3 +1,5 @@
+<div style="page-break-before: always;"></div>
+
 # Praktika 11. Asmeninės funkcijos
 
 Šis sąrašas padeda kiekvienam partneriui suprasti, kurios asmeninės funkcijos palaiko jo gyvenimą ir santykius. Pažymėkite, kurios jau išvystytos, o kurioms reikia dėmesio.
@@ -27,12 +29,16 @@ Mano pastabos
 
 Kas man sekasi gerai:
 
+<br/>
 ____________________________________________________________
+<br/><br/>
 ____________________________________________________________
 
 Ką noriu pagerinti:
 
+<br/>
 ____________________________________________________________
+<br/><br/>
 ____________________________________________________________
 
 ## Išvada

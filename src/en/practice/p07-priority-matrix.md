@@ -1,7 +1,14 @@
+<div style="page-break-before: always;"></div>
+
 # Practice 7. Priority Matrix
 
 This matrix helps you prioritize selected changes. Distribute them into four quadrants based on importance and urgency. Use it as a tool for a joint discussion.
 
+<style>
+    table {
+        width: 100%;
+    }
+</style>
 |||
 |:--:|:--:|
 | Important and urgent (do immediately)<br/><br/><br/><br/><br/> | Important but not urgent (plan)<br/><br/><br/><br/><br/> |

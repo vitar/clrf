@@ -1,3 +1,5 @@
+<div style="page-break-before: always;"></div>
+
 # Chapter 7. Changes
 
 Changes are the bridge between the current situation and the vision of the future. They allow abstract wishes to be turned into concrete steps. Changes vary in scale – from daily habits to major decisions.

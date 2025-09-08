@@ -1,3 +1,5 @@
+<div style="page-break-before: always;"></div>
+
 # Praktika 1. Sąlygų kontrolinis sąrašas
 
 Šis sąrašas padės užfiksuoti pagrindines jūsų gyvenimo sąlygas, kurios veikia santykius. Pažymėkite svarbiausias ir, jei reikia, papildykite savomis.
@@ -43,6 +45,10 @@
 ☐ Asmeninė erdvė ir autonomija (laikas / erdvė sau)
 
 Mano pastabos ir papildymai
+
+<br/>
 ____________________________________________________________
+<br/><br/>
 ____________________________________________________________
+<br/><br/>
 ____________________________________________________________

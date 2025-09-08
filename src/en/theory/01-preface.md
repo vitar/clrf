@@ -1,3 +1,5 @@
+<div style="page-break-before: always;"></div>
+
 # Preface
 
 This work began with my professional habit of structuring everything. As a software engineer and leader, I spent decades using frameworks to make sense of complex systems: from technologies and processes to organizations. At some point, I realized that the same principles could be applied to the most important project in life — relationships.
@@ -8,6 +10,5 @@ This framework will be especially close to those who are used to thinking system
 
 I hope this tool helps you just as it helped us: turning chaotic conversations into a clear map that leads to a common future.
 
-_[Viktor Jevdokimov](https://www.linkedin.com/in/viktor-jevdokimov)_
-
+_[Viktor Jevdokimov](https://www.linkedin.com/in/viktor-jevdokimov)_<br/>
 _Vilnius, 2025_

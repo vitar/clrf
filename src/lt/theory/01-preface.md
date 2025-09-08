@@ -1,3 +1,5 @@
+<div style="page-break-before: always;"></div>
+
 # Pratarmė
 
 Šis darbas prasidėjo iš mano profesinio įpročio viską struktūruoti. Kaip programinės įrangos inžinierius ir lyderis dešimtmečius naudojau karkasus sudėtingoms sistemoms suprasti – nuo technologijų ir procesų iki organizacijų. Vienu metu supratau, kad tuos pačius principus galima taikyti svarbiausiam gyvenimo projektui – santykiams.
@@ -8,6 +10,5 @@ Užuot rėmęsis tik straipsnių patarimais ar emocijomis, nusprendžiau sukurti
 
 Tikiuosi, kad šis įrankis padės jums taip pat, kaip padėjo mums: chaotiškus pokalbius paversti aiškiu žemėlapiu, vedančiu į bendrą ateitį.
 
-_[Viktor Jevdokimov](https://www.linkedin.com/in/viktor-jevdokimov)_
-
+_[Viktor Jevdokimov](https://www.linkedin.com/in/viktor-jevdokimov)_<br/>
 _Vilnius, 2025_

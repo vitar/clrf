@@ -1,3 +1,5 @@
+<div style="page-break-before: always;"></div>
+
 # Chapter 3. Needs
 
 Needs are internal requests formed in relation to conditions. They define what matters to us at a given moment and set the direction for joint and personal actions. Distinguishing conditions from needs helps avoid confusion: a condition is a fact; a need is a desire or request.

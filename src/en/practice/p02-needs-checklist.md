@@ -1,3 +1,5 @@
+<div style="page-break-before: always;"></div>
+
 # Practice 2. Needs Checklist
 
 This checklist will help you identify personal and shared needs.
@@ -49,6 +51,10 @@ You can also set priorities (for example, from 1 to 5).
 ☐ Harmony with the surrounding environment (minimal external pressure)
 
 My notes and additions
+
+<br/>
 ____________________________________________________________
+<br/><br/>
 ____________________________________________________________
+<br/><br/>
 ____________________________________________________________

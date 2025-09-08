@@ -1,3 +1,5 @@
+<div style="page-break-before: always;"></div>
+
 # 6 skyrius. Vizija
 
 Vizija – tai ateities vaizdas, kurio siekia žmogus ar pora. Ji padeda nustatyti kryptį ir sukurti pokyčių strategiją. Svarbu atskirti fantazijas nuo vizijos: vizija turi atsižvelgti į realias sąlygas ir poreikius, kad būtų pasiekiama ir naudinga.

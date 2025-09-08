@@ -1,3 +1,5 @@
+<div style="page-break-before: always;"></div>
+
 # 4 skyrius. Funkcijos
 
 Funkcijos – tai veikimo būdai, kuriais pora ir kiekvienas partneris patenkina savo poreikius esant sąlygoms. Funkcijos skirstomos į bendras (veikia porai) ir asmenines (veikia kiekvienam atskirai). Jų balansas lemia santykių stabilumą.

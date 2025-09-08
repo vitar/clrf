@@ -1,3 +1,5 @@
+<div style="page-break-before: always;"></div>
+
 # Chapter 6. Vision
 
 A vision is a picture of the future that a person or couple strives for. It helps set the direction and build a strategy for change. It is important to distinguish fantasies from a vision: a vision must take into account real conditions and needs to be achievable and useful.

@@ -1,3 +1,5 @@
+<div style="page-break-before: always;"></div>
+
 # Обновления книги
 
 ## 2025-09-08

@@ -1,3 +1,5 @@
+<div style="page-break-before: always;"></div>
+
 # 7 skyrius. Pokyčiai
 
 Pokyčiai – tai tiltas tarp dabartinės situacijos ir ateities vizijos. Jie leidžia abstrakčius norus paversti konkrečiais žingsniais. Pokyčiai gali būti įvairaus masto – nuo kasdienių įpročių iki kardinalių sprendimų.

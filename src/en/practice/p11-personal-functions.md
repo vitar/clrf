@@ -1,3 +1,5 @@
+<div style="page-break-before: always;"></div>
+
 # Practice 11. Personal Functions
 
 This checklist helps each partner identify which personal functions support their life and relationship. Check which ones are developed and which need attention.
@@ -27,12 +29,16 @@ My notes
 
 What I do well:
 
+<br/>
 ____________________________________________________________
+<br/><br/>
 ____________________________________________________________
 
 What I want to improve:
 
+<br/>
 ____________________________________________________________
+<br/><br/>
 ____________________________________________________________
 
 ## Conclusion

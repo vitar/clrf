@@ -1,3 +1,5 @@
+<div style="page-break-before: always;"></div>
+
 # Chapter 10. Conclusion
 
 The “Couple Life Reflection Framework” offers a structure that helps couples approach their relationships consciously. It is built on three levels: conditions, needs, and functions. These levels form the foundation for diagnostics, vision, and change.

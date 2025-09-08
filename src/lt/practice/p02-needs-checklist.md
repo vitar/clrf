@@ -1,3 +1,5 @@
+<div style="page-break-before: always;"></div>
+
 # Praktika 2. Poreikių kontrolinis sąrašas
 
 Šis sąrašas padės užfiksuoti asmeninius ir bendrus poreikius. Pasirinkite sau svarbiausius ir, jei reikia, papildykite savais. Taip pat galite nustatyti prioritetus (pvz., nuo 1 iki 5).
@@ -47,6 +49,10 @@
 ☐ Darna su aplinka (minimalus išorinis spaudimas)
 
 Mano pastabos ir papildymai
+
+<br/>
 ____________________________________________________________
+<br/><br/>
 ____________________________________________________________
+<br/><br/>
 ____________________________________________________________

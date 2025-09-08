@@ -1,3 +1,5 @@
+<div style="page-break-before: always;"></div>
+
 # Praktika 10. Ritualų žemėlapis
 
 Tradicijos ir ritualai kuria poroje stabilumo ir artumo jausmą. Tai gali būti tiek didelės šeimos šventės, tiek maži kasdieniai įpročiai. Šis žemėlapis padės užfiksuoti esamus ritualus ir sugalvoti naujus.
@@ -6,24 +8,33 @@ Tradicijos ir ritualai kuria poroje stabilumo ir artumo jausmą. Tai gali būti 
 
 Pavyzdžiai: bendri savaitgalio pusryčiai, sveikinimai su sukaktimis, kasmetinės atostogos.
 
+<br/>
 ____________________________________________________________
+<br/><br/>
 ____________________________________________________________
+<br/><br/>
 ____________________________________________________________
 
 ### 2. Kokias naujas tradicijas norime įvesti
 
 Pavyzdžiai: mėnesinis stalo žaidimų vakaras, bendri pasivaikščiojimai, šeimos fotoalbumas.
 
+<br/>
 ____________________________________________________________
+<br/><br/>
 ____________________________________________________________
+<br/><br/>
 ____________________________________________________________
 
 ### 3. Asmeniniai ritualai, kuriuos norėčiau išlaikyti
 
 Pavyzdžiai: vakarinis skaitymas, rytinė kava vienumoje, sportas.
 
+<br/>
 ____________________________________________________________
+<br/><br/>
 ____________________________________________________________
+<br/><br/>
 ____________________________________________________________
 
 ## Išvada
