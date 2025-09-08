@@ -113,3 +113,5 @@ Yra ir kitų populiarių įrankių, kuriuos galima tyrinėti ir išbandyti:
 ## Išvada
 
 Profesinės ir pritaikytos praktikos padeda paversti teoriją veiksmais. Jos neprimeta taisyklių, o siūlo patogius įrankius, kuriuos galima pritaikyti konkrečios poros stiliui. Situacinės lyderystės, susitarimų ir asmeninių „manualų“ įtraukimas daro praktikų rinkinį pilnesnį ir praktiškesnį.
+
+<div style="page-break-after: always;"></div>

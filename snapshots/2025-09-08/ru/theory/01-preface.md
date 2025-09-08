@@ -8,6 +8,7 @@
 
 Я надеюсь, что этот инструмент поможет вам так же, как помог нам: превратить хаотичные разговоры в понятную карту, которая ведёт к общему будущему.
 
-_[Viktor Jevdokimov](https://www.linkedin.com/in/viktor-jevdokimov)_
-
+_[Viktor Jevdokimov](https://www.linkedin.com/in/viktor-jevdokimov)_<br/>
 _Вильнюс, 2025_
+
+<div style="page-break-after: always;"></div>

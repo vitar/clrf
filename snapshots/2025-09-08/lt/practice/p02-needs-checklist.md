@@ -47,6 +47,12 @@
 ☐ Darna su aplinka (minimalus išorinis spaudimas)
 
 Mano pastabos ir papildymai
+
+<br/>
 ____________________________________________________________
+<br/><br/>
 ____________________________________________________________
+<br/><br/>
 ____________________________________________________________
+
+<div style="page-break-after: always;"></div>

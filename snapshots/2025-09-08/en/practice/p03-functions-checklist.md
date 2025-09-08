@@ -55,6 +55,12 @@ This checklist will help you identify functions that work well and those that co
 ☐ Autonomy – personal space, time for oneself
 
 My notes and additions
+
+<br/>
 ____________________________________________________________
+<br/><br/>
 ____________________________________________________________
+<br/><br/>
 ____________________________________________________________
+
+<div style="page-break-after: always;"></div>

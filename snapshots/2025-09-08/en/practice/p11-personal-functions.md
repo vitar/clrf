@@ -27,14 +27,20 @@ My notes
 
 What I do well:
 
+<br/>
 ____________________________________________________________
+<br/><br/>
 ____________________________________________________________
 
 What I want to improve:
 
+<br/>
 ____________________________________________________________
+<br/><br/>
 ____________________________________________________________
 
 ## Conclusion
 
 Developing personal functions reduces the load on shared functions. When each person feels whole and steady, the relationship becomes more harmonious.
+
+<div style="page-break-after: always;"></div>

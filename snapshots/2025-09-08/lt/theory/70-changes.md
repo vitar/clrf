@@ -50,3 +50,5 @@ Balansas – judėti abiem kryptimis: plėtoti ir „mes“, ir „aš“.
 ## Išvada
 
 Pokyčiai – procesas, o ne vienkartinis sprendimas. Jie reikalauja laiko, susitarimo ir pasirengimo koreguoti. Net maži žingsniai ilgainiui gali atnešti didelių rezultatų.
+
+<div style="page-break-after: always;"></div>

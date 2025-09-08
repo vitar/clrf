@@ -43,6 +43,12 @@ This checklist will help you identify the main conditions in your life that infl
 ☐ Personal space and autonomy (time/space for oneself)
 
 My notes and additions
+
+<br/>
 ____________________________________________________________
+<br/><br/>
 ____________________________________________________________
+<br/><br/>
 ____________________________________________________________
+
+<div style="page-break-after: always;"></div>
