@@ -1,5 +1,3 @@
-<div style="page-break-before: always;"></div>
-
 # Обновления книги
 
 ## 2025-09-08
@@ -15,3 +13,5 @@
 
 ## 2025-09-05
 - ✨ Первая русская версия книги с главами и практиками.
+
+<div style="page-break-after: always;"></div>

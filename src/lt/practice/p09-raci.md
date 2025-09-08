@@ -1,5 +1,3 @@
-<div style="page-break-before: always;"></div>
-
 # Praktika 9. RACI
 
 Ši praktika padeda paskirstyti vaidmenis ir atsakomybes poroje. Metodika paremta RACI principu: Responsible (kas atlieka darbą), Accountable (atskaitingas — galutinai atsako ir patvirtina rezultatą), Consulted (kurių nuomonės prašoma prieš sprendimą), Informed (kas nuolat informuojamas apie sprendimus ir veiksmus). Pildykite lentelę kartu, kad sumažėtų nesusipratimų ir konfliktų.
@@ -26,3 +24,5 @@ ____________________________________________________________
 ____________________________________________________________
 
 Pastaba: vaidmenis galima keisti laikui bėgant. Svarbiausia – skaidrumas ir abipusis sutarimas.
+
+<div style="page-break-after: always;"></div>

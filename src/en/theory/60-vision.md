@@ -1,5 +1,3 @@
-<div style="page-break-before: always;"></div>
-
 # Chapter 6. Vision
 
 A vision is a picture of the future that a person or couple strives for. It helps set the direction and build a strategy for change. It is important to distinguish fantasies from a vision: a vision must take into account real conditions and needs to be achievable and useful.
@@ -32,3 +30,5 @@ The synthesized vision of the couple includes the common core and a respectful a
 ## Conclusion
 
 A vision is a guideline, not a rigid plan. It sets direction and inspires, yet allows changes as conditions and needs evolve.
+
+<div style="page-break-after: always;"></div>

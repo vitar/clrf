@@ -1,5 +1,3 @@
-<div style="page-break-before: always;"></div>
-
 # 9 skyrius. Praktikos iš profesinio ir asmeninio bagažo
 
 **> CL/RF _ Couple Life Reflection karkasas** nustato pagrindus: sąlygas, poreikius ir funkcijas. Tačiau pokyčius ir veiksmus galima įgyvendinti įvairiomis praktikomis. Daugelis jų atkeliavo iš profesinės aplinkos ir gali būti pritaikytos porai. Papildomai įtraukti įrankiai, padedantys kasdienėje sąveikoje.
@@ -115,3 +113,5 @@ Yra ir kitų populiarių įrankių, kuriuos galima tyrinėti ir išbandyti:
 ## Išvada
 
 Profesinės ir pritaikytos praktikos padeda paversti teoriją veiksmais. Jos neprimeta taisyklių, o siūlo patogius įrankius, kuriuos galima pritaikyti konkrečios poros stiliui. Situacinės lyderystės, susitarimų ir asmeninių „manualų“ įtraukimas daro praktikų rinkinį pilnesnį ir praktiškesnį.
+
+<div style="page-break-after: always;"></div>

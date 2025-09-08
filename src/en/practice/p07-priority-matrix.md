@@ -1,5 +1,3 @@
-<div style="page-break-before: always;"></div>
-
 # Practice 7. Priority Matrix
 
 This matrix helps you prioritize selected changes. Distribute them into four quadrants based on importance and urgency. Use it as a tool for a joint discussion.
@@ -16,3 +14,5 @@ This matrix helps you prioritize selected changes. Distribute them into four qua
 |||
 
 Note: Start by distributing 3–5 key changes. This helps you focus on what truly matters and reduces overload.
+
+<div style="page-break-after: always;"></div>

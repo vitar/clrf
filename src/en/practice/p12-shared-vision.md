@@ -1,5 +1,3 @@
-<div style="page-break-before: always;"></div>
-
 # Practice 12. Shared Vision
 
 This practice helps you form a shared picture of the future. First, each partner shares their individual vision; then you create a shared one together. It should include a common core (what matches) and respectful acknowledgment of differences (what remains personal).
@@ -40,3 +38,5 @@ ____________________________________________________________
 ## Conclusion
 
 A shared vision is a guideline, not a rigid plan. It helps you move in the same direction while preserving each partner’s individuality.
+
+<div style="page-break-after: always;"></div>

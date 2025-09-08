@@ -1,5 +1,3 @@
-<div style="page-break-before: always;"></div>
-
 # 3 skyrius. Poreikiai
 
 Poreikiai – tai vidiniai poreikiai, kylantys esant sąlygoms. Jie apibrėžia, kas mums svarbu šiuo metu, ir nurodo kryptį bendriems bei asmeniniams veiksmams. Sąlygų ir poreikių atskyrimas padeda išvengti painiavos: sąlyga – faktas, poreikis – noras ar prašymas.
@@ -44,3 +42,5 @@ Svarbu atskirti sąlygas ir poreikius:
 ## Išvada
 
 Poreikiai sudaro pagrindą ateities vizijai ir padeda pasirinkti funkcijas. Juos pripažinus, lengviau suprasti save ir vienas kitą bei išvengti nesusipratimų, kai partneriai kalba apie sąlygas, o turi omenyje poreikius.
+
+<div style="page-break-after: always;"></div>

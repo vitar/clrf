@@ -1,5 +1,3 @@
-<div style="page-break-before: always;"></div>
-
 # Praktika 4. Supaprastinta diagnostika
 
 Ši supaprastinta diagnostika padės kiekvienam partneriui užfiksuoti pagrindines sąlygas, poreikius ir funkcijas šiuo metu. Pirmiausia užpildykite individualiai, tuomet aptarkite kartu.
@@ -68,3 +66,5 @@ Užpildę atskirai, aptarkite kartu:
 - Kur skiriasi.
 - Ką kiekvienas daro gerai ir kur reikia palaikymo.
 - Perskaitykite vienas kitam trumpus atsakymus.
+
+<div style="page-break-after: always;"></div>

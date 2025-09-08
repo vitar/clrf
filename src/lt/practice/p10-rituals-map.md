@@ -1,5 +1,3 @@
-<div style="page-break-before: always;"></div>
-
 # Praktika 10. Ritualų žemėlapis
 
 Tradicijos ir ritualai kuria poroje stabilumo ir artumo jausmą. Tai gali būti tiek didelės šeimos šventės, tiek maži kasdieniai įpročiai. Šis žemėlapis padės užfiksuoti esamus ritualus ir sugalvoti naujus.
@@ -40,3 +38,5 @@ ____________________________________________________________
 ## Išvada
 
 Tradicijos ir ritualai kuria „mūsų pasaulio“ jausmą. Net maži įpročiai gali tapti artumo ir šilumos pagrindu.
+
+<div style="page-break-after: always;"></div>

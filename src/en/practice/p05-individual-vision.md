@@ -1,5 +1,3 @@
-<div style="page-break-before: always;"></div>
-
 # Practice 5. Individual Vision
 
 This practice will help you articulate your vision of the future. Write your answers freely. It is important to write in the first person (“I want…”, “I see myself…”) so that the vision reflects your own desires and goals.
@@ -58,3 +56,5 @@ ____________________________________________________________
 ## Conclusion
 
 After you complete it, discuss your vision with your partner. Comparing individual visions helps you find the common core and identify differences that can be incorporated into the shared picture of the future.
+
+<div style="page-break-after: always;"></div>

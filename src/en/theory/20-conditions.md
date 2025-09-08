@@ -1,5 +1,3 @@
-<div style="page-break-before: always;"></div>
-
 # Chapter 2. Conditions
 
 Conditions are the background and environment in which the couple lives. They create the frame that can support the relationship or, on the contrary, complicate it. Conditions cannot always be changed immediately, but they must be acknowledged to understand what needs arise and which functions should be activated.
@@ -35,3 +33,5 @@ This includes health (physical and mental), emotional state, and personal space.
 ## Conclusion
 
 Conditions are not "right" or "wrong." They are the reality that is important to acknowledge. Awareness of conditions determines which needs will be relevant and which functions will have to be activated.
+
+<div style="page-break-after: always;"></div>

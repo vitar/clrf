@@ -1,5 +1,3 @@
-<div style="page-break-before: always;"></div>
-
 # Praktika 11. Asmeninės funkcijos
 
 Šis sąrašas padeda kiekvienam partneriui suprasti, kurios asmeninės funkcijos palaiko jo gyvenimą ir santykius. Pažymėkite, kurios jau išvystytos, o kurioms reikia dėmesio.
@@ -44,3 +42,5 @@ ____________________________________________________________
 ## Išvada
 
 Asmeninių funkcijų vystymas mažina bendrųjų funkcijų krūvį. Kai kiekvienas jaučiasi vientisas ir stabilus, santykiai tampa harmoningesni.
+
+<div style="page-break-after: always;"></div>

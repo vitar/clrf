@@ -1,5 +1,3 @@
-<div style="page-break-before: always;"></div>
-
 # 8 skyrius. Prioritetai ir strategija
 
 Nustačius pokyčius, svarbu sudėlioti prioritetus ir parengti jų įgyvendinimo strategiją. Priešingu atveju kyla perkrovos rizika: per daug tikslų vienu metu veda į perdegimą ar pokyčių atsisakymą.
@@ -37,3 +35,5 @@ Paprastos reguliarios praktikos padeda palaikyti strategiją:
 ## Išvada
 
 Prioritetai ir strategija padeda paversti ketinimus veiksmais. Jie suteikia aiškumą, kas svarbu dabar, ką galima atidėti ir kaip kartu palaikote judėjimą link vizijos.
+
+<div style="page-break-after: always;"></div>

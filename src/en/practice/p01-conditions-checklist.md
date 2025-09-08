@@ -1,5 +1,3 @@
-<div style="page-break-before: always;"></div>
-
 # Practice 1. Conditions Checklist
 
 This checklist will help you identify the main conditions in your life that influence your relationship. Mark the most important ones and add your own if necessary.
@@ -52,3 +50,5 @@ ____________________________________________________________
 ____________________________________________________________
 <br/><br/>
 ____________________________________________________________
+
+<div style="page-break-after: always;"></div>

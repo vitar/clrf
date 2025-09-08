@@ -1,5 +1,3 @@
-<div style="page-break-before: always;"></div>
-
 # Praktika 8. Retrospektyvos šablonas
 
 Retrospektyva – tai bendras aptarimas, padedantis suprasti, kas santykiuose veikia, o ką galima pagerinti. Rekomenduojama ją rengti kartą per mėnesį arba ketvirtį.
@@ -44,3 +42,5 @@ ____________________________________________________________
 ## Išvada
 
 Retrospektyva – ne kritika, o bendras gerinimo paieškų procesas. Svarbu išlaikyti pagarbią toną ir pabrėžti teigiamus momentus.
+
+<div style="page-break-after: always;"></div>

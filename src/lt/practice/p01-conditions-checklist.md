@@ -1,5 +1,3 @@
-<div style="page-break-before: always;"></div>
-
 # Praktika 1. Sąlygų kontrolinis sąrašas
 
 Šis sąrašas padės užfiksuoti pagrindines jūsų gyvenimo sąlygas, kurios veikia santykius. Pažymėkite svarbiausias ir, jei reikia, papildykite savomis.
@@ -52,3 +50,5 @@ ____________________________________________________________
 ____________________________________________________________
 <br/><br/>
 ____________________________________________________________
+
+<div style="page-break-after: always;"></div>

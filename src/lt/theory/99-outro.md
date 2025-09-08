@@ -1,5 +1,3 @@
-<div style="page-break-before: always;"></div>
-
 # 10 skyrius. Pabaiga
 
 „Couple Life Reflection Framework“ karkasas siūlo struktūrą, padedančią poroms sąmoningai žiūrėti į santykius. Jis remiasi trimis lygiais: sąlygomis, poreikiais ir funkcijomis. Šie lygiai sudaro pagrindą diagnostikai, vizijai ir pokyčiams.
@@ -29,3 +27,5 @@ Karkasas leidžia:
 ## 4. Baigiamasis žodis
 
 Santykiai – gyvas procesas. Karkasas padeda jį padaryti sąmoningesnį ir lankstesnį. Jis neduoda paruoštų receptų, o siūlo žemėlapį, kuriuo kiekviena pora gali rasti savo kelią.
+
+<div style="page-break-after: always;"></div>

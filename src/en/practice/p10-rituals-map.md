@@ -1,5 +1,3 @@
-<div style="page-break-before: always;"></div>
-
 # Practice 10. Rituals Map
 
 Traditions and rituals create a sense of stability and closeness in your relationship. They
@@ -42,3 +40,5 @@ ____________________________________________________________
 ## Conclusion
 
 Traditions and rituals create a sense of “our world”. Even small habits can become the foundation of closeness and warmth.
+
+<div style="page-break-after: always;"></div>

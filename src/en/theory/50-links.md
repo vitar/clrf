@@ -1,5 +1,3 @@
-<div style="page-break-before: always;"></div>
-
 # Chapter 5. Links
 
 Conditions, needs, and functions do not exist separately. They are connected in the sequence: Condition → Need → Function. This logic helps us understand how reality shapes requests and how requests determine actions.
@@ -42,3 +40,5 @@ Example:
 ## Conclusion
 
 Links turn abstract conversations (“we need more closeness”) into concrete steps (“we set aside an evening, we create a ritual”). This is the key to practical use of the framework.
+
+<div style="page-break-after: always;"></div>

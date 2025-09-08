@@ -1,5 +1,3 @@
-<div style="page-break-before: always;"></div>
-
 # Practice 11. Personal Functions
 
 This checklist helps each partner identify which personal functions support their life and relationship. Check which ones are developed and which need attention.
@@ -44,3 +42,5 @@ ____________________________________________________________
 ## Conclusion
 
 Developing personal functions reduces the load on shared functions. When each person feels whole and steady, the relationship becomes more harmonious.
+
+<div style="page-break-after: always;"></div>

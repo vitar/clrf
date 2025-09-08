@@ -1,5 +1,3 @@
-<div style="page-break-before: always;"></div>
-
 # 7 skyrius. Pokyčiai
 
 Pokyčiai – tai tiltas tarp dabartinės situacijos ir ateities vizijos. Jie leidžia abstrakčius norus paversti konkrečiais žingsniais. Pokyčiai gali būti įvairaus masto – nuo kasdienių įpročių iki kardinalių sprendimų.
@@ -52,3 +50,5 @@ Balansas – judėti abiem kryptimis: plėtoti ir „mes“, ir „aš“.
 ## Išvada
 
 Pokyčiai – procesas, o ne vienkartinis sprendimas. Jie reikalauja laiko, susitarimo ir pasirengimo koreguoti. Net maži žingsniai ilgainiui gali atnešti didelių rezultatų.
+
+<div style="page-break-after: always;"></div>

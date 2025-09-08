@@ -1,5 +1,3 @@
-<div style="page-break-before: always;"></div>
-
 # 1 skyrius. Įvadas
 
 ## 1. Kodėl reikalingas santykių karkasas (Problemos erdvė)
@@ -72,3 +70,5 @@ CLRF suteikia paprastą, praktišką karkasą (knygą, pratimus, programėlę), 
 - Maži, reguliarūs pokalbiai svarbesni už retus „didelius pokalbius“.
 - Kalba formuoja rezultatus: įvardijimas mažina gynybiškumą.
 - Įrankiai — pagalbininkai, o ne pakaitalai.
+
+<div style="page-break-after: always;"></div>

@@ -1,5 +1,3 @@
-<div style="page-break-before: always;"></div>
-
 # Practice 4. Simplified Diagnostic
 
 This simplified diagnostic will help each partner identify the main conditions, needs, and functions right now. Fill it out individually first, then discuss together.
@@ -68,3 +66,5 @@ After filling it out individually, discuss together:
 - Where they differ.
 - What each person does well and where support is needed.
 - Read your short answers to each other.
+
+<div style="page-break-after: always;"></div>

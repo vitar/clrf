@@ -1,5 +1,3 @@
-<div style="page-break-before: always;"></div>
-
 # Practice 3. Functions Checklist
 
 This checklist will help you identify functions that work well and those that could be improved. Check or jot notes on the current state of each function.
@@ -64,3 +62,5 @@ ____________________________________________________________
 ____________________________________________________________
 <br/><br/>
 ____________________________________________________________
+
+<div style="page-break-after: always;"></div>

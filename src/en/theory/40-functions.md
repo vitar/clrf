@@ -1,5 +1,3 @@
-<div style="page-break-before: always;"></div>
-
 # Chapter 4. Functions
 
 Functions are ways of acting through which the couple and each partner satisfy their needs under given conditions. Functions are divided into shared (that serve the couple) and personal (that serve each individual). Their balance determines the stability of the relationship.
@@ -42,3 +40,5 @@ Balance is achieved when personal and shared do not contradict each other but re
 ## Conclusion
 
 Functions are not obligations or rules. They are mechanisms activated to satisfy needs. They can be implemented through different practices, and this is where the framework’s flexibility comes from.
+
+<div style="page-break-after: always;"></div>

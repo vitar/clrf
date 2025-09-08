@@ -1,5 +1,3 @@
-<div style="page-break-before: always;"></div>
-
 # Praktika 5. Asmeninė vizija
 
 Ši praktika padės suformuluoti jūsų ateities viziją. Atsakymus rašykite laisva forma. Svarbu rašyti pirmuoju asmeniu („Aš noriu…“, „Aš matau save…“), kad vizija atspindėtų būtent jūsų norus ir tikslus.
@@ -58,3 +56,5 @@ ____________________________________________________________
 ## Išvada
 
 Užpildę ją, aptarkite savo viziją su partneriu. Individualių vizijų palyginimas padeda rasti bendrą branduolį ir pamatyti skirtumus, kuriuos galima įtraukti į bendrą ateities paveikslą.
+
+<div style="page-break-after: always;"></div>

@@ -1,5 +1,3 @@
-<div style="page-break-before: always;"></div>
-
 # Chapter 1. Introduction
 
 ## 1. Why a framework for relationships is needed (Problem Space)
@@ -72,3 +70,5 @@ CLRF provides a simple, practical framework (book, exercises, app) that helps se
 - Small, regular conversations matter more than rare big talks.
 - Language shapes outcomes: naming lowers defensiveness.
 - Tools are helpers, not replacements.
+
+<div style="page-break-after: always;"></div>

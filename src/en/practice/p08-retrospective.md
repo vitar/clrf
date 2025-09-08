@@ -1,5 +1,3 @@
-<div style="page-break-before: always;"></div>
-
 # Practice 8. Retrospective Template
 
 A retrospective is a joint discussion that helps you understand what works in your relationship and what can be improved. It is recommended to hold it monthly or quarterly.
@@ -46,3 +44,5 @@ ____________________________________________________________
 ## Conclusion
 
 A retrospective is not criticism, but a joint search for improvements. It is important to maintain a respectful tone and highlight positive moments.
+
+<div style="page-break-after: always;"></div>

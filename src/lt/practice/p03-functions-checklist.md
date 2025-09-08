@@ -1,5 +1,3 @@
-<div style="page-break-before: always;"></div>
-
 # Praktika 3. Funkcijų kontrolinis sąrašas
 
 Šis sąrašas padės pažymėti funkcijas, kurios veikia gerai, ir tas, kurias norėtųsi pagerinti. Pažymėkite arba užsirašykite dabartinę kiekvienos funkcijos būseną.
@@ -64,3 +62,5 @@ ____________________________________________________________
 ____________________________________________________________
 <br/><br/>
 ____________________________________________________________
+
+<div style="page-break-after: always;"></div>

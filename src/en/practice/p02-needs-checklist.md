@@ -1,5 +1,3 @@
-<div style="page-break-before: always;"></div>
-
 # Practice 2. Needs Checklist
 
 This checklist will help you identify personal and shared needs.
@@ -58,3 +56,5 @@ ____________________________________________________________
 ____________________________________________________________
 <br/><br/>
 ____________________________________________________________
+
+<div style="page-break-after: always;"></div>
