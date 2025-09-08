@@ -1,64 +1,139 @@
-# -------- Settings --------
-LANGS := en lt ru
-NAME := clrf
-OUTDIR := dist/pdf
+BOOK_EN=\
+	src/en/theory/00-cover.md \
+	src/en/theory/01-preface.md \
+	src/en/theory/10-intro.md \
+	src/en/theory/20-conditions.md \
+	src/en/theory/30-needs.md \
+	src/en/theory/40-functions.md \
+	src/en/theory/50-links.md \
+	src/en/theory/60-vision.md \
+	src/en/theory/70-changes.md \
+	src/en/theory/80-priorities-strategy.md \
+	src/en/theory/90-practices-toolbox.md \
+	src/en/theory/99-outro.md \
+	src/en/practice/p01-conditions-checklist.md \
+	src/en/practice/p02-needs-checklist.md \
+	src/en/practice/p03-functions-checklist.md \
+	src/en/practice/p04-diagnostic-light.md \
+	src/en/practice/p05-individual-vision.md \
+	src/en/practice/p06-change-table.md \
+	src/en/practice/p07-priority-matrix.md \
+	src/en/practice/p08-retrospective.md \
+	src/en/practice/p09-raci.md \
+	src/en/practice/p10-rituals-map.md \
+	src/en/practice/p11-personal-functions.md \
+	src/en/practice/p12-shared-vision.md
+	src/en/changelog.md
 
-PDF_ENGINE := wkhtmltopdf
-PDF_ENGINE_OPTS := \
-	--page-size A4 \
-	--margin-top 15mm \
-	--margin-right 12mm \
-	--margin-bottom 18mm \
-	--margin-left 12mm
+BOOK_LT=\
+	src/lt/theory/00-cover.md \
+	src/lt/theory/01-preface.md \
+	src/lt/theory/10-intro.md \
+	src/lt/theory/20-conditions.md \
+	src/lt/theory/30-needs.md \
+	src/lt/theory/40-functions.md \
+	src/lt/theory/50-links.md \
+	src/lt/theory/60-vision.md \
+	src/lt/theory/70-changes.md \
+	src/lt/theory/80-priorities-strategy.md \
+	src/lt/theory/90-practices-toolbox.md \
+	src/lt/theory/99-outro.md \
+	src/lt/practice/p01-conditions-checklist.md \
+	src/lt/practice/p02-needs-checklist.md \
+	src/lt/practice/p03-functions-checklist.md \
+	src/lt/practice/p04-diagnostic-light.md \
+	src/lt/practice/p05-individual-vision.md \
+	src/lt/practice/p06-change-table.md \
+	src/lt/practice/p07-priority-matrix.md \
+	src/lt/practice/p08-retrospective.md \
+	src/lt/practice/p09-raci.md \
+	src/lt/practice/p10-rituals-map.md \
+	src/lt/practice/p11-personal-functions.md \
+	src/lt/practice/p12-shared-vision.md
+	src/lt/changelog.md
 
-PDF_CSS := pdf.css
-CSS_FLAG := $(if $(PDF_CSS),-c $(PDF_CSS),)
+BOOK_RU=\
+	src/ru/theory/00-cover.md \
+	src/ru/theory/01-preface.md \
+	src/ru/theory/10-intro.md \
+	src/ru/theory/20-conditions.md \
+	src/ru/theory/30-needs.md \
+	src/ru/theory/40-functions.md \
+	src/ru/theory/50-links.md \
+	src/ru/theory/60-vision.md \
+	src/ru/theory/70-changes.md \
+	src/ru/theory/80-priorities-strategy.md \
+	src/ru/theory/90-practices-toolbox.md \
+	src/ru/theory/99-outro.md \
+	src/ru/practice/p01-conditions-checklist.md \
+	src/ru/practice/p02-needs-checklist.md \
+	src/ru/practice/p03-functions-checklist.md \
+	src/ru/practice/p04-diagnostic-light.md \
+	src/ru/practice/p05-individual-vision.md \
+	src/ru/practice/p06-change-table.md \
+	src/ru/practice/p07-priority-matrix.md \
+	src/ru/practice/p08-retrospective.md \
+	src/ru/practice/p09-raci.md \
+	src/ru/practice/p10-rituals-map.md \
+	src/ru/practice/p11-personal-functions.md \
+	src/ru/practice/p12-shared-vision.md
+	src/ru/changelog.md
 
-# -------- Chapters once (language-agnostic) --------
-# List every md path once as it appears under each language directory.
-COMMON_MD := \
-	index.md \
-	theory/01-preface.md \
-	theory/10-intro.md \
-	theory/20-conditions.md \
-	theory/30-needs.md \
-	theory/40-functions.md \
-	theory/50-links.md \
-	theory/60-vision.md \
-	theory/70-changes.md \
-	theory/80-priorities-strategy.md \
-	theory/90-practices-toolbox.md \
-	theory/99-outro.md \
-	practice/p01-conditions-checklist.md \
-	practice/p02-needs-checklist.md \
-	practice/p03-functions-checklist.md \
-	practice/p04-diagnostic-light.md \
-	practice/p05-individual-vision.md \
-	practice/p06-change-table.md \
-	practice/p07-priority-matrix.md \
-	practice/p08-retrospective.md \
-	practice/p09-raci.md \
-	practice/p10-rituals-map.md \
-	practice/p11-personal-functions.md \
-	practice/p12-shared-vision.md
-	changelog.md
+all: site pdf
 
-# -------- Outputs --------
-PDFS := $(foreach L,$(LANGS),$(OUTDIR)/$(NAME)-$(L).pdf)
+site:
+	mkdocs build -d dist/site
 
-.PHONY: all pdf clean
-all: pdf
-pdf: $(PDFS)
+pdf:
+	mkdir -p dist/pdf
 
-# -------- Pattern rule: build any language PDF --------
-# Uses $* (the stem) to expand 'src/<lang>/' for the same COMMON_MD list.
-$(OUTDIR)/$(NAME)-%.pdf:
-	@mkdir -p $(OUTDIR)
-	pandoc $(addprefix src/$*/,$(COMMON_MD)) \
-		--pdf-engine=$(PDF_ENGINE) \
-		$(foreach opt,$(PDF_ENGINE_OPTS),--pdf-engine-opt=$(opt)) \
-		$(CSS_FLAG) \
-		-o $@
+	pandoc $(BOOK_EN) \
+	-t html5 -s \
+	--css=pdf.css \
+	--pdf-engine=wkhtmltopdf \
+	--pdf-engine-opt=--page-size \
+	--pdf-engine-opt=A4 \
+	--pdf-engine-opt=--margin-top \
+	--pdf-engine-opt=15mm \
+	--pdf-engine-opt=--margin-right \
+	--pdf-engine-opt=12mm \
+	--pdf-engine-opt=--margin-bottom \
+	--pdf-engine-opt=18mm \
+	--pdf-engine-opt=--margin-left \
+	--pdf-engine-opt=12mm \
+	-o dist/pdf/clrf-en.pdf
+
+	pandoc $(BOOK_LT) \
+	-t html5 -s \
+	--css=pdf.css \
+	--pdf-engine=wkhtmltopdf \
+	--pdf-engine-opt=--page-size \
+	--pdf-engine-opt=A4 \
+	--pdf-engine-opt=--margin-top \
+	--pdf-engine-opt=15mm \
+	--pdf-engine-opt=--margin-right \
+	--pdf-engine-opt=12mm \
+	--pdf-engine-opt=--margin-bottom \
+	--pdf-engine-opt=18mm \
+	--pdf-engine-opt=--margin-left \
+	--pdf-engine-opt=12mm \
+	-o dist/pdf/clrf-lt.pdf
+
+	pandoc $(BOOK_RU) \
+	-t html5 -s \
+	--css=pdf.css \
+	--pdf-engine=wkhtmltopdf \
+	--pdf-engine-opt=--page-size \
+	--pdf-engine-opt=A4 \
+	--pdf-engine-opt=--margin-top \
+	--pdf-engine-opt=15mm \
+	--pdf-engine-opt=--margin-right \
+	--pdf-engine-opt=12mm \
+	--pdf-engine-opt=--margin-bottom \
+	--pdf-engine-opt=18mm \
+	--pdf-engine-opt=--margin-left \
+	--pdf-engine-opt=12mm \
+	-o dist/pdf/clrf-ru.pdf
 
 clean:
-	rm -rf $(OUTDIR)
+	rm -rf dist

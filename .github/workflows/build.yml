@@ -11,8 +11,8 @@ concurrency:
 
 permissions:
   contents: read
-  pages: write      # нужно для deploy-pages
-  id-token: write   # нужно для OIDC при деплое
+  pages: write
+  id-token: write
 
 jobs:
   build:
@@ -44,7 +44,6 @@ jobs:
       - name: Build PDFs (Pandoc → wkhtmltopdf)
         run: make pdf
 
-      # 1) Артефакт всего dist (PDF для скачивания с вкладки Actions)
       - name: Upload dist artifacts
         uses: actions/upload-artifact@v4
         with:
@@ -52,7 +51,6 @@ jobs:
           path: dist
           if-no-files-found: warn
 
-      # 2) Артефакт сайта для GitHub Pages
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:

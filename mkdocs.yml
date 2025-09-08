@@ -1,7 +1,6 @@
 site_name: "> CL/RF _ Couple Life Reflection Framework"
 site_url: https://vitar.github.io/clrf
 
-# Контент лежит в src/<locale>/...
 docs_dir: src
 
 theme:
@@ -29,8 +28,6 @@ plugins:
           default: false
           build: true
 
-# Навигация задаётся для дефолтного языка.
-# Плагин сам переключит префикс на en/ lt/ ru/ при смене языка.
 nav:
   - index.md
   - theory/01-preface.md
