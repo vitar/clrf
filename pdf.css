@@ -1,0 +1,37 @@
+/* pdf.css — override Pandoc's narrow default layout */
+@media print {
+  html, body {
+    margin: 0;
+    padding: 0;
+  }
+
+  /* Remove Pandoc's default max-width and centering */
+  body {
+    max-width: none !important;
+    width: auto !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  /* Make headings and paragraphs use normal page width */
+  main, article, section, header, footer, nav, div, p, h1, h2, h3, h4, h5, h6 {
+    max-width: none !important;
+  }
+
+  /* Optional: a bit of inner padding so text doesn't touch page margin */
+  .page-inner {
+    padding: 6mm 0; /* adjust if you’d like */
+  }
+}
+
+/* Also apply for screen → wkhtmltopdf renders HTML first */
+html, body {
+  margin: 0;
+  padding: 0;
+}
+body {
+  max-width: none !important;
+  width: auto !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}

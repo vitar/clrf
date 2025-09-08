@@ -48,6 +48,8 @@ site:
 pdf:
 	mkdir -p dist/pdf
 	pandoc $(THEORY_RU) $(PRACTICE_RU) $(CHANGELOG_RU) \
+	-t html5 -s \
+	--css=pdf.css \
 	--pdf-engine=wkhtmltopdf \
 	--pdf-engine-opt=--page-size \
 	--pdf-engine-opt=A4 \
@@ -62,6 +64,8 @@ pdf:
 	-o dist/pdf/clrf-ru.pdf
 
 	pandoc $(PRACTICE_RU) \
+	-t html5 -s \
+	--css=pdf.css \
 	--pdf-engine=wkhtmltopdf \
 	--pdf-engine-opt=--page-size \
 	--pdf-engine-opt=A4 \
