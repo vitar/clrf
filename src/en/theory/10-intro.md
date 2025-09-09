@@ -71,4 +71,3 @@ CLRF provides a simple, practical framework (book, exercises, app) that helps se
 - Language shapes outcomes: naming lowers defensiveness.
 - Tools are helpers, not replacements.
 
-<div style="page-break-after: always;"></div>

@@ -43,4 +43,3 @@ ____________________________________________________________
 
 Retrospektyva – ne kritika, o bendras gerinimo paieškų procesas. Svarbu išlaikyti pagarbią toną ir pabrėžti teigiamus momentus.
 
-<div style="page-break-after: always;"></div>

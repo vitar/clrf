@@ -71,4 +71,3 @@ CLRF suteikia paprastą, praktišką karkasą (knygą, pratimus, programėlę), 
 - Kalba formuoja rezultatus: įvardijimas mažina gynybiškumą.
 - Įrankiai — pagalbininkai, o ne pakaitalai.
 
-<div style="page-break-after: always;"></div>

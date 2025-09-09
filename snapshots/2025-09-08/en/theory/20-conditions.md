@@ -34,4 +34,3 @@ This includes health (physical and mental), emotional state, and personal space.
 
 Conditions are not "right" or "wrong." They are the reality that is important to acknowledge. Awareness of conditions determines which needs will be relevant and which functions will have to be activated.
 
-<div style="page-break-after: always;"></div>

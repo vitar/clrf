@@ -17,4 +17,3 @@
 
 Pastaba: pradėkite nuo 3–5 pagrindinių pokyčių, kad neperkrautumėte savęs. Balansuokite bendrus ir asmeninius žingsnius.
 
-<div style="page-break-after: always;"></div>

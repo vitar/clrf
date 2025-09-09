@@ -31,4 +31,3 @@ The synthesized vision of the couple includes the common core and a respectful a
 
 A vision is a guideline, not a rigid plan. It sets direction and inspires, yet allows changes as conditions and needs evolve.
 
-<div style="page-break-after: always;"></div>

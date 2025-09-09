@@ -14,4 +14,3 @@
 
 Pastaba: pradėkite nuo 3–5 pagrindinių pokyčių paskirstymo. Tai padės susitelkti į tai, kas iš tiesų svarbu, ir sumažinti perkrovą.
 
-<div style="page-break-after: always;"></div>

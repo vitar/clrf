@@ -13,4 +13,3 @@
 ## 2025-09-05
 - ✨ Initial English release covering Preface, Chapters 1–10, and Practices 1–12.
 
-<div style="page-break-after: always;"></div>

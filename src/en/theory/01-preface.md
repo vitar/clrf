@@ -11,4 +11,3 @@ I hope this tool helps you just as it helped us: turning chaotic conversations i
 _[Viktor Jevdokimov](https://www.linkedin.com/in/viktor-jevdokimov)_<br/>
 _Vilnius, 2025_
 
-<div style="page-break-after: always;"></div>

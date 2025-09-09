@@ -41,4 +41,3 @@ Balansas pasiekiamas tada, kai asmeninės ir bendros funkcijos neprieštarauja, 
 
 Funkcijos nėra pareigos ar taisyklės. Tai mechanizmai, kurie aktyvuojami siekiant patenkinti poreikius. Jas galima realizuoti įvairiomis praktikomis, ir būtent čia slypi karkaso lankstumas.
 
-<div style="page-break-after: always;"></div>

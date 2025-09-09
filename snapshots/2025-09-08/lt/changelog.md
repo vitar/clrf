@@ -13,4 +13,3 @@
 ## 2025-09-05
 - ✨ Pirmoji lietuviško leidimo versija su visais teorijos skyriais ir praktikomis.
 
-<div style="page-break-after: always;"></div>

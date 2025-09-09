@@ -23,6 +23,14 @@
     padding: 6mm 0; /* adjust if you’d like */
   }
 
+  /* Start each top-level heading on a new page */
+  h1 {
+    page-break-before: always;
+  }
+  h1:first-of-type {
+    page-break-before: auto;
+  }
+
   table {
     width: 100%;
     border-collapse: collapse;

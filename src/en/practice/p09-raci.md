@@ -24,4 +24,3 @@ ____________________________________________________________
 
 Note: Roles may change over time. The key is transparency and mutual agreement.
 
-<div style="page-break-after: always;"></div>
