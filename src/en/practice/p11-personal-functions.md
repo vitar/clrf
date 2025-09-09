@@ -43,4 +43,3 @@ ____________________________________________________________
 
 Developing personal functions reduces the load on shared functions. When each person feels whole and steady, the relationship becomes more harmonious.
 
-<div style="page-break-after: always;"></div>

@@ -45,4 +45,3 @@ ____________________________________________________________
 
 A retrospective is not criticism, but a joint search for improvements. It is important to maintain a respectful tone and highlight positive moments.
 
-<div style="page-break-after: always;"></div>

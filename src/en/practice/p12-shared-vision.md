@@ -39,4 +39,3 @@ ____________________________________________________________
 
 A shared vision is a guideline, not a rigid plan. It helps you move in the same direction while preserving each partner’s individuality.
 
-<div style="page-break-after: always;"></div>

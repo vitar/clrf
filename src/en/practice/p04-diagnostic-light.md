@@ -62,4 +62,3 @@ After filling it out individually, discuss together:
 - What each person does well and where support is needed.
 - Read your short answers to each other.
 
-<div style="page-break-after: always;"></div>

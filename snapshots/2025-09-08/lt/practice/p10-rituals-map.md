@@ -39,4 +39,3 @@ ____________________________________________________________
 
 Tradicijos ir ritualai kuria „mūsų pasaulio“ jausmą. Net maži įpročiai gali tapti artumo ir šilumos pagrindu.
 
-<div style="page-break-after: always;"></div>

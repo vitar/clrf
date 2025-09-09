@@ -41,4 +41,3 @@ Balance is achieved when personal and shared do not contradict each other but re
 
 Functions are not obligations or rules. They are mechanisms activated to satisfy needs. They can be implemented through different practices, and this is where the framework’s flexibility comes from.
 
-<div style="page-break-after: always;"></div>

@@ -24,4 +24,3 @@ ____________________________________________________________
 
 Pastaba: vaidmenis galima keisti laikui bėgant. Svarbiausia – skaidrumas ir abipusis sutarimas.
 
-<div style="page-break-after: always;"></div>

@@ -17,4 +17,3 @@ This table will help translate your vision of the future into concrete steps. Fi
 
 Note: start with 3–5 key changes to avoid overload. Balance shared and personal steps.
 
-<div style="page-break-after: always;"></div>

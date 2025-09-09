@@ -41,4 +41,3 @@ ____________________________________________________________
 
 Traditions and rituals create a sense of “our world”. Even small habits can become the foundation of closeness and warmth.
 
-<div style="page-break-after: always;"></div>

@@ -31,4 +31,3 @@ Sintetinė poros vizija apima bendrą branduolį ir pagarbų skirtumų pripažin
 
 Vizija – tai gairė, o ne griežtas planas. Ji nurodo kryptį ir įkvepia, bet leidžia keistis, kai kinta sąlygos ir poreikiai.
 
-<div style="page-break-after: always;"></div>

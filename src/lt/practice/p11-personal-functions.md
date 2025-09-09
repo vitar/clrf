@@ -43,4 +43,3 @@ ____________________________________________________________
 
 Asmeninių funkcijų vystymas mažina bendrųjų funkcijų krūvį. Kai kiekvienas jaučiasi vientisas ir stabilus, santykiai tampa harmoningesni.
 
-<div style="page-break-after: always;"></div>

@@ -28,4 +28,3 @@ This tool is not a substitute for emotions or intuition. It helps give them shap
 
 Relationships are a living process. The framework helps make it more conscious and flexible. It does not provide ready-made recipes, but it offers a map on which each couple can find their own path.
 
-<div style="page-break-after: always;"></div>

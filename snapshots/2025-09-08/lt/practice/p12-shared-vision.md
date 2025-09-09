@@ -39,4 +39,3 @@ ____________________________________________________________
 
 Bendra vizija – gairė, o ne griežtas planas. Ji padeda judėti ta pačia kryptimi, išsaugant kiekvieno partnerio individualumą.
 
-<div style="page-break-after: always;"></div>

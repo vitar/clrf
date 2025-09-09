@@ -57,4 +57,3 @@ ____________________________________________________________
 
 After you complete it, discuss your vision with your partner. Comparing individual visions helps you find the common core and identify differences that can be incorporated into the shared picture of the future.
 
-<div style="page-break-after: always;"></div>

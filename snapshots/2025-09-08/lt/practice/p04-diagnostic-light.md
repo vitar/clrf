@@ -62,4 +62,3 @@ Užpildę atskirai, aptarkite kartu:
 - Ką kiekvienas daro gerai ir kur reikia palaikymo.
 - Perskaitykite vienas kitam trumpus atsakymus.
 
-<div style="page-break-after: always;"></div>
