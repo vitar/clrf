@@ -2,7 +2,7 @@
 
 This began with a habit: making sense of complexity. For years I designed and led systems — code, teams, organizations — by finding structure inside the noise. Eventually I noticed the same turbulence in the most important system I’m part of: a relationship. If we can map distributed systems, why not the living system between two people?
 
-Instead of choosing between advice columns and raw emotion, I started building a bridge: a way to hold **logic and feeling** at the same time. That is how **> CL/RF _ Couple Life Reflection Framework** appeared—a tool that helps two people notice their **conditions, needs, and functions**, and turn them into shared language, shared choices, and shared momentum.
+Instead of choosing between advice columns and raw emotion, I started building a bridge: a way to hold **logic and feeling** at the same time. That is how **> CL/RF _ Couple Life Reflection Framework** appeared — a tool that helps two people notice their **conditions, needs, and functions**, and turn them into shared language, shared choices, and shared momentum.
 
 You don’t have to be an engineer to use this. Whether you write code, teach, design, lead, parent, or simply care deeply about doing life together with intention—the same fundamentals apply. We all meet the familiar frictions: uncertainty, overload, misalignment, conflict. We also share the same aspirations: calm, clarity, curiosity, belonging, respect, growth.
 
