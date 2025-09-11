@@ -1,3 +1,3 @@
 # Atsisiųskite knygą PDF formatu
 
-📘 [clrf-lt.pdf](https://vitar.github.io/clrf/assets/pdf/clrf-lt.pdf)
+📘 [clrf-lt.pdf](../../assets/pdf/clrf-lt.pdf)
