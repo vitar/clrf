@@ -73,5 +73,5 @@ CLRF provides a simple, practical framework (book, exercises, app) that helps se
 - Structure helps reduce friction and unlock deeper connection.
 - Small, regular conversations matter more than rare big talks.
 - Language shapes outcomes: naming lowers defensiveness.
-- Tools are helpers, not replacements.
 - Emotions are signals, not threats — when we listen with curiosity, they guide us to needs.
+- Tools are helpers, not replacements.
