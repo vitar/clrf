@@ -11,16 +11,16 @@ Functions are ways of acting through which the couple and each partner satisfy t
 
 They include:
 
-- Communication (discussing emotions, decision-making, conflict resolution).  
-  Done with clarity and patience, communication transforms tension into understanding.  
-- Support (emotional, practical, financial).  
-  Offering support with empathy and gratitude strengthens trust and belonging.  
-- Cooperation (division of duties, agreements, and flexibility).  
-  Cooperation based on respect reduces resentment and creates fairness.  
-- Intimacy (physical, emotional, intellectual).  
-  Intimacy thrives where curiosity, safety, and playfulness are present.  
-- Joint development (projects, learning, rituals, new experiences).  
-  Shared growth invites inspiration and keeps the relationship resilient.  
+- Communication (discussing emotions, decision-making, conflict resolution).
+  Done with clarity and patience, communication transforms tension into understanding.
+- Support (emotional, practical, financial).
+  Offering support with empathy and gratitude strengthens trust and belonging.
+- Cooperation (division of duties, agreements, and flexibility).
+  Cooperation based on respect reduces resentment and creates fairness.
+- Intimacy (physical, emotional, intellectual).
+  Intimacy thrives where curiosity, safety, and playfulness are present.
+- Joint development (projects, learning, rituals, new experiences).
+  Shared growth invites inspiration and keeps the relationship resilient.
 
 These functions form the foundation of the “we,” nurturing connection and resilience over time.
 
@@ -28,16 +28,16 @@ These functions form the foundation of the “we,” nurturing connection and re
 
 They include:
 
-- Self-care (health, stress management, rest).  
-  Practicing self-care creates calm and prevents overload.  
-- Emotional work (self-reflection, self-regulation, self-worth).  
-  This builds clarity and courage, reducing defensiveness.  
-- Hobbies and interests (creativity, sports, pursuits).  
-  Joy in personal interests adds playfulness and energy to the couple’s rhythm.  
-- Social self-realization (work, friends, contribution to society).  
-  Social expression reinforces identity and belonging beyond the couple.  
-- Personal development (learning, spiritual practices, new experiences).  
-  Personal growth sparks curiosity and hope for the future.  
+- Self-care (health, stress management, rest).
+  Practicing self-care creates calm and prevents overload.
+- Emotional work (self-reflection, self-regulation, self-worth).
+  This builds clarity and courage, reducing defensiveness.
+- Hobbies and interests (creativity, sports, pursuits).
+  Joy in personal interests adds playfulness and energy to the couple’s rhythm.
+- Social self-realization (work, friends, contribution to society).
+  Social expression reinforces identity and belonging beyond the couple.
+- Personal development (learning, spiritual practices, new experiences).
+  Personal growth sparks curiosity and hope for the future.
 
 These functions help a person stay fulfilled and avoid overloading the relationship. Encouragement from a partner turns individual pursuits into shared pride.
 

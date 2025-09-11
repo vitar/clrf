@@ -6,27 +6,27 @@ Conditions, needs, and functions do not exist separately. They are connected in 
 
 Examples:
 
-- Condition: little time together → Need: closeness, togetherness.  
-  Awareness shifts focus from blame (“we never meet”) to belonging (“I need to feel close to you”).  
-- Condition: financial instability → Need: safety, confidence.  
-  Naming the need reduces anxiety and creates patience for shared solutions.  
-- Condition: pressure from relatives → Need: autonomy, boundaries.  
-  Respectful recognition of this need avoids resentment and restores balance.  
-- Condition: chronic stress → Need: emotional safety.  
-  Honest acknowledgment invites empathy instead of defensiveness.  
+- Condition: little time together → Need: closeness, togetherness.
+  Awareness shifts focus from blame (“we never meet”) to belonging (“I need to feel close to you”).
+- Condition: financial instability → Need: safety, confidence.
+  Naming the need reduces anxiety and creates patience for shared solutions.
+- Condition: pressure from relatives → Need: autonomy, boundaries.
+  Respectful recognition of this need avoids resentment and restores balance.
+- Condition: chronic stress → Need: emotional safety.
+  Honest acknowledgment invites empathy instead of defensiveness.
 
 ## 2. Need → Function
 
 Examples:
 
-- Need: recognition → Function: communication (gratitude, compliments).  
-  Gratitude and validation nurture trust and closeness.  
-- Need: shared time → Function: cooperation (planning leisure time).  
-  Respectful planning creates belonging and fairness.  
-- Need: emotional safety → Function: support (empathy, attention).  
-  Support offered with patience and care reduces fear.  
-- Need: development → Function: joint development (new projects, learning).  
-  Shared growth inspires hope and keeps the relationship alive.  
+- Need: recognition → Function: communication (gratitude, compliments).
+  Gratitude and validation nurture trust and closeness.
+- Need: shared time → Function: cooperation (planning leisure time).
+  Respectful planning creates belonging and fairness.
+- Need: emotional safety → Function: support (empathy, attention).
+  Support offered with patience and care reduces fear.
+- Need: development → Function: joint development (new projects, learning).
+  Shared growth inspires hope and keeps the relationship alive.
 
 ## 3. Personal functions and their impact on shared ones
 

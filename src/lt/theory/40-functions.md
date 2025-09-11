@@ -11,16 +11,16 @@ Funkcijos – tai veikimo būdai, kuriais pora ir kiekvienas partneris patenkina
 
 Joms priskiriama:
 
-- Bendravimas (emocijų aptarimas, sprendimų priėmimas, konfliktų valdymas).  
-  Atliekamas su aiškumu ir kantrybe, bendravimas paverčia įtampą supratimu.  
-- Palaikymas (emocinis, praktinis, finansinis).  
-  Palaikymas su empatija ir dėkingumu stiprina pasitikėjimą ir priklausymą.  
-- Bendradarbiavimas (pareigų pasiskirstymas, susitarimai, lankstumas).  
-  Pagarba grįstas bendradarbiavimas mažina apmaudą ir kuria teisingumą.  
-- Intymumas (fizinis, emocinis, intelektinis).  
-  Intymumas klesti, kai yra smalsumo, saugumo ir žaismingumo.  
-- Bendras vystymasis (projektai, mokymasis, ritualai, nauji patyrimai).  
-  Bendras augimas įkvepia ir padeda santykiams išlikti atspariems.  
+- Bendravimas (emocijų aptarimas, sprendimų priėmimas, konfliktų valdymas).
+  Atliekamas su aiškumu ir kantrybe, bendravimas paverčia įtampą supratimu.
+- Palaikymas (emocinis, praktinis, finansinis).
+  Palaikymas su empatija ir dėkingumu stiprina pasitikėjimą ir priklausymą.
+- Bendradarbiavimas (pareigų pasiskirstymas, susitarimai, lankstumas).
+  Pagarba grįstas bendradarbiavimas mažina apmaudą ir kuria teisingumą.
+- Intymumas (fizinis, emocinis, intelektinis).
+  Intymumas klesti, kai yra smalsumo, saugumo ir žaismingumo.
+- Bendras vystymasis (projektai, mokymasis, ritualai, nauji patyrimai).
+  Bendras augimas įkvepia ir padeda santykiams išlikti atspariems.
 
 Šios funkcijos formuoja „mes“ pagrindą, ilgainiui puoselėdamos ryšį ir atsparumą.
 
@@ -28,16 +28,16 @@ Joms priskiriama:
 
 Joms priskiriama:
 
-- Savigloba (sveikata, streso valdymas, poilsis).  
-  Savigloba kuria ramybę ir saugo nuo perkrovos.  
-- Emocinis darbas (savirefleksija, savireguliacija, savivertė).  
-  Jis stiprina aiškumą ir drąsą, mažina gynybiškumą.  
-- Hobiai ir interesai (kūryba, sportas, pomėgiai).  
-  Asmeniniai džiaugsmai įneša žaismingumo ir energijos į poros ritmą.  
-- Socialinė savirealizacija (darbas, draugai, indėlis visuomenei).  
-  Socialinė raiška stiprina tapatybę ir priklausymą už poros ribų.  
-- Asmeninis tobulėjimas (mokymasis, dvasinės praktikos, nauji patyrimai).  
-  Asmeninis augimas žadina smalsumą ir viltį dėl ateities.  
+- Savigloba (sveikata, streso valdymas, poilsis).
+  Savigloba kuria ramybę ir saugo nuo perkrovos.
+- Emocinis darbas (savirefleksija, savireguliacija, savivertė).
+  Jis stiprina aiškumą ir drąsą, mažina gynybiškumą.
+- Hobiai ir interesai (kūryba, sportas, pomėgiai).
+  Asmeniniai džiaugsmai įneša žaismingumo ir energijos į poros ritmą.
+- Socialinė savirealizacija (darbas, draugai, indėlis visuomenei).
+  Socialinė raiška stiprina tapatybę ir priklausymą už poros ribų.
+- Asmeninis tobulėjimas (mokymasis, dvasinės praktikos, nauji patyrimai).
+  Asmeninis augimas žadina smalsumą ir viltį dėl ateities.
 
 Šios funkcijos padeda žmogui jaustis pilnaverčiu ir neperkrauti santykių. Partnerio padrąsinimas asmeninius siekius paverčia bendru pasididžiavimu.
 

@@ -6,27 +6,27 @@ Sąlygos, poreikiai ir funkcijos neegzistuoja atskirai. Juos sieja seka: Sąlyga
 
 Pavyzdžiai:
 
-- Sąlyga: mažai bendro laiko → Poreikis: artumas, bendrumas.  
-  Suvokimas perkelia dėmesį nuo kaltinimų („mes niekada nesusitinkame“) prie priklausymo („man reikia jaustis arčiau tavęs“).  
-- Sąlyga: nestabilūs finansai → Poreikis: saugumas, užtikrintumas.  
-  Poreikio įvardijimas mažina nerimą ir kuria kantrybę bendriems sprendimams.  
-- Sąlyga: giminaičių spaudimas → Poreikis: autonomija, ribos.  
-  Pagarbus šio poreikio pripažinimas padeda išvengti apmaudo ir atkuria pusiausvyrą.  
-- Sąlyga: lėtinis stresas → Poreikis: emocinis saugumas.  
-  Atviras pripažinimas kviečia į empatiją, o ne į gynybiškumą.  
+- Sąlyga: mažai bendro laiko → Poreikis: artumas, bendrumas.
+  Suvokimas perkelia dėmesį nuo kaltinimų („mes niekada nesusitinkame“) prie priklausymo („man reikia jaustis arčiau tavęs“).
+- Sąlyga: nestabilūs finansai → Poreikis: saugumas, užtikrintumas.
+  Poreikio įvardijimas mažina nerimą ir kuria kantrybę bendriems sprendimams.
+- Sąlyga: giminaičių spaudimas → Poreikis: autonomija, ribos.
+  Pagarbus šio poreikio pripažinimas padeda išvengti apmaudo ir atkuria pusiausvyrą.
+- Sąlyga: lėtinis stresas → Poreikis: emocinis saugumas.
+  Atviras pripažinimas kviečia į empatiją, o ne į gynybiškumą.
 
 ## 2. Poreikis → Funkcija
 
 Pavyzdžiai:
 
-- Poreikis: pripažinimas → Funkcija: bendravimas (padėka, komplimentai).  
-  Dėkingumas ir patvirtinimas stiprina pasitikėjimą ir artumą.  
-- Poreikis: bendras laikas → Funkcija: bendradarbiavimas (laisvalaikio planavimas).  
-  Pagarbus planavimas kuria priklausymą ir teisingumą.  
-- Poreikis: emocinis saugumas → Funkcija: palaikymas (empatija, dėmesys).  
-  Palaikymas su kantrybe ir rūpesčiu mažina baimę.  
-- Poreikis: vystymasis → Funkcija: bendras vystymasis (nauji projektai, mokymasis).  
-  Bendras augimas įkvepia vilties ir palaiko santykių gyvybingumą.  
+- Poreikis: pripažinimas → Funkcija: bendravimas (padėka, komplimentai).
+  Dėkingumas ir patvirtinimas stiprina pasitikėjimą ir artumą.
+- Poreikis: bendras laikas → Funkcija: bendradarbiavimas (laisvalaikio planavimas).
+  Pagarbus planavimas kuria priklausymą ir teisingumą.
+- Poreikis: emocinis saugumas → Funkcija: palaikymas (empatija, dėmesys).
+  Palaikymas su kantrybe ir rūpesčiu mažina baimę.
+- Poreikis: vystymasis → Funkcija: bendras vystymasis (nauji projektai, mokymasis).
+  Bendras augimas įkvepia vilties ir palaiko santykių gyvybingumą.
 
 ## 3. Asmeninės funkcijos ir jų įtaka bendroms
 
