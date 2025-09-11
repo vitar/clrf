@@ -1,13 +1,20 @@
 # Pratarmė
 
-Šis darbas prasidėjo iš mano profesinio įpročio viską struktūruoti. Kaip programinės įrangos inžinierius ir lyderis dešimtmečius naudojau karkasus sudėtingoms sistemoms suprasti – nuo technologijų ir procesų iki organizacijų. Vienu metu supratau, kad tuos pačius principus galima taikyti svarbiausiam gyvenimo projektui – santykiams.
+Tai prasidėjo nuo įpročio: rasti tvarką sudėtingume. Metus kūriau ir vedžiau sistemas – kodą, komandas, organizacijas – ieškodamas struktūros triukšme. Vieną akimirką supratau, kad tokia pati sumaištis yra svarbiausioje sistemoje, kurios dalis esu: santykiuose. Jei galime žemėlapiuoti paskirstytas sistemas, kodėl negalime žemėlapiuoti gyvos sistemos tarp dviejų žmonių?
 
-Užuot rėmęsis tik straipsnių patarimais ar emocijomis, nusprendžiau sukurti sistemą, kuri sujungia logiką ir jausmus. Taip atsirado **> CL/RF _ Couple Life Reflection Framework** – įrankis, padedantis poroms (pirmiausia mums su žmona) suvokti sąlygas, poreikius ir funkcijas, o tada paversti juos bendromis vizijomis ir konkrečiais žingsniais.
+Užuot rinkęsis tarp patarimų straipsniuose ar žalių emocijų, ėmiausi tilto statymo: kaip laikyti **logiką ir jausmą** kartu. Taip atsirado **> CL/RF _ Couple Life Reflection Framework** – įrankis, padedantis poroms pastebėti savo **sąlygas, poreikius ir funkcijas** bei paversti juos bendra kalba, bendrais sprendimais ir bendru judėjimu pirmyn.
 
-Šis karkasas ypač artimas tiems, kurie įpratę mąstyti sistemiškai: programinės įrangos inžinieriams, komandų vadovams, techniniams lyderiams, vadybininkams. Tiems, kurie darbe vertina aiškumą, skaidrumą ir strategiją, bet asmeniniame gyvenime susiduria su tais pačiais iššūkiais – neapibrėžtumu, perkrovimu, konfliktais.
+Jums nereikia būti inžinieriumi, kad tuo naudotumėtės. Nesvarbu, ar rašote kodą, mokote, kuriate, vadovaujate, auginate vaikus ar tiesiog norite sąmoningai gyventi kartu – principai tie patys. Visi susiduriame su panašiais trukdžiais: neapibrėžtumu, perkrovimu, nesuderinamumu, konfliktais. Ir visi turime tuos pačius troškimus: ramybę, aiškumą, smalsumą, priklausymą, pagarbą, augimą.
 
-Tikiuosi, kad šis įrankis padės jums taip pat, kaip padėjo mums: chaotiškus pokalbius paversti aiškiu žemėlapiu, vedančiu į bendrą ateitį.
+Šis karkasas yra praktiškas. Jis paverčia lygiagrečius monologus pokalbiu, kuriuo galima keliauti. Jis duoda klausimų, kurie kuria įžvalgą, o ne spaudimą. Jis padeda pereiti **nuo pervargimo prie ramybės**, **nuo kaltinimo prie smalsumo**, **nuo prielaidų prie aiškumo**, ir **nuo „mano vs. tavo“ prie „mūsų“**. Jį galima naudoti vienam savirefleksijai, dviese sprendimams priimti arba mažais žingsniais, kai laiko mažai.
+
+Ką rasite toliau:
+- Paprastą sąlygų → poreikių → funkcijų žemėlapį, kad matytumėte, kur esate ir kur norite eiti.
+- Trumpas praktikas, tinkančias realioms, o ne idealioms dienoms.
+- Klausimus, kurie kviečia į atvirumą be teisimo ir pažangą be skubos.
+- Būdus įvertinti tai, kas jau veikia, ir pakeisti tai, kas neveikia – švelniai, aiškiai ir kartu.
+
+Jeigu skaitote, vadinasi, kažkur jumyse jau yra tikėjimas, kad geresnis ritmas įmanomas. Įkvėpkite. Atneškite dėmesį. Pradėkite nuo vieno puslapio, vieno klausimo, vieno susitarimo. To šiandien pakanka.
 
 _[Viktor Jevdokimov](https://www.linkedin.com/in/viktor-jevdokimov)_<br/>
 _Vilnius, 2025_
-
