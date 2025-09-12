@@ -89,6 +89,7 @@ nav:
   - index.md
   - theory/01-preface.md
   - theory/10-intro.md
+  - theory/19-quick-start.md
   - theory/20-conditions.md
   - theory/30-needs.md
   - theory/40-functions.md
