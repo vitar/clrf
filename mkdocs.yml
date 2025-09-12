@@ -65,7 +65,7 @@ plugins:
           default: false
           build: true
           site_name: "Tarp mūsų: praktiškas gidas poroms"
-          site_description: "Kaip kurti aiškumą ir ryšį naudojant Couple Life Reflection Framework (CLRF) - Poros gyvenimo refleksijos karkasą"
+          site_description: "Kaip kurti aiškumą ir ryšį naudojant Couple Life Reflection Framework (CLRF) - poros gyvenimo refleksijos karkasą."
           theme:
             language: lt
           extra:
@@ -77,7 +77,7 @@ plugins:
           default: false
           build: true
           site_name: "Между нами: практическое руководство для пар"
-          site_description: "Как создать ясность и близость с помощью Couple Life Reflection Framework (CLRF) — Каркаса парной рефлексии"
+          site_description: "Как создать ясность и близость с помощью Couple Life Reflection Framework (CLRF) — каркаса рефлексии для совместной жизни пар."
           theme:
             language: ru
           extra:
