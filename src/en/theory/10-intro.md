@@ -2,58 +2,56 @@
 
 ## 1. Why a framework for relationships is needed (Problem Space)
 
-Relationships often evolve spontaneously: partners are guided by emotions, habits, and cultural expectations. This works up to a certain point, but eventually leads to misunderstanding, conflicts, and a feeling of stagnation.
+Most relationships grow on their own. At first, partners follow feelings, habits, and what culture expects. This carries them for a while, but sooner or later it hits limits: misunderstandings pile up, conflicts return, or the connection feels stuck.
 
-Couples often circle around surface topics (money, chores, time) instead of the needs underneath. Conversations stay unstructured, so patterns repeat, misunderstandings pile up, or both partners go quiet. There’s a gap between casual talk (too little structure) and therapy (too heavy or expensive). CLRF fills this gap with a light structure that supports real conversations and helps partners see, name, and align their needs.
-
-A framework is needed to bring structure and clarity. It helps to understand what conditions shape our lives, what needs stand behind our emotions and requests, and what functions of the couple and each of us can satisfy those needs. Beyond structure, it offers calm when emotions rise, curiosity when assumptions close us off, and belonging when distance appears.
+Couples often circle the same surface issues — money, chores, schedules — instead of naming the needs underneath. Talk stays casual and unstructured, so patterns repeat until both partners go quiet. On the other side of the spectrum is therapy: powerful, but often too heavy or expensive. The **Couple Life Reflection Framework (CLRF)** offers something in between: a light structure that supports honest conversation and helps partners see, name, and align their needs.
 
 ## 2. The problem with fantasy visions
 
-Without diagnostics, partners often build visions of the future in the form of fantasies. These pictures may be too personal and far from reality. Comparing such fantasies can cause disappointment or a sense of incompatibility, even though there is common potential underneath.
+Without grounding, partners tend to picture the future as fantasies. These images are personal, idealized, and often unrealistic. Comparing them can cause disappointment or even doubt about compatibility, even when real common ground exists.
 
-The framework helps to ground visions: to build them on an understanding of real conditions and needs. It shifts hope from fragile imagination to realistic inspiration, and keeps respect present when dreams differ.
+CLRF anchors vision work in reality. It starts from actual conditions and needs, turning hope from fragile daydreams into inspiration that can carry weight. It also leaves space for differences, so respect doesn’t vanish when dreams diverge.
 
 ## 3. Basic principle: Conditions → Needs → Functions
 
-The system is based on a three-level model:
+At its core, CLRF rests on three levels:
 
-- Conditions: the facts and environment in which we live.
-- Needs: internal requests formed against the background of conditions.
-- Functions: actions and mechanisms through which we satisfy needs.
+- **Conditions** — the facts and environment we live in.
+- **Needs** — the requests that arise from those conditions.
+- **Functions** — the actions we use to meet those needs.
 
-This logic is universal and helps distinguish background, request, and way of acting. It allows couples to approach conversations with clarity instead of defensiveness, and with patience instead of haste.
+This simple chain helps partners separate background from request, and request from action. Instead of arguing about “what to do” in the abstract, couples can ask: *What’s the condition? What’s the need? Which function will we use?*
 
 ## 4. Balance of "I" and "We"
 
-Relationships consist of two levels:
+Every relationship has two layers:
 
-- Personal functions and needs ("I") that help each person stay whole and develop.
-- Joint functions ("We") that provide support, closeness, and cooperation.
+- The **“I”** — personal needs and functions that keep each partner whole and growing.
+- The **“We”** — shared functions that create closeness, trust, and cooperation.
 
-Balance is achieved when the personal and the joint do not contradict each other but reinforce one another. This balance is also emotional: “I” needs recognition, courage, and growth; “We” needs trust, empathy, and shared purpose. Together they create belonging and resilience.
+Balance means the two layers don’t compete but reinforce each other. When “I” is respected, “We” grows stronger. When “We” is steady, “I” has room to develop. Together they form resilience and belonging.
 
 ## 5. How to use this framework
 
-The framework does not dictate ready-made solutions but gives a map. Based on this map, the couple goes through stages:
+CLRF doesn’t hand out ready-made answers. It gives a map. Couples use it to move through these stages:
 
-1. Diagnosing current conditions, needs, and functions.
-2. Building visions of the future (individual and joint).
-3. Defining necessary changes.
-4. Prioritizing steps.
-5. Developing principles and strategies for interaction.
+1. Notice current conditions, needs, and functions.
+2. Sketch visions of the future — individually, then jointly.
+3. Define changes that would bridge the gap.
+4. Decide which steps to prioritize.
+5. Shape principles and strategies for staying aligned.
 
-Each stage invites reflection without judgment, dialogue without blame, and progress without pressure. Small steps, taken with patience, become lasting changes.
+Each stage makes it easier to talk without blame, reflect without judgment, and move forward without pressure. The work is done in small steps. That’s how lasting change is built.
 
 ## 6. CLRF Vision and Mission
 
 ### Vision
 
-Every couple can gain clarity and shared understanding about their needs without therapy, jargon, or years of trial and error. They can move from overwhelm to calm, from doubt to trust, and from isolation to belonging.
+Every couple should be able to reach clarity about their needs without jargon, endless trial and error, or the cost of therapy. With CLRF, partners can shift from overwhelm to calm, from doubt to trust, and from isolation to belonging.
 
 ### Mission
 
-CLRF provides a simple, practical framework (book, exercises, app) that helps see conditions, needs, and functions, structure conversations, and keep the focus on real experiences. It equips couples to nurture respect, curiosity, and playfulness while facing life’s challenges.
+CLRF is a practical framework — book, exercises, app — that helps couples see conditions, needs, and functions, structure their conversations, and stay rooted in lived experience. It equips them to face challenges with respect, curiosity, and playfulness.
 
 ## 7. CLRF Values and Beliefs
 
@@ -69,9 +67,9 @@ CLRF provides a simple, practical framework (book, exercises, app) that helps se
 
 ### Beliefs
 
-- All couples face alignment gaps — it’s part of being human.
-- Structure helps reduce friction and unlock deeper connection.
-- Small, regular conversations matter more than rare big talks.
+- Every couple faces alignment gaps — it’s part of being human.
+- Structure lowers friction and opens deeper connection.
+- Small, regular talks matter more than rare “big ones.”
 - Language shapes outcomes: naming lowers defensiveness.
-- Emotions are signals, not threats — when we listen with curiosity, they guide us to needs.
+- Emotions are signals, not threats; listened to with curiosity, they guide us to needs.
 - Tools are helpers, not replacements.
