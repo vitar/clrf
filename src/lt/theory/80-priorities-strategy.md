@@ -1,46 +1,44 @@
 # 8 skyrius. Prioritetai ir strategija
 
-Nustačius pokyčius, svarbu sudėlioti prioritetus ir parengti jų įgyvendinimo strategiją. Priešingu atveju kyla perkrovos rizika: per daug tikslų vienu metu veda į perdegimą ar pokyčių atsisakymą. Aiškūs prioritetai kuria ramybę ir dėmesio sutelktumą, o bendra strategija stiprina pasitikėjimą ir priklausymą.
+Įvardijus pokyčius, kitas žingsnis yra nuspręsti, kurie iš jų svarbiausi, ir kaip juos įgyvendinti. Be prioritetų poros rizikuoja persikrauti: per daug tikslų vienu metu veda į perdegimą arba atsisakymą keistis. Aiškūs prioritetai suteikia ramybės ir dėmesio, o bendra strategija paverčia planus pasitikėjimu ir nuosekliu judėjimu pirmyn.
 
 ## 1. Prioritetai
 
-Prioritetų nustatymo būdai:
+Būdai nustatyti prioritetus:
 
-- Svarbos ir skubumo matrica (Eisenhowerio):
-    - Svarbu ir skubu – darome iškart.
-    - Svarbu, bet neskubu – planuojame.
-    - Nesvarbu, bet skubu – deleguojame arba minimizuojame.
-    - Nesvarbu ir neskubu – atsisakome.
-  Šis metodas suteikia aiškumo ir mažina nerimą.
-- „Top 3“ taisyklė: pasirinkite ne daugiau kaip tris pagrindinius pokyčius artimiausiems 3–6 mėnesiams.
-  Fokusuodamiesi į mažiau prioritetų, saugome kantrybę ir išvengiame nusivylimo.
-- Balansas: prioritetuose turi būti tiek bendri, tiek asmeniniai pokyčiai.
-  Balansas įprasmina ir individualumą, ir vienybę, kuria pagarbą ir teisingumą.
+- **Eisenhower’io matrica** — rūšiuokite pagal svarbą ir skubumą, tai padaro krūvį matomą ir lengviau valdomą:
+    - Svarbu + skubu → daryti dabar.
+    - Svarbu + neskubu → planuoti.
+    - Nesvarbu + skubu → deleguoti arba sumažinti.
+    - Nesvarbu + neskubu → atsisakyti.
+- **„Top 3“ taisyklė** — pasirinkite ne daugiau kaip tris pagrindinius pokyčius artimiausiems 3–6 mėnesiams.<br/>
+  Mažesnis prioritetų skaičius saugo energiją ir padaro sėkmę pasiekiamą.
+- **Balansas** — įtraukite tiek bendrus, tiek asmeninius pokyčius.<br/>
+  Balansas gerbia ir individualumą, ir bendrystę vienu metu.
 
 ## 2. Strategija
 
-Strategija – tai principų ir reguliarių veiksmų rinkinys, padedantis išlaikyti kryptį. Ji apima:
+Strategija — tai principų ir rutinų rinkinys, padedantis išlikti kelyje:
 
-- Principus (pvz., „svarbius klausimus aptariame kartą per savaitę“, „nesprendžiame konfliktų metu“).
-  Principai mažina gynybiškumą ir kuria pasitikėjimą.
-- Ritualus (pvz., savaitinis planavimo susitikimas, šeimos retrospektyva).
-  Ritualai kuria priklausymą ir stabilumą, primena, kad partneriai yra komanda.
-- Progreso tikrinimą (kartą per mėnesį peržiūrime pokyčių lentelę).
-  Progreso peržiūra puoselėja pripažinimą, dėkingumą ir viltį.
+- **Principai** — pvz., *„dideliais klausimais kalbamės kartą per savaitę“* ar *„nesprendžiame konfliktų įkarštyje“*.<br/>
+  Principai kuria nuspėjamumą ir mažina gynybiškumą.
 
-## 3. Mini ritualai
+- **Ritualai** — pvz., savaitinis planavimas, mėnesio retrospektyva.<br/>
+  Ritualai primena, kad esate komanda, ir palaiko pastovų ritmą.
 
-Paprastos reguliarios praktikos padeda palaikyti strategiją:
+- **Progreso tikrinimai** — pvz., kartą per mėnesį peržiūrime pokyčių lentelę.<br/>
+  Peržiūros padaro progresą matomą, o tai kuria pripažinimą ir viltį.
 
-- Kasdieniai trumpi „check-in“ (kaip tu šiandien?).
-  Tai stiprina ryšį ir ramybę.
-- Savaitinis planų ir nuotaikų aptarimas.
-  Skatina aiškumą ir mažina paslėptą apmaudą.
-- Mėnesinė retrospektyva (kas veikia, ką reikia tobulinti).
-  Sukuria saugią erdvę atvirumui ir smalsumui.
+## 3. Mini-ritualai
 
-Šie ritualai sukuria stabilų ritmą ir sumažina konfliktų kaupimosi tikimybę. Praktikuojami su žaismingumu, jie tampa ne pareiga, o ryšio akimirka.
+Maži įpročiai palaiko didesnį planą:
+
+- **Dienos patikrinimas** — trumpas *„Kaip šiandien jautiesi?“* palaiko atvirą kanalą.
+- **Savaitės sinchronizacija** — pasidalinkite planais ir nuotaikomis prieš prasidedant savaitei.
+- **Mėnesio retrospektyva** — paklauskite, kas veikia, o ką verta pagerinti.
+
+Šie trumpi ritualai sumažina paslėptą nuoskaudą ir padeda saugiai išlaikyti atvirumą. Atlikti lengvai, jie tampa ne pareiga, o artumo akimirka.
 
 ## Išvada
 
-Prioritetai ir strategija padeda paversti ketinimus veiksmais. Jie suteikia aiškumą, kas svarbu dabar, ką galima atidėti ir kaip kartu palaikote judėjimą link vizijos. Praktikuojami su pagarba, kantrybe ir padrąsinimu, jie planavimą paverčia pasitikėjimo ir priklausymo šaltiniu.
+Prioritetai ir strategija paverčia ketinimus veiksmais. Jie parodo, kas svarbu dabar, kas gali palaukti, ir kaip kartu judėti link vizijos. Praktikuojant aiškiai ir palaikančiai, planavimas tampa ne našta, o pasitikėjimo ir priklausymo šaltinis.
