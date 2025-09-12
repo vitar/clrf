@@ -1,77 +1,75 @@
 # 1 skyrius. Įvadas
 
-## 1. Kodėl reikalingas santykių karkasas (Problemos erdvė)
+## 1. Kodėl santykiams reikia karkaso (problemos erdvė)
 
-Santykiai dažnai vystosi stichiškai: partneriai vadovaujasi emocijomis, įpročiais ir kultūriniais lūkesčiais. Tai veikia iki tam tikro momento, bet vėliau veda prie nesusipratimų, konfliktų ir stagnacijos jausmo.
+Santykiai dažnai vystosi savaime. Iš pradžių partnerius veda jausmai, įpročiai ir kultūriniai lūkesčiai. Tai veikia kurį laiką, bet vėliau pasiekia ribas: daugėja nesusipratimų, grįžta konfliktai arba ryšys atrodo sustingęs.
 
-Dažnai poros sukasi apie paviršines temas (pinigai, buities darbai, laikas), o ne apie po jomis slypinčius poreikius. Pokalbiai lieka nestruktūruoti, todėl kartojasi tie patys modeliai, daugėja nesusipratimų arba abu partneriai nutyla. Tarp atsitiktinio pasikalbėjimo (per mažai struktūros) ir terapijos (per sunku ar brangu) egzistuoja tarpas. CLRF užpildo šį tarpą lengvu karkasu, kuris palaiko tikrus pokalbius ir padeda pamatyti, įvardinti bei suderinti poreikius.
+Poros dažnai suka ratus aplink paviršinius klausimus — pinigus, buitį, laiką — užuot įvardijusios giluminius poreikius. Pokalbiai lieka atsitiktiniai, be struktūros, todėl modeliai kartojasi, kol abu nutyla. Kitame spektro gale yra terapija: galinga, bet dažnai per sunki ar per brangi. **Couple Life Reflection Framework (CLRF)** (liet. poros gyvenimo refleksijos karkasas) siūlo tarpinius bėgius: lengvą struktūrą, kuri padeda sąžiningai kalbėtis ir suderinti poreikius.
 
-Karkasas reikalingas, kad atsirastų struktūra ir aiškumas. Jis padeda suprasti, kokios sąlygos formuoja mūsų gyvenimą, kokie poreikiai slypi už emocijų ir prašymų, ir kokios poros bei kiekvieno iš mūsų funkcijos gali tuos poreikius patenkinti. Be struktūros, jis suteikia ramybę, kai kyla emocijos, smalsumą, kai mus uždaro prielaidos, ir priklausymą, kai atsiranda atstumas.
+## 2. Problema su fantazijų vizijomis
 
-## 2. Fantazinių vizijų problema
+Be pagrindo, partneriai linkę kurti ateities vizijas kaip fantazijas. Šie paveikslai yra asmeniški, idealizuoti ir dažnai nerealistiški. Juos lyginant kyla nusivylimas ar abejonės dėl suderinamumo, nors tikras bendras pagrindas egzistuoja.
 
-Be diagnostikos partneriai dažnai kuria ateities vizijas fantazijų pavidalu. Šie paveikslai gali būti per daug asmeniški ir toli nuo realybės. Tokių fantazijų palyginimas gali sukelti nusivylimą ar nesuderinamumo jausmą, nors slypi bendras potencialas.
-
-Karkasas padeda nuleisti vizijas ant žemės: kurti jas remiantis realiomis sąlygomis ir poreikiais. Jis perkelia viltį iš trapios vaizduotės į tikrą įkvėpimą ir išlaiko pagarbą, kai svajonės skiriasi.
+CLRF įžemina vizijas. Ji pradeda nuo realių sąlygų ir poreikių, paversdama viltį iš trapaus įsivaizdavimo į įkvepiančią ir tvirtą. Ji taip pat palieka erdvės skirtumams, kad pagarba neišnyktų, kai svajonės išsiskiria.
 
 ## 3. Pagrindinis principas: Sąlygos → Poreikiai → Funkcijos
 
-Sistema remiasi trijų lygių modeliu:
+CLRF remiasi trimis lygiais:
 
-- Sąlygos: faktai ir aplinka, kurioje gyvename.
-- Poreikiai: vidiniai poreikiai, kylantys esant sąlygoms.
-- Funkcijos: veiksmai ir mechanizmai, kuriais patenkiname poreikius.
+- **Sąlygos** — faktai ir aplinka, kurioje gyvename.
+- **Poreikiai** — prašymai, kylantys iš sąlygų.
+- **Funkcijos** — veiksmai, kuriais patenkiname poreikius.
 
-Ši logika yra universali ir padeda atskirti foną, prašymą ir veikimo būdą. Ji leidžia poroms į pokalbius ateiti su aiškumu vietoje gynybiškumo ir su kantrybe vietoje skubos.
+Ši paprasta grandinė padeda atskirti foną nuo prašymo, o prašymą nuo veiksmo. Užuot ginčijęsi „ką daryti“ abstrakčiai, partneriai gali klausti: *Kokia sąlyga? Koks poreikis? Kokią funkciją pasitelksime?*
 
 ## 4. „Aš“ ir „Mes“ balansas
 
-Santykiai susideda iš dviejų lygių:
+Kiekvienuose santykiuose yra du sluoksniai:
 
-- Asmeninės funkcijos ir poreikiai („Aš“), padedantys kiekvienam išlikti vientisam ir tobulėti.
-- Bendros funkcijos („Mes“), suteikiančios palaikymą, artumą ir bendradarbiavimą.
+- **„Aš“** — asmeniniai poreikiai ir funkcijos, padedantys išlikti visaverčiam ir augti.
+- **„Mes“** — bendros funkcijos, kuriančios artumą, pasitikėjimą ir bendradarbiavimą.
 
-Balansas pasiekiamas tada, kai asmeniška ir bendra neprieštarauja, o papildo vienas kitą. Šis balansas taip pat emocinis: „Aš“ reikalingas pripažinimas, drąsa ir augimas; „Mes“ reikalinga tarpusavio pagarba, empatija ir bendra paskirtis. Kartu tai sukuria priklausymą ir atsparumą.
+Balansas pasiekiamas, kai šie sluoksniai nekonkuruoja, o vienas kitą sustiprina. Kai „aš“ gerbiamas, „mes“ tampa tvirtesnis. Kai „mes“ stabilus, „aš“ turi erdvės tobulėti. Kartu jie sukuria atsparumą ir priklausymo jausmą.
 
-## 5. Kaip naudotis šiuo karkasu
+## 5. Kaip naudoti šį karkasą
 
-Karkasas nediktuoja paruoštų sprendimų, o pateikia žemėlapį. Remdamasi juo, pora pereina etapus:
+CLRF neduoda paruoštų atsakymų. Jis suteikia žemėlapį. Poros juo remiasi pereidamos etapus:
 
-1. Dabartinių sąlygų, poreikių ir funkcijų įvertinimas.
-2. Ateities vizijų kūrimas (individualių ir bendrų).
-3. Reikalingų pokyčių nustatymas.
-4. Žingsnių prioritetų nustatymas.
-5. Sąveikos principų ir strategijų parengimas.
+1. Pastebi dabartines sąlygas, poreikius ir funkcijas.
+2. Piešia ateities vizijas — pirmiausia atskirai, paskui kartu.
+3. Įvardija pokyčius, kurie sujungtų skirtumą.
+4. Nusprendžia, kuriuos žingsnius teikti prioritetą.
+5. Formuoja principus ir strategijas, padedančias išlikti suderintiems.
 
-Kiekvienas etapas kviečia į refleksiją be teisimo, dialogą be kaltinimų ir pažangą be spaudimo. Maži žingsniai, žengti su kantrybe, virsta ilgalaikiais pokyčiais.
+Kiekvienas etapas leidžia kalbėtis be kaltinimų, reflektuoti be nuosprendžių ir judėti pirmyn be spaudimo. Darbas atliekamas mažais žingsniais. Taip gimsta ilgalaikiai pokyčiai.
 
-## 6. CLRF Vizija ir Misija
+## 6. CLRF vizija ir misija
 
 ### Vizija
 
-Kiekviena pora gali aiškiai suprasti ir suderinti savo poreikius be terapijos, žargono ar metų bandymų ir klaidų. Ji gali pereiti nuo pervargimo prie ramybės, nuo abejonės prie pasitikėjimo ir nuo izoliacijos prie priklausymo.
+Kiekviena pora gali aiškiai suprasti savo poreikius be žargono, metų bandymų ar brangios terapijos. Su CLRF partneriai gali pereiti nuo perkrovos prie ramybės, nuo abejonių prie pasitikėjimo, nuo izoliacijos prie priklausymo.
 
 ### Misija
 
-CLRF suteikia paprastą, praktišką karkasą (knygą, pratimus, programėlę), kuris padeda matyti sąlygas, poreikius ir funkcijas, struktūruoti pokalbius ir išlaikyti dėmesį tikroms patirtims. Jis padeda puoselėti pagarbą, smalsumą ir žaismingumą, kartu susiduriant su gyvenimo iššūkiais.
+CLRF yra praktiškas karkasas — knyga, pratimai, programėlė — padedantis pamatyti sąlygas, poreikius ir funkcijas, struktūruoti pokalbius ir likti įsišaknijus tikroje patirtyje. Jis suteikia įrankius iššūkiams įveikti su pagarba, smalsumu ir žaismingumu.
 
-## 7. CLRF Vertybės ir Įsitikinimai
+## 7. CLRF vertybės ir įsitikinimai
 
 ### Vertybės
 
 - Aiškumas vietoje painiavos
 - Paprastumas vietoje sudėtingumo
 - Tikras ryšys vietoje skaitmeninio triukšmo
-- Abipusė pagarba vietoje vienpusių laimėjimų
+- Abipusė pagarba vietoje vienpusės pergalės
 - Žaismingumas vietoje sunkumo
 - Priklausymas vietoje abejingumo
 - Kantrybė vietoje skubos
 
 ### Įsitikinimai
 
-- Visos poros susiduria su nesuderinamumais — tai žmogiška.
-- Struktūra padeda mažinti trintį ir atveria gilesnį ryšį.
-- Maži, reguliarūs pokalbiai svarbesni už retus „didelius pokalbius“.
+- Kiekviena pora susiduria su nesuderinamumo tarpais — tai žmogiška.
+- Struktūra sumažina trintį ir atveria gilesnį ryšį.
+- Maži, reguliarūs pokalbiai svarbesni už retus „didelio masto“.
 - Kalba formuoja rezultatus: įvardijimas mažina gynybiškumą.
-- Emocijos yra signalai, o ne grėsmės — klausantis su smalsumu jos veda prie poreikių.
-- Įrankiai — pagalbininkai, o ne pakaitalai.
+- Emocijos yra signalai, o ne grėsmė; klausantis su smalsumu, jos veda prie poreikių.
+- Įrankiai yra pagalbininkai, o ne pakaitalai.
