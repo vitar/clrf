@@ -145,6 +145,14 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://vitar.github.io/clrf/ru/theory/10-intro/"/>
     </url>
     <url>
+        <loc>https://vitar.github.io/clrf/theory/19-quick-start/</loc>
+        <lastmod>2025-09-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vitar.github.io/clrf/theory/19-quick-start/"/>
+        <xhtml:link rel="alternate" hreflang="lt" href="https://vitar.github.io/clrf/lt/theory/19-quick-start/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://vitar.github.io/clrf/ru/theory/19-quick-start/"/>
+    </url>
+    <url>
         <loc>https://vitar.github.io/clrf/theory/20-conditions/</loc>
         <lastmod>2025-09-12</lastmod>
         <changefreq>daily</changefreq>
@@ -361,6 +369,14 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://vitar.github.io/clrf/ru/theory/10-intro/"/>
     </url>
     <url>
+        <loc>https://vitar.github.io/clrf/lt/theory/19-quick-start/</loc>
+        <lastmod>2025-09-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="lt" href="https://vitar.github.io/clrf/lt/theory/19-quick-start/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vitar.github.io/clrf/theory/19-quick-start/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://vitar.github.io/clrf/ru/theory/19-quick-start/"/>
+    </url>
+    <url>
         <loc>https://vitar.github.io/clrf/lt/theory/20-conditions/</loc>
         <lastmod>2025-09-12</lastmod>
         <changefreq>daily</changefreq>
@@ -575,6 +591,14 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://vitar.github.io/clrf/ru/theory/10-intro/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://vitar.github.io/clrf/theory/10-intro/"/>
         <xhtml:link rel="alternate" hreflang="lt" href="https://vitar.github.io/clrf/lt/theory/10-intro/"/>
+    </url>
+    <url>
+        <loc>https://vitar.github.io/clrf/ru/theory/19-quick-start/</loc>
+        <lastmod>2025-09-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://vitar.github.io/clrf/ru/theory/19-quick-start/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vitar.github.io/clrf/theory/19-quick-start/"/>
+        <xhtml:link rel="alternate" hreflang="lt" href="https://vitar.github.io/clrf/lt/theory/19-quick-start/"/>
     </url>
     <url>
         <loc>https://vitar.github.io/clrf/ru/theory/20-conditions/</loc>
