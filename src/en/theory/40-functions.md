@@ -1,6 +1,6 @@
 # Chapter 4. Functions
 
-Functions are ways of acting through which the couple and each partner satisfy their needs under given conditions. Functions are divided into shared (that serve the couple) and personal (that serve each individual). Their balance determines the stability of the relationship. When functions are seen not just as tasks but as living expressions of care, respect, and curiosity, they bring energy rather than burden.
+Functions are the ways you act — together and individually — to meet current needs under real conditions. When you treat them as living behaviors rather than chores, they give energy back instead of draining it.
 
 ## Categories of functions
 
@@ -11,16 +11,11 @@ Functions are ways of acting through which the couple and each partner satisfy t
 
 They include:
 
-- Communication (discussing emotions, decision-making, conflict resolution).
-  Done with clarity and patience, communication transforms tension into understanding.
-- Support (emotional, practical, financial).
-  Offering support with empathy and gratitude strengthens trust and belonging.
-- Cooperation (division of duties, agreements, and flexibility).
-  Cooperation based on respect reduces resentment and creates fairness.
-- Intimacy (physical, emotional, intellectual).
-  Intimacy thrives where curiosity, safety, and playfulness are present.
-- Joint development (projects, learning, rituals, new experiences).
-  Shared growth invites inspiration and keeps the relationship resilient.
+- **Communication**. Think of it as the engine of the relationship — the way you share feelings, make decisions, and find your way back to each other after conflict. A simple habit like “pause → name what I feel → ask one question” keeps old arguments from looping and turns friction into movement.
+- **Support**. Emotional, practical, financial. Agree on the shape of help before the moment is hot — “When I say ‘swamped’, please sit with me for five minutes / take the dishes tonight / check the budget with me Thursday.” Specific help offered at the right time builds trust much faster than generic promises.
+- **Cooperation**. Who does what, and how you switch when life changes. A visible list of shared tasks with “owner”, “backup”, and “trade rules” cuts down on score - keeping and keeps fairness from being a feeling to being a system.
+- **Intimacy**. Physical, emotional, intellectual. Protect one small window that doesn’t get negotiated away (a device-free half hour, a weekly walk, a slow coffee). Consistency does more for closeness than intensity.
+- **Joint development**. Projects, learning, rituals, new experiences. Pick one tiny thing to build this month—a photo album, two - song dance break, trying a class — and schedule it like anything else you care about. Shared novelty keeps the “we” feeling elastic.
 
 These functions form the foundation of the “we,” nurturing connection and resilience over time.
 
@@ -28,16 +23,11 @@ These functions form the foundation of the “we,” nurturing connection and re
 
 They include:
 
-- Self-care (health, stress management, rest).
-  Practicing self-care creates calm and prevents overload.
-- Emotional work (self-reflection, self-regulation, self-worth).
-  This builds clarity and courage, reducing defensiveness.
-- Hobbies and interests (creativity, sports, pursuits).
-  Joy in personal interests adds playfulness and energy to the couple’s rhythm.
-- Social self-realization (work, friends, contribution to society).
-  Social expression reinforces identity and belonging beyond the couple.
-- Personal development (learning, spiritual practices, new experiences).
-  Personal growth sparks curiosity and hope for the future.
+- **Self-care**. Health, rest, stress habits. Decide one recovery move you’ll actually use this week; tell your partner when it happens so they can protect it.
+- **Emotional work**. Self-reflection, regulation, self-worth. A short check-in like “name the feeling, name the need, choose one request” reduces the load you place on the relationship to ‘fix’ what’s internal.
+- **Hobbies and interests**. Joy in personal pursuits adds fresh air to the couple’s rhythm. Share results, not schedules—“show and tell” brings your partner in without turning hobbies into chores.
+- **Social self-realization**. Work, friends, contribution. Keeping two or three outside connections alive prevents the relationship from carrying the entire weight of recognition.
+- **Personal development**. Learning, practices, new experiences. One micro-experiment per month is enough; confidence grows from reps, not leaps.
 
 These functions help a person stay fulfilled and avoid overloading the relationship. Encouragement from a partner turns individual pursuits into shared pride.
 
@@ -45,8 +35,8 @@ These functions help a person stay fulfilled and avoid overloading the relations
 
 Strong personal functions ease the shared ones: for example, if a person can cope with stress, the partner does not become the sole source of support. Weak personal functions, on the contrary, overload the relationship: when there are no hobbies or friends, the partner has to compensate for everything.
 
-Balance is achieved when personal and shared do not contradict each other but reinforce one another. Balance is also emotional: trust and patience in “we” grow when “I” is supported with respect and recognition.
+Balance isn’t a 50/50 split; it’s a feedback loop. When “I” is resourced, “we” needs less firefighting. When “we” is steady, “I” has room to grow. Use small signals — “I’m good / I’m low” — to adjust before strain becomes a story.
 
 ## Conclusion
 
-Functions are not obligations or rules. They are mechanisms activated to satisfy needs. They can be implemented through different practices, and this is where the framework’s flexibility comes from. Approached with calm, curiosity, and playfulness, functions become a source of strength rather than a source of pressure.
+Functions are switches you can flip on purpose. Pick a few, make them visible, and let them do the quiet work of keeping the relationship moving.
