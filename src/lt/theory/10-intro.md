@@ -47,11 +47,11 @@ Kiekvienas etapas leidžia kalbėtis be kaltinimų, reflektuoti be nuosprendži�
 
 ### Vizija
 
-Kiekviena pora gali aiškiai suprasti savo poreikius be žargono, metų bandymų ar brangios terapijos. Su CLRF partneriai gali pereiti nuo perkrovos prie ramybės, nuo abejonių prie pasitikėjimo, nuo izoliacijos prie priklausymo.
+Kiekviena pora gali aiškiai suprasti savo poreikius be sudėtingų terminų, metų bandymų ar brangios terapijos. CLRF padeda pereiti nuo chaoso prie ramybės, nuo abejonių prie pasitikėjimo, nuo vienatvės prie priklausymo.
 
 ### Misija
 
-CLRF yra praktiškas karkasas — knyga, pratimai, programėlė — padedantis pamatyti sąlygas, poreikius ir funkcijas, struktūruoti pokalbius ir likti įsišaknijus tikroje patirtyje. Jis suteikia įrankius iššūkiams įveikti su pagarba, smalsumu ir žaismingumu.
+CLRF yra praktiškas įrankis — knyga, pratimai, programėlė — kuris padeda pamatyti sąlygas, poreikius ir funkcijas, tvarkingai kalbėtis ir remtis tikru išgyvenimu. Jis padeda poroms kurti ryšį su pagarba, smalsumu ir žaismingumu.
 
 ## 7. CLRF vertybės ir įsitikinimai
 
