@@ -1,20 +1,21 @@
 # Pratarmė
 
-Tai prasidėjo nuo įpročio: rasti tvarką sudėtingume. Metus kūriau ir vedžiau sistemas – kodą, komandas, organizacijas – ieškodamas struktūros triukšme. Vieną akimirką supratau, kad tokia pati sumaištis yra svarbiausioje sistemoje, kurios dalis esu: santykiuose. Jei galime žemėlapiuoti paskirstytas sistemas, kodėl negalime žemėlapiuoti gyvos sistemos tarp dviejų žmonių?
+Viskas prasidėjo nuo įpročio: suprasti sudėtingumą. Daugelį metų kūriau ir vedžiau sistemas — kodą, komandas, organizacijas — ieškodamas struktūros chaose. Galiausiai pastebėjau tą pačią sumaištį svarbiausioje sistemoje, kurios dalimi esu: santykiuose. Jei galime žemėlapiuoti paskirstytas sistemas, kodėl negalėtume pažvelgti į gyvą sistemą tarp dviejų žmonių?
 
-Užuot rinkęsis tarp patarimų straipsniuose ar žalių emocijų, ėmiausi tilto statymo: kaip laikyti **logiką ir jausmą** kartu. Taip atsirado (angl.) **Couple Life Reflection Framework (CLRF)** (liet. poros gyvenimo refleksijos karkasas) – įrankis, padedantis poroms pastebėti savo **sąlygas, poreikius ir funkcijas** bei paversti juos bendra kalba, bendrais sprendimais ir bendru judėjimu pirmyn.
+Nenorėjau rinktis tarp patarimų stulpelių ir grynos emocijos, todėl pradėjau statyti tiltą: būdą vienu metu išlaikyti **logiką ir jausmą**. Taip atsirado (angl.) **Couple Life Reflection Framework (CLRF)** — lietuviškai: „poros gyvenimo refleksijos karkasas“ – paprastas būdas dviem žmonėms pamatyti savo **sąlygas, poreikius ir funkcijas**, o šį suvokimą paversti bendra kalba ir mažais, įgyvendinamais pasirinkimais.
 
-Jums nereikia būti inžinieriumi, kad tuo naudotumėtės. Nesvarbu, ar rašote kodą, mokote, kuriate, vadovaujate, auginate vaikus ar tiesiog norite sąmoningai gyventi kartu – principai tie patys. Visi susiduriame su panašiais trukdžiais: neapibrėžtumu, perkrovimu, nesuderinamumu, konfliktais. Ir visi turime tuos pačius troškimus: ramybę, aiškumą, smalsumą, priklausymą, pagarbą, augimą.
+Tam nereikia būti inžinieriumi. Nesvarbu, ar rašote kodą, mokote, kuriate, vadovaujate, auginate vaikus ar tiesiog norite gyventi kartu sąmoningiau — tie patys principai padeda. Visi susiduriame su pažįstamais trinties taškais — netikrumu, perkrova, nesuderinamumu, konfliktais — ir visi siekiame stabilesnio ritmo, su kuriuo galime gyventi.
 
-Šis karkasas yra praktiškas. Jis paverčia lygiagrečius monologus pokalbiu, kuriuo galima keliauti. Jis duoda klausimų, kurie kuria įžvalgą, o ne spaudimą. Jis padeda pereiti **nuo pervargimo prie ramybės**, **nuo kaltinimo prie smalsumo**, **nuo prielaidų prie aiškumo**, ir **nuo „mano vs. tavo“ prie „mūsų“**. Jį galima naudoti vienam savirefleksijai, dviese sprendimams priimti arba mažais žingsniais, kai laiko mažai.
+Šis karkasas yra praktiškas. Jis paverčia lygiagrečius monologus pokalbiu, kuriame įmanoma orientuotis. Klausimai lengvi, bet tikslūs: jie sumažina spaudimą ir padeda pasakyti, kas yra tiesa. CLRF galite naudoti vienas savirefleksijai, kartu sprendimams priimti ar mažais žingsniais, kai laiko trūksta.
 
-Ką rasite toliau:
-- Paprastą sąlygų → poreikių → funkcijų žemėlapį, kad matytumėte, kur esate ir kur norite eiti.
-- Trumpas praktikas, tinkančias realioms, o ne idealioms dienoms.
-- Klausimus, kurie kviečia į atvirumą be teisimo ir pažangą be skubos.
-- Būdus įvertinti tai, kas jau veikia, ir pakeisti tai, kas neveikia – švelniai, aiškiai ir kartu.
+Toliau rasite:
 
-Jeigu skaitote, vadinasi, kažkur jumyse jau yra tikėjimas, kad geresnis ritmas įmanomas. Įkvėpkite. Atneškite dėmesį. Pradėkite nuo vieno puslapio, vieno klausimo, vieno susitarimo. To šiandien pakanka.
+- Aiškų žemėlapį: **sąlygos → poreikiai → funkcijos**, kad matytumėte, kur esate ir kas svarbiausia dabar.
+- Trumpas praktikas, kurios tinka tikriems, o ne idealiems gyvenimo ritmams.
+- Klausimus, padedančius išgirsti vienas kitą be prievartos pasiekti nuosprendį.
+- Būdus pastebėti, kas jau veikia — ir keisti tai, kas neveikia — švelniai ir aiškiai.
+
+Jei laikote šią knygą rankose, vadinasi, jumyse jau yra tikėjimo, kad geresnis ritmas įmanomas. Įkvėpkite. Pradėkite nuo vieno puslapio, vieno klausimo, vieno mažo susitarimo. Tegul to šiandien pakanka.
 
 _[Viktor Jevdokimov](https://www.linkedin.com/in/viktor-jevdokimov)_<br/>
 _Vilnius, 2025_
