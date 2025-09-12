@@ -1,6 +1,6 @@
 # Chapter 2. Conditions
 
-Conditions are the background and environment in which the couple lives. They create the frame that can support the relationship or, on the contrary, complicate it. Conditions cannot always be changed immediately, but they must be acknowledged to understand what needs arise and which functions should be activated. Awareness itself already brings calm, reduces defensiveness, and invites curiosity about what can be adjusted.
+Conditions are the backdrop of your life together. They don’t ask for permission; they set the stage. Seeing them clearly helps you decide which needs are being pulled forward and which actions are worth trying next.
 
 ## Categories of conditions
 
@@ -12,24 +12,24 @@ Conditions are the background and environment in which the couple lives. They cr
 
 ## 1. Material conditions
 
-These include housing, income level, financial stability, distribution of household duties, and the presence of a comfortable daily routine. Material conditions create basic stability. For example, limited living space can generate tension, and financial instability can increase anxiety. When addressed with respect and patience, they can also strengthen trust and shared responsibility.
+These include housing, income, financial stability, the split of household duties, and the shape of daily routines. It’s no surprise that limited space can create tension or that unstable finances can keep both partners on edge. Yet these are also chances to act together. A simple shared plan — who does what by when, what we postpone, what we protect — turns a stressful topic into a steadying one and slowly builds trust that outlasts money or square meters.
 
 ## 2. Time conditions
 
-Time is a key resource in relationships. Work schedules, the overlap or mismatch of free time, and the overall rhythm of life (for example, "lark" and "owl") directly influence the quality of shared leisure and the possibility of emotional closeness. Negotiating time with clarity and empathy helps transform frustration into belonging.
+When you map your time openly — where it overlaps, where it doesn’t — you can trade small adjustments (bedtimes, errands, quiet hours) that make the week feel shared instead of mismatched.
 
 ## 3. Social conditions
 
-Family, children, relatives, and their involvement in the couple's life can be both a source of support and a factor of pressure. Friends and community give a sense of belonging but sometimes create expectations. Social roles (for example, professional status) also impose obligations. Naming these dynamics openly reduces hidden resentment and allows gratitude for support to be expressed.
+Naming these dynamics out loud reduces the “invisible pressure” that breeds resentment. It also gives you a moment to thank the people who actually help, which makes boundaries easier to hold.
 
 ## 4. Cultural and value conditions
 
-This includes faith, philosophical or spiritual beliefs, and a value system — honesty, respect, freedom. Cultural environment, traditions, and language form the context in which the couple lives. Different values can be a source of conflicts, while shared values are a strong unifying factor. Curiosity toward differences and appreciation for common ground turn potential conflict into growth.
+Different values will surface sooner or later; treating them as data points rather than verdicts keeps the conversation moving. Looking for one value you both care about — fairness, freedom, honesty — creates a place to stand while you sort out the rest.
 
 ## 5. Non-material personal conditions
 
-This includes health (physical and mental), emotional state, and personal space. If one partner has chronic stress or no time for themselves, it directly affects the couple. Caring for such conditions helps to reduce tension and maintain balance. Respecting boundaries and offering encouragement supports resilience and mutual trust.
+Small care routines — sleep windows, screen - free breaks, a walk — lower the general noise level. Clear “I need 30 minutes alone / I’m available after 8” signals help both of you keep your footing.
 
 ## Conclusion
 
-Conditions are not "right" or "wrong." They are the reality that is important to acknowledge. Awareness of conditions determines which needs will be relevant and which functions will have to be activated. Facing them with calm, patience, and honesty builds the ground for lasting connection.
+Conditions aren’t right or wrong — they’re the weather. Naming the weather lets you pack the right gear: which needs are active, which functions you’ll lean on this week, and which experiments are worth a try.
