@@ -20,13 +20,13 @@ Ways to set priorities:
 
 A strategy is the set of principles and routines that keep you on course:
 
-- **Principles** — e.g., *“we raise big issues once a week”* or *“we avoid decisions during conflict.”*
+- **Principles** — e.g., *“we raise big issues once a week”* or *“we avoid decisions during conflict.”*<br/>
   Principles create predictability and reduce defensiveness.
 
-- **Rituals** — e.g., weekly planning, monthly retrospective.
+- **Rituals** — e.g., weekly planning, monthly retrospective.<br/>
   Rituals remind you that you are a team and keep the rhythm steady.
 
-- **Progress checks** — e.g., once a month review the table of changes.
+- **Progress checks** — e.g., once a month review the table of changes.<br/>
   Reviews make progress visible, which builds recognition and hope.
 
 ## 3. Mini-rituals
