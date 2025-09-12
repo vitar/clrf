@@ -1,6 +1,6 @@
-# > CL/RF _ Couple Life Reflection Framework
+# Tarp mūsų: praktiškas gidas poroms
 
-**Praktinis įrankis diagnostikai, vizijai ir pokyčiams**
+**Kaip kurti aiškumą ir ryšį naudojant Couple Life Reflection Framework (CLRF) - poros gyvenimo refleksijos karkasą**
 
 _[Viktor Jevdokimov](https://www.linkedin.com/in/viktor-jevdokimov)_<br/>
 _Vilnius 2025_
