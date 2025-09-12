@@ -44,7 +44,8 @@ When personal functions are strong, the shared space breathes easier.
 
 If someone manages stress, there’s less spillover. If hobbies and friendships are alive, a partner isn’t the only source of joy or recognition. That space makes curiosity and play easier together.
 
-When personal functions sag, the shared space gets heavy.  
+When personal functions sag, the shared space gets heavy.
+
 Lack of rest, autonomy, or outside support turns the partner into a patch for everything. Noticing the gap — and encouraging one concrete personal step — lightens the load for both.
 
 ## 4. Universal formula
