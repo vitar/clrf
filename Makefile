@@ -90,7 +90,7 @@ pdf:
 	pandoc $(BOOK_EN) \
 	-t html5 -s \
 	--css=pdf.css \
-	--lua-filter=rel2anchor.lua \
+	--disable-external-links \
 	--pdf-engine=wkhtmltopdf \
 	--pdf-engine-opt=--page-size \
 	--pdf-engine-opt=A4 \
@@ -106,7 +106,7 @@ pdf:
 	pandoc $(BOOK_LT) \
 	-t html5 -s \
 	--css=pdf.css \
-	--lua-filter=rel2anchor.lua \
+	--disable-external-links \
 	--pdf-engine=wkhtmltopdf \
 	--pdf-engine-opt=--page-size \
 	--pdf-engine-opt=A4 \
@@ -122,7 +122,7 @@ pdf:
 	pandoc $(BOOK_RU) \
 	-t html5 -s \
 	--css=pdf.css \
-	--lua-filter=rel2anchor.lua \
+	--disable-external-links \
 	--pdf-engine=wkhtmltopdf \
 	--pdf-engine-opt=--page-size \
 	--pdf-engine-opt=A4 \
