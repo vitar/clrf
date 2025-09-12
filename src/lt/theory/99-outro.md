@@ -1,31 +1,31 @@
-# 10 skyrius. Apibendrinimas
+# 10 skyrius. Pabaiga
 
-„Couple Life Reflection Framework“ karkasas siūlo struktūrą, padedančią poroms sąmoningai žiūrėti į santykius. Jis remiasi trimis lygiais: sąlygomis, poreikiais ir funkcijomis. Šie lygiai sudaro pagrindą diagnostikai, vizijai ir pokyčiams, kartu kviesdami į santykius įnešti ramybės, smalsumo ir pagarbos.
+**Couple Life Reflection Framework (CLRF)** suteikia poroms paprastą būdą pamatyti, kas vyksta, ir nuspręsti, ką daryti toliau. Jis remiasi trimis lygiais — **sąlygomis**, **poreikiais** ir **funkcijomis** — kurie painiavą paverčia žemėlapiu, pagal kurį galima judėti.
 
-## 1. Karkaso santrauka
+## 1. Karkasas vienu žvilgsniu
 
-- Sąlygos – fonas ir aplinka, darantys įtaką santykiams.
-- Poreikiai – vidiniai poreikiai, formuojantys motyvaciją.
-- Funkcijos – veiksmai ir mechanizmai, patenkinantys poreikius.
+- **Sąlygos** — faktai ir aplinka, formuojantys kasdienį gyvenimą.
+- **Poreikiai** — prašymai, kylantys iš tų faktų.
+- **Funkcijos** — veiksmai, kuriais patenkinami poreikiai.
 
-Kartu jie sudaro žemėlapį, padedantį suprasti, kur esame ir kur norime judėti, suteikiant aiškumo vietoje painiavos.
+Įvardyti šia tvarka, jie parodo, kur esate, kas svarbiausia dabar ir kaip judėti toliau.
 
 ## 2. Praktinė vertė
 
-Karkasas leidžia:
+CLRF padeda:
 
-- Išvengti painiavos tarp faktų ir norų.
-- Atskirti asmenišką ir bendrą, išlaikant balansą.
-- Paversti abstrakčius pokalbius konkrečiais žingsniais.
-- Kurti vizijas, paremtas realybe.
-- Planuoti pokyčius neperkraunant.
+- Nepramaišyti faktų su norais.
+- Atskirtį **asmenišką** nuo **bendro**, neprarandant nei vieno.
+- Atvirus pokalbius paversti konkrečiais kitais žingsniais.
+- Kurti vizijas, įsišaknijusias realybėje.
+- Planuoti pokyčius neperkraunant savęs.
 
-Praktikoje jis suteikia kantrybės sudėtingomis akimirkomis, priklausymą per bendrą kalbą ir viltį per mažus įgyvendinamus žingsnius.
+Praktikoje tai reiškia mažiau besisukančių ginčų, aiškesnius prašymus ir mažas pergales, kurias galima pajusti savaitės eigoje.
 
-## 3. Naudojimas gyvenime
+## 3. CLRF naudojimas kasdieniame gyvenime
 
-Šis įrankis nepakeičia emocijų ar intuicijos. Jis padeda joms įgauti formą. Galite naudoti jį reguliariai arba grįžti, kai jaučiate, kad santykiams reikia atnaujinimo ar peržiūros. Naudojamas su atvirumu, jis paverčia gynybiškumą pasitikėjimu, o spaudimą – žaismingumu.
+CLRF nepakeičia jausmų ar intuicijos — jis suteikia jiems formą. Naudokite jį reguliariai arba grįžkite, kai ritmas pasidaro netolygus. Trumpa patikra *sąlyga → poreikis → funkcija* prieš sudėtingą pokalbį sumažina gynybiškumą ir palengvina pasirinkti žingsnį, kurį abu galite palaikyti.
 
-## 4. Baigiamasis žodis
+## 4. Pabaigos žodis
 
-Santykiai – gyvas procesas. Karkasas padeda jį padaryti sąmoningesnį ir lankstesnį. Jis neduoda paruoštų receptų, o siūlo žemėlapį, kuriuo kiekviena pora gali rasti savo kelią. Praktikuojamas su atvirumu, pagarba ir padrąsinimu, jis gali kasdienį ritmą paversti ramybės, aiškumo ir ryšio šaltiniu.
+Santykiai yra gyvos sistemos. Karkasas negali pateikti atsakymų, bet jis gali išlaikyti kelią matomą. Naudojamas su atvirumu ir lengvumu, CLRF padeda atrasti kelią atgal vienas pas kitą — vienu puslapiu, vienu klausimu, vienu mažu susitarimu.
