@@ -1,9 +1,8 @@
 site_name: "Between Us: A Practical Guide for Couples"
 site_description: "How to Build Clarity and Connection with the Couple Life Reflection Framework (CLRF)"
 site_author: "Viktor Jevdokimov"
-copyright: "Viktor Jevdokimov, Vilnius, Lithuania"
+copyright: "© 2025 Viktor Jevdokimov, Vilnius, Lithuania"
 site_url: https://vitar.github.io/clrf
-repo_url: https://github.com/vitar/clrf
 
 docs_dir: src
 
