@@ -30,6 +30,7 @@ BOOK_LT=\
 	src/lt/index.md \
 	src/lt/theory/01-preface.md \
 	src/lt/theory/10-intro.md \
+	src/lt/theory/19-quick-start.md \
 	src/lt/theory/20-conditions.md \
 	src/lt/theory/30-needs.md \
 	src/lt/theory/40-functions.md \
@@ -57,6 +58,7 @@ BOOK_RU=\
 	src/ru/index.md \
 	src/ru/theory/01-preface.md \
 	src/ru/theory/10-intro.md \
+	src/ru/theory/19-quick-start.md \
 	src/ru/theory/20-conditions.md \
 	src/ru/theory/30-needs.md \
 	src/ru/theory/40-functions.md \
@@ -90,8 +92,8 @@ pdf:
 	pandoc $(BOOK_EN) \
 	-t html5 -s \
 	--css=pdf.css \
-	--disable-external-links \
 	--pdf-engine=wkhtmltopdf \
+	--pdf-engine-opt=--disable-external-links \
 	--pdf-engine-opt=--page-size \
 	--pdf-engine-opt=A4 \
 	--pdf-engine-opt=--margin-top \
@@ -106,8 +108,8 @@ pdf:
 	pandoc $(BOOK_LT) \
 	-t html5 -s \
 	--css=pdf.css \
-	--disable-external-links \
 	--pdf-engine=wkhtmltopdf \
+	--pdf-engine-opt=--disable-external-links \
 	--pdf-engine-opt=--page-size \
 	--pdf-engine-opt=A4 \
 	--pdf-engine-opt=--margin-top \
@@ -122,8 +124,8 @@ pdf:
 	pandoc $(BOOK_RU) \
 	-t html5 -s \
 	--css=pdf.css \
-	--disable-external-links \
 	--pdf-engine=wkhtmltopdf \
+	--pdf-engine-opt=--disable-external-links \
 	--pdf-engine-opt=--page-size \
 	--pdf-engine-opt=A4 \
 	--pdf-engine-opt=--margin-top \
