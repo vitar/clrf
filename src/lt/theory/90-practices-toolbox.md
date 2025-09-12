@@ -1,6 +1,6 @@
 # 9 skyrius. Praktikos iš profesinio ir asmeninio bagažo
 
-**> CL/RF _ Couple Life Reflection karkasas** nustato pagrindus: sąlygas, poreikius ir funkcijas. Tačiau pokyčius ir veiksmus galima įgyvendinti įvairiomis praktikomis. Daugelis jų atkeliavo iš profesinės aplinkos ir gali būti pritaikytos porai. Papildomai įtraukti įrankiai, padedantys kasdienėje sąveikoje. Šios praktikos suteikia struktūros, bet taikomos su pagarba, smalsumu ir žaismingumu, jos taip pat stiprina priklausymą ir mažina paslėptą įtampą.
+**Couple Life Reflection Framework (CLRF)** nustato pagrindus: sąlygas, poreikius ir funkcijas. Tačiau pokyčius ir veiksmus galima įgyvendinti įvairiomis praktikomis. Daugelis jų atkeliavo iš profesinės aplinkos ir gali būti pritaikytos porai. Papildomai įtraukti įrankiai, padedantys kasdienėje sąveikoje. Šios praktikos suteikia struktūros, bet taikomos su pagarba, smalsumu ir žaismingumu, jos taip pat stiprina priklausymą ir mažina paslėptą įtampą.
 
 ## 1. VMOSA (Vision–Mission–Objectives–Strategy–Action)
 
