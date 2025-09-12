@@ -1,44 +1,44 @@
 # 3 skyrius. Poreikiai
 
-Poreikiai – tai vidiniai poreikiai, kylantys esant sąlygoms. Jie apibrėžia, kas mums svarbu šiuo metu, ir nurodo kryptį bendriems bei asmeniniams veiksmams. Sąlygų ir poreikių atskyrimas padeda išvengti painiavos: sąlyga – faktas, poreikis – noras ar prašymas. Poreikių įvardijimas su atvirumu ir smalsumu mažina gynybiškumą ir stiprina pasitikėjimą.
+Poreikiai yra vidiniai prašymai, kylantys reaguojant į realias sąlygas. Jie parodo, kas šiuo metu svarbiausia, ir nukreipia bendrus bei asmeninius veiksmus. Atskyrę **sąlygas** (faktus) nuo **poreikių** (prašymų), išvengsite daug painiavos.
 
 ## Poreikių kategorijos
 
-1. Fiziologiniai / baziniai – sveikata, saugumas, seksualinis artumas.
-2. Emociniai / psichologiniai – meilė, pripažinimas, palaikymas, emocinis saugumas.
-3. Vystymosi / augimo – asmeninis tobulėjimas, savirealizacija, naujovės ir patirtys.
-4. Bendri / poriniai – bendri tikslai, tradicijos, bendras laikas, „mes“ jausmas.
-5. Socialiniai / išoriniai – pripažinimas kaip poros, socialinis palaikymas, darna su aplinka.
+1. Fiziologiniai / baziniai — sveikata, saugumas, seksualinis artumas
+2. Emociniai / psichologiniai — meilė, pripažinimas, palaikymas, emocinis saugumas
+3. Tobulėjimo / augimo — mokymasis, savirealizacija, naujovės ir patirtys
+4. Bendri / poros — bendri tikslai, tradicijos, laikas kartu, „mes“ jausmas
+5. Socialiniai / išoriniai — pripažinimas kaip poros, palaikymo tinklas, derėjimas prie aplinkos
 
 ## 1. Fiziologiniai / baziniai
 
-Šie poreikiai susiję su išlikimu ir baziniu stabilumu: sveikata, miegas, mityba, finansinis ir fizinis saugumas, seksualinis artumas. Jei jie nepatenkinami, pora neišvengiamai patiria įtampą. Rūpinimasis jais su pagarba ir kantrybe mažina nerimą ir kuria ramybės pagrindą.
+Šie poreikiai palaiko gyvenimo stabilumą: miegas, sveikata, maistas, fizinis ir finansinis saugumas, seksualinis artumas. Kai jų trūksta, įtampa išlenda visur kitur. Paprastas patikrinimas — *Ar pakankamai miegame, valgome ir ilsimės, kad galėtume normaliai veikti?* — dažnai paaiškina daugiau nei ilgas ginčas. Pirmiausia saugant šiuos pagrindus sumažėja foninis stresas ir tampa lengviau kalbėtis apie viską kitą.
 
 ## 2. Emociniai / psichologiniai
 
-Tai meilės, dėmesio, pripažinimo ir pagarbos poreikiai. Jie susiję su vertės ir saugumo santykiuose jausmu. Kai jie patenkinti, partneriai jaučia pasitikėjimą ir emocinį artumą. Dėkingumas ir patvirtinimas šį ryšį dar labiau gilina, o apleidimas gali sukelti abejones ar apmaudą.
+Šie poreikiai reiškia norą būti matomam, vertinamam ir saugiam su kitu — meilė, dėmesys, pagarba, patikinimas. Jie patenkinami mažais, kartojamais veiksmais: akių kontaktu, laiku atsakytu žodžiu, šiluma po sunkios dienos, pasakant, ką vertinate. Kai šių mikro-signalų trūksta, auga abejonės; kai jie yra, kaupiasi pasitikėjimas ir artumas.
 
-## 3. Vystymosi / augimo
+## 3. Tobulėjimo / augimo
 
-Kiekvienas žmogus siekia augti: mokytis, įgyti naujų įgūdžių, realizuoti save. Porai tai taip pat poreikis naujovėms ir įspūdžiams. Kai augimas užblokuotas, atsiranda stagnacijos ir nepasitenkinimo jausmas. Palaikydami vienas kito augimą, partneriai įkvepia vienas kitą, stiprina drąsą ir kuria bendrą pažangą.
+Žmonėms reikia judėjimo: mokymosi, meistriškumo, saviraiškos, naujų patirčių. Stagnacija primena rūką. Įvardinkite vieną sritį, kurioje norite augti, ir vieną mažą žingsnį šį mėnesį; paprašykite partnerio padėti tą žingsnį apsaugoti. Abipusis palaikymas čia paverčia „kažkada“ apčiuopiamu progresu.
 
-## 4. Bendri / poriniai
+## 4. Bendri / poros
 
-Tai poreikiai, formuojantys poros tapatybę: bendri tikslai ir projektai, tradicijos ir ritualai, bendras laikas. Jie kuria „mes“ jausmą, svarbų ilgalaikiam santykių tvarumui. Priklausymas auga, kai partneriai įsipareigoja bendriems ritmams, švenčia kartu ir gerbia vienas kito indėlį.
+Šie poreikiai kuria „mes“ tapatybę: tikslai, projektai, ritualai, aiškiai mūsų laikas. Pasirinkite vieną bendrą ritmą (savaitinis pasivaikščiojimas, lėta kava, sekmadienio planavimas) ir leiskite jam būti savaitės ašimi. Matomi ritmai kuria priklausymo jausmą ir padeda ištverti užimtas atkarpas.
 
 ## 5. Socialiniai / išoriniai
 
-Šie poreikiai susiję su išoriniu pasauliu: pripažinimu ir palaikymu iš šeimos bei draugų, taip pat darna su aplinka. Socialinė aplinka gali stiprinti porą arba, priešingai, kelti įtampą. Dėkingumo išraiška už paramą ir aiškių ribų nustatymas su pagarba saugo artumą ir nepriklausomybę.
+Išorinis pasaulis svarbus: šeima, draugai, bendruomenė ir tai, kaip jūsų gyvenimas dera prie aplinkos. Susidėliokite, kokią paramą turite ir kokį spaudimą jaučiate; padėkokite pirmai ir brėžkite ribas antrajai. Aiškūs signalai kitiems saugo artumą neizoliuodami jūsų.
 
-## Sąlygų ir poreikių skirtumas
+## Skirtumas tarp sąlygų ir poreikių
 
-Svarbu atskirti sąlygas ir poreikius:
+Išlaikykite aiškų žvilgsnį:
 
-- Sąlyga: faktas, duotybė (pvz., „mūsų butas mažas“).
-- Poreikis: noras, prašymas (pvz., „man reikia daugiau erdvės“).
+- **Sąlyga:** faktas, duotybė — *„Mes gyvename mažame bute.“*
+- **Poreikis:** prašymas, kylantis iš to — *„Man reikia daugiau erdvės / tylos / laiko lauke.“*
 
-Šis skirtumas leidžia realistiškiau ir konstruktyviau kurti vizijas bei pokyčius. Jis taip pat mažina nusivylimą, nes poros gali pereiti nuo kaltinimų („mes čia įstrigę“) prie smalsumo („ko mums iš tikrųjų reikia?“).
+Šis skirtumas daro planus realesnius. Jis perkelia pokalbį nuo kaltinimo — *„Mes čia įstrigę.“* — prie smalsumo — *„Turint šią erdvę, ko mums iš tikrųjų reikia?“*
 
 ## Išvada
 
-Poreikiai sudaro pagrindą ateities vizijai ir padeda pasirinkti funkcijas. Juos pripažinus, lengviau suprasti save ir vienas kitą bei išvengti nesusipratimų, kai partneriai kalba apie sąlygas, o turi omenyje poreikius. Poreikių tenkinimas su empatija, aiškumu ir padrąsinimu paverčia pažeidžiamumą ryšiu ir sukuria viltį bendrai augti.
+Poreikiai yra kompasas vizijai ir funkcijų pasirinkimui. Kai juos aiškiai įvardijate, greičiau suprantate save ir vienas kitą bei renkatės veiksmus, kurie iš tiesų padeda. Pradėkite mažai: vienas įvardytas poreikis, vienas kitas žingsnis, vienas patikrinimas — ar tai veikė.
