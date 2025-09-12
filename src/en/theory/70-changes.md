@@ -1,61 +1,38 @@
 # Chapter 7. Changes
 
-Changes are the bridge between the current situation and the vision of the future. They allow abstract wishes to be turned into concrete steps. Changes vary in scale – from daily habits to major decisions. Approached with patience and respect, changes reduce fear and create hope.
+Changes are the bridge between where you are and the future you want. They turn abstract wishes into concrete steps. Changes can be big or small — from a new daily habit to a life-shaping decision. Named clearly, they reduce fear and make progress feel possible.
 
 ## 1. Categories of change
 
-- Radical – large, long-term steps (moving, changing jobs, decisions about having children).  
-  These require courage, trust, and mutual encouragement.  
-- Compromise – agreements (division of duties, schedules, boundaries with relatives).  
-  Compromise works best when guided by fairness and respect.  
-- Micro-changes – small habits and rituals (gadget-free dinner, daily compliments, morning coffee together).  
-  Micro-changes create belonging and gratitude in daily rhythm.  
+- **Radical** changes are big, life-shaping moves like relocating, switching careers, or deciding about children, and they only work when both partners bring courage and strong support to the table.
+- **Compromise** changes are fair agreements on chores, schedules, or family boundaries that reduce friction when they’re kept visible and realistic.
+- **Micro-changes** are small daily habits—phones down at dinner, a compliment, morning coffee—that quietly build gratitude, connection, and rhythm over time.
 
 ## 2. Gap analysis
 
-Gap analysis helps compare the current state with the desired future:
+Gap analysis compares the current state with the desired future:
 
 - Where we are now.
 - Where we want to be.
-- What changes are needed to bridge the gap.
+- What steps could close the gap.
 
-This method helps define steps systematically. It also lowers frustration, turning doubt into clarity.
+This simple lens turns vague frustration into a list of options you can try. It helps couples move from doubt to clarity about what’s next.
 
 ## 3. Examples of changes
 
-### Example 1
-
-- Current state: little time together.
-- Desired future: more emotional closeness.
-- Change: introduce a weekly gadget-free evening (micro-change).
-
-This builds belonging and calm.
-
-### Example 2
-
-- Current state: financial instability.
-- Desired future: confidence and stability.
-- Change: create a joint budget and savings strategy (radical).
-
-This nurtures trust and patience.
-
-### Example 3
-
-- Current state: conflicts about household chores.
-- Desired future: fair division of household duties.
-- Change: make a list of duties and redistribute them (compromise).
-
-This restores respect and reduces resentment.  
+- **Little time together → weekly gadget-free evening (micro-change)**, a simple ritual that anchors closeness and calm.
+- **Financial instability → joint budget and savings plan (radical)**, a shared step that lowers anxiety and builds trust.
+- **Conflicts about chores → visible list and redistribution (compromise)**, a fair reset that reduces resentment and restores respect.
 
 ## 4. Shared and personal changes
 
-It is important to distinguish:
+Distinguish between:
 
-- Shared changes (what concern the couple).
-- Personal changes (what each does for themselves).
+- **Shared changes** — what concerns the couple together.
+- **Personal changes** — what each does for themselves.
 
-Balance means moving in both directions: developing both the “we” and the “I”. Encouraging each other in personal changes creates recognition and shared pride, while shared changes strengthen unity.
+Progress comes from both directions. Encouraging a partner’s personal change turns it into shared pride. Taking on joint changes strengthens unity.
 
 ## Conclusion
 
-Change is a process, not a one-time decision. It requires time, agreement, and readiness to adjust. Even small steps can lead to big results over time. When changes are guided by clarity, curiosity, and mutual support, they transform pressure into progress and open space for growth together.
+Change is not a single decision but an ongoing process. It asks for time, small adjustments, and space to revise the plan. Even tiny steps add up when they’re repeated. Approached with clarity and mutual support, changes stop feeling like pressure and start feeling like momentum toward growth.
