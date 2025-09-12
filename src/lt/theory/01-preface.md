@@ -2,7 +2,7 @@
 
 Tai prasidėjo nuo įpročio: rasti tvarką sudėtingume. Metus kūriau ir vedžiau sistemas – kodą, komandas, organizacijas – ieškodamas struktūros triukšme. Vieną akimirką supratau, kad tokia pati sumaištis yra svarbiausioje sistemoje, kurios dalis esu: santykiuose. Jei galime žemėlapiuoti paskirstytas sistemas, kodėl negalime žemėlapiuoti gyvos sistemos tarp dviejų žmonių?
 
-Užuot rinkęsis tarp patarimų straipsniuose ar žalių emocijų, ėmiausi tilto statymo: kaip laikyti **logiką ir jausmą** kartu. Taip atsirado **> CL/RF _ Couple Life Reflection Framework** – įrankis, padedantis poroms pastebėti savo **sąlygas, poreikius ir funkcijas** bei paversti juos bendra kalba, bendrais sprendimais ir bendru judėjimu pirmyn.
+Užuot rinkęsis tarp patarimų straipsniuose ar žalių emocijų, ėmiausi tilto statymo: kaip laikyti **logiką ir jausmą** kartu. Taip atsirado (angl.) **Couple Life Reflection Framework (CLRF)** (liet. poros gyvenimo refleksijos karkasas) – įrankis, padedantis poroms pastebėti savo **sąlygas, poreikius ir funkcijas** bei paversti juos bendra kalba, bendrais sprendimais ir bendru judėjimu pirmyn.
 
 Jums nereikia būti inžinieriumi, kad tuo naudotumėtės. Nesvarbu, ar rašote kodą, mokote, kuriate, vadovaujate, auginate vaikus ar tiesiog norite sąmoningai gyventi kartu – principai tie patys. Visi susiduriame su panašiais trukdžiais: neapibrėžtumu, perkrovimu, nesuderinamumu, konfliktais. Ir visi turime tuos pačius troškimus: ramybę, aiškumą, smalsumą, priklausymą, pagarbą, augimą.
 
