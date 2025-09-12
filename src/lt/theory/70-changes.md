@@ -1,61 +1,38 @@
 # 7 skyrius. Pokyčiai
 
-Pokyčiai – tai tiltas tarp dabartinės situacijos ir ateities vizijos. Jie leidžia abstrakčius norus paversti konkrečiais žingsniais. Pokyčiai gali būti įvairaus masto – nuo kasdienių įpročių iki kardinalių sprendimų. Su kantrybe ir pagarba priimami pokyčiai mažina baimę ir kuria viltį.
+Pokyčiai yra tiltas tarp dabartinės situacijos ir norimos ateities. Jie paverčia abstrakčius norus į konkrečius žingsnius. Pokyčiai gali būti dideli ar maži — nuo naujo kasdienio įpročio iki gyvenimą keičiančio sprendimo. Aiškiai įvardyti, jie sumažina baimę ir leidžia progresą pajusti realiai.
 
 ## 1. Pokyčių kategorijos
 
-- Kardinalūs – dideli, ilgalaikiai žingsniai (persikraustymas, darbo keitimas, sprendimas dėl vaikų).
-  Jiems reikia drąsos, pasitikėjimo ir abipusio padrąsinimo.
-- Kompromisiniai – susitarimai (pareigų pasidalijimas, grafikai, ribos su giminaičiais).
-  Geriausiai veikia, kai juos lydi pagarba ir teisingumas.
-- Mikro pokyčiai – maži įpročiai ir ritualai (vakarienė be telefonų, kasdieniai komplimentai, bendras rytinis kavos puodelis).
-  Jie kuria priklausymą ir dėkingumą kasdienybėje.
+- **Radikalūs** pokyčiai — tai dideli, gyvenimą formuojantys sprendimai, tokie kaip persikraustymas, karjeros keitimas ar sprendimas dėl vaikų, ir jie įmanomi tik tada, kai abu partneriai atsineša drąsos bei stipriai palaiko vienas kitą.
+- **Kompromisiniai** pokyčiai — tai sąžiningi susitarimai dėl buitinių darbų, tvarkaraščių ar ribų su artimaisiais, kurie sumažina trintį, kai yra matomi ir realistiški.
+- **Mikro-pokyčiai** — tai maži kasdieniai įpročiai, tokie kaip vakarienė be telefonų, komplimentas ar rytinė kava kartu, kurie tyliai kuria dėkingumą, ryšį ir bendrą ritmą.
 
-## 2. Skirtumo analizė
+## 2. Tarpų analizė
 
-Skirtumo (gap) analizė padeda palyginti dabartinę būseną ir norimą ateitį:
+Tarpų analizė padeda palyginti dabartinę būseną su norima ateitimi:
 
 - Kur esame dabar.
 - Kur norime būti.
-- Kokie pokyčiai reikalingi, kad įveiktume atotrūkį.
+- Kokie žingsniai uždarytų tarpą.
 
-Šis metodas leidžia sistemiškai nustatyti žingsnius. Jis taip pat mažina nusivylimą, nes abejonės virsta aiškumu.
+Ši paprasta perspektyva miglotą nusivylimą paverčia išbandytinų pasirinkimų sąrašu. Ji padeda poroms pereiti nuo abejonių prie aiškumo dėl to, kas toliau.
 
 ## 3. Pokyčių pavyzdžiai
 
-### Pavyzdys 1
-
-- Dabartinė būklė: mažai bendro laiko.
-- Norima ateitis: daugiau emocinio artumo.
-- Pokytis: įvesti savaitinį vakarą be įrenginių (mikro pokytis).
-
-Tai kuria priklausymą ir ramybę.
-
-### Pavyzdys 2
-
-- Dabartinė būklė: finansinis nestabilumas.
-- Norima ateitis: užtikrintumas ir stabilumas.
-- Pokytis: sukurti bendrą biudžetą ir taupymo strategiją (kardinalus).
-
-Tai ugdo pasitikėjimą ir kantrybę.
-
-### Pavyzdys 3
-
-- Dabartinė būklė: konfliktai dėl buities.
-- Norima ateitis: teisingas pareigų pasiskirstymas.
-- Pokytis: sudaryti pareigų sąrašą ir jį perskirstyti (kompromisinis).
-
-Tai atkuria pagarbą ir mažina apmaudą.
+- **Mažai laiko kartu → savaitinis vakaras be įrenginių (mikro-pokytis)** — paprastas ritualas, kuris sutvirtina artumą ir ramybę.
+- **Finansinis nestabilumas → bendras biudžetas ir taupymo planas (radikalus)** — bendras žingsnis, kuris mažina nerimą ir kuria pasitikėjimą.
+- **Ginčai dėl buitinių darbų → matomas sąrašas ir perskirstymas (kompromisas)** — sąžiningas perstatymas, kuris mažina nuoskaudas ir grąžina pagarbą.
 
 ## 4. Bendri ir asmeniniai pokyčiai
 
-Svarbu atskirti:
+Skirkite:
 
-- Bendrus pokyčius (tai, kas susiję su pora).
-- Asmeninius pokyčius (tai, ką kiekvienas daro sau).
+- **Bendrus pokyčius** — tai, kas susiję su pora kartu.
+- **Asmeninius pokyčius** — tai, ką kiekvienas daro dėl savęs.
 
-Balansas – judėti abiem kryptimis: plėtoti ir „mes“, ir „aš“. Padrąsindami vienas kitą asmeniniuose pokyčiuose, partneriai patiria pripažinimą ir bendrą pasididžiavimą, o bendri pokyčiai stiprina vienybę.
+Progresas ateina iš abiejų pusių. Partnerio asmeninio pokyčio palaikymas paverčia jį bendru pasididžiavimu. Bendri pokyčiai stiprina vienybę.
 
 ## Išvada
 
-Pokyčiai – procesas, o ne vienkartinis sprendimas. Jie reikalauja laiko, susitarimo ir pasirengimo koreguoti. Net maži žingsniai ilgainiui gali atnešti didelių rezultatų. Kai pokyčius lydi aiškumas, smalsumas ir abipusis palaikymas, jie spaudimą paverčia pažanga ir atveria erdvę bendram augimui.
+Pokytis nėra vienkartinis sprendimas, o nuolatinis procesas. Jis reikalauja laiko, mažų korekcijų ir vietos planui peržiūrėti. Net maži žingsniai, kartojami nuolat, duoda didelį rezultatą. Kai pokyčius lydi aiškumas ir tarpusavio palaikymas, jie iš spaudimo virsta judėjimu į priekį.
