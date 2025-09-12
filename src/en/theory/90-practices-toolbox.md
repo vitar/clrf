@@ -1,6 +1,6 @@
 # Chapter 9. Practices from Professional and Personal Toolkit
 
-The **> CL/RF _ Couple Life Reflection Framework** sets the basics: conditions, needs, and functions. But changes and actions can be implemented through different practices. Many come from the professional environment and can be adapted for a couple. Additionally, tools are included that help in daily interaction. These practices add structure, but when applied with respect, curiosity, and playfulness, they also strengthen belonging and reduce hidden tension.
+The **Couple Life Reflection Framework (CLRF)** sets the basics: conditions, needs, and functions. But changes and actions can be implemented through different practices. Many come from the professional environment and can be adapted for a couple. Additionally, tools are included that help in daily interaction. These practices add structure, but when applied with respect, curiosity, and playfulness, they also strengthen belonging and reduce hidden tension.
 
 ## 1. VMOSA (Vision–Mission–Objectives–Strategy–Action)
 
