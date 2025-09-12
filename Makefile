@@ -100,6 +100,9 @@ pdf:
 	--pdf-engine-opt=18mm \
 	--pdf-engine-opt=--margin-left \
 	--pdf-engine-opt=12mm \
+	--metadata title="Between Us: A Practical Guide for Couples" \
+	--metadata subject="Couple Life Reflection Framework (CLRF)" \
+	--metadata author="Viktor Jevdokimov" \
 	-o dist/site/assets/pdf/clrf-en.pdf
 	pandoc $(BOOK_LT) \
 	-t html5 -s \
@@ -115,6 +118,9 @@ pdf:
 	--pdf-engine-opt=18mm \
 	--pdf-engine-opt=--margin-left \
 	--pdf-engine-opt=12mm \
+	--metadata title="Tarp mūsų: praktiškas gidas poroms" \
+	--metadata subject="Couple Life Reflection Framework (CLRF) - poros gyvenimo refleksijos karkasas" \
+	--metadata author="Viktor Jevdokimov" \
 	-o dist/site/assets/pdf/clrf-lt.pdf
 	pandoc $(BOOK_RU) \
 	-t html5 -s \
@@ -130,6 +136,9 @@ pdf:
 	--pdf-engine-opt=18mm \
 	--pdf-engine-opt=--margin-left \
 	--pdf-engine-opt=12mm \
+	--metadata title="Между нами: практическое руководство для пар" \
+	--metadata subject="Couple Life Reflection Framework (CLRF) - каркас рефлексии для совместной жизни пар" \
+	--metadata author="Viktor Jevdokimov" \
 	-o dist/site/assets/pdf/clrf-ru.pdf
 
 clean:
