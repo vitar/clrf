@@ -2,6 +2,7 @@ BOOK_EN=\
 	src/en/index.md \
 	src/en/theory/01-preface.md \
 	src/en/theory/10-intro.md \
+	src/en/theory/19-quick-start.md \
 	src/en/theory/20-conditions.md \
 	src/en/theory/30-needs.md \
 	src/en/theory/40-functions.md \
