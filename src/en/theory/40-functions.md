@@ -29,9 +29,9 @@ These functions form the foundation of the “we,” nurturing connection and re
 They include:
 
 - **Self-care**<br/>
-  Health, rest, stress habits. Decide one recovery move you’ll actually use this week; tell your partner when it happens so they can protect it.
+  Health, rest, stress habits. Decide one recovery move you’ll actually use this week; tell your partner when it happens so they can protect it — your rest is a resource for both of you.
 - **Emotional work**<br/>
-  Self-reflection, regulation, self-worth. A short check-in like “name the feeling, name the need, choose one request” reduces the load you place on the relationship to ‘fix’ what’s internal.
+  Self-reflection, regulation, self-worth. A short check-in like “name the feeling → name the need → choose one request” reduces what the relationship has to carry—lighter “I” makes a steadier “we.”
 - **Hobbies and interests**<br/>
   Joy in personal pursuits adds fresh air to the couple’s rhythm. Share results, not schedules—“show and tell” brings your partner in without turning hobbies into chores.
 - **Social self-realization**<br/>
