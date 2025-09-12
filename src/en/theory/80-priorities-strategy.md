@@ -6,7 +6,7 @@ After naming changes, the next step is to decide which matter most and how to ca
 
 Ways to set priorities:
 
-- **Eisenhower Matrix** — sort by importance and urgency, which makes the load visible and easier to manage:
+- **Eisenhower Matrix** — sort by importance and urgency, that makes the load visible and easier to manage:
     - Important + urgent → do now.
     - Important + not urgent → plan.
     - Not important + urgent → delegate or shrink.
