@@ -40,8 +40,7 @@ extra:
 
   consent:
     title: "Cookie consent"
-    description: >
-      We use Google Analytics to understand site usage and improve the book.
+    description: "We use Google Analytics to understand site usage and improve the book."
     actions:
       - accept
       - reject
@@ -65,10 +64,26 @@ plugins:
           name: Lietuvių
           default: false
           build: true
+          site_name: "Tarp mūsų: praktiškas gidas poroms"
+          site_description: "Kaip kurti aiškumą ir ryšį naudojant Couple Life Reflection Framework (CLRF) - Poros gyvenimo refleksijos karkasą"
+          theme:
+            language: lt
+          extra:
+            consent:
+              title: "Sutikimas dėl slapukų"
+              description: "Naudojame „Google Analytics“, kad suprastume svetainės naudojimą ir tobulintume knygą."
         - locale: ru
           name: Русский
           default: false
           build: true
+          site_name: "Между нами: практическое руководство для пар"
+          site_description: "Как создать ясность и близость с помощью Couple Life Reflection Framework (CLRF) — Каркаса парной рефлексии"
+          theme:
+            language: ru
+          extra:
+            consent:
+              title: "Согласие на использование cookie"
+              description: "Мы используем Google Analytics, чтобы понимать использование сайта и улучшать книгу."
 
 nav:
   - index.md
