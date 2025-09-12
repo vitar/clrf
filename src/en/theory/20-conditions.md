@@ -28,7 +28,7 @@ Different values will surface sooner or later; treating them as data points rath
 
 ## 5. Non-material personal conditions
 
-Small care routines — sleep windows, screen - free breaks, a walk — lower the general noise level. Clear “I need 30 minutes alone / I’m available after 8” signals help both of you keep your footing.
+Protecting your own footing matters. Small care routines — like sleep windows, a screen-free break, or a short walk — lower the general noise level, while clear signals (“I need 30 minutes alone,” “I’m available after eight”) help both of you navigate needs without guesswork.
 
 ## Conclusion
 
