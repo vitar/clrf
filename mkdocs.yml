@@ -85,11 +85,11 @@ plugins:
       # Per-locale PDF path via env; prevents overwrites across locales
       output_path: !ENV [PDF_OUTPUT_PATH, "pdf/clrf.pdf"]
       # Translate the PDF cover subtitle via env (set in CI matrix)
+      cover_title:  !ENV [PDF_COVER_TITLE, ""]
       cover_subtitle: !ENV [PDF_COVER_SUBTITLE, ""]
+      toc_title:  !ENV [PDF_TOC_TITLE, ""]
       # Only build PDF when enabled in CI
       enabled_if_env: ENABLE_PDF_EXPORT
-      # Keeps the familiar header icon when the plugin runs (per-locale builds)
-      download_link: header
       toc_level: 2
       ordered_chapter_level: 1
 
