@@ -53,6 +53,13 @@ extra:
 
 plugins:
   - search
+  - to-pdf:
+      # Write the PDF to site/pdf/document.pdf (default). You can change name/path if you like.
+      output_path: pdf/document.pdf
+      # Only build the PDF when this env var is set (useful to keep `mkdocs serve` fast).
+      enabled_if_env: ENABLE_PDF_EXPORT
+      # Optional: show a small PDF icon in the Material header (or "footer")
+      download_link: header
   - i18n:
       docs_structure: folder
       languages:
