@@ -93,7 +93,7 @@ plugins:
       toc_level: 1
       ordered_chapter_level: 1
       exclude_pages:
-        - '/'
+        - 'index'
         - 'changelog/'
 
 nav:
