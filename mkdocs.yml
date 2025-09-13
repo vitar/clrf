@@ -90,7 +90,7 @@ plugins:
       enabled_if_env: ENABLE_PDF_EXPORT
       # Keeps the familiar header icon when the plugin runs (per-locale builds)
       download_link: header
-      toc_level: 2
+      toc_level: 1
       ordered_chapter_level: 1
 
 nav:
