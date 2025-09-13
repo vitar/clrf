@@ -40,6 +40,18 @@ jobs:
             echo "preview_path=previews/${{ github.ref_name }}" >> $GITHUB_OUTPUT
           fi
 
+      - name: Install system deps for WeasyPrint
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y \
+            libcairo2 \
+            libpango-1.0-0 libpangoft2-1.0-0 libpangocairo-1.0-0 \
+            libgdk-pixbuf2.0-0 \
+            libffi-dev \
+            libxml2 libxslt1.1 \
+            fonts-dejavu fonts-liberation \
+            shared-mime-info
+
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
@@ -50,16 +62,18 @@ jobs:
       - name: Install Python deps
         run: pip install -r requirements.txt
 
-      - name: Install Pandoc & wkhtmltopdf
+      - name: Install MkDocs and PDF plugin
         run: |
-          sudo apt-get update
-          sudo apt-get install -y pandoc wkhtmltopdf
+          python -m pip install --upgrade pip
+          pip install mkdocs mkdocs-material mkdocs-i18n   # keep your existing plugins
+          pip install mkdocs-to-pdf                        # <- the PDF plugin
+          # Optional: pin WeasyPrint if you want deterministic builds:
+          pip install "weasyprint>=52"
 
       - name: Build site (MkDocs)
-        run: mkdocs build -d dist/site
-
-      - name: Build PDFs (Pandoc → wkhtmltopdf)
-        run: make pdf
+        env:
+          ENABLE_PDF_EXPORT: "1"      # plugin only runs when this is set
+        run: mkdocs build --strict -d dist/site
 
       - name: Upload dist artifacts (for debugging)
         uses: actions/upload-artifact@v4
