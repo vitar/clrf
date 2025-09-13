@@ -75,7 +75,7 @@ jobs:
           mkdir -p dist/pdfs
 
           build_pdf () {
-            locale="$1"; title="$2"; subtitle="$3"; toctitle="#4"
+            locale="$1"; title="$2"; subtitle="$3"; toctitle="$4"
 
             export ENABLE_PDF_EXPORT="1"
             export BUILD_ONLY_LOCALE="$locale"
