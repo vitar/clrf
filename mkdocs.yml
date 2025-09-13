@@ -93,8 +93,8 @@ plugins:
       toc_level: 1
       ordered_chapter_level: 1
       exclude_pages:
-        - index.md
-        - changelog.md
+        - 'index/'
+        - 'changelog/'
 
 nav:
   - index.md
