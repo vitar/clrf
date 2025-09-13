@@ -13,20 +13,16 @@ theme:
     - navigation.expand
     - navigation.footer
     - content.code.copy
-
   palette:
-    # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
       toggle:
         icon: material/brightness-auto
         name: Switch to light mode
-    # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
-      scheme: default 
+      scheme: default
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
-    # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       toggle:
@@ -37,14 +33,12 @@ extra:
   analytics:
     provider: google
     property: G-ZB00MF626R
-
   consent:
     title: "Cookie consent"
     description: "We use Google Analytics to understand site usage and improve the book."
     actions:
       - accept
       - reject
-
   translations:
     consent:
       actions:
@@ -53,13 +47,6 @@ extra:
 
 plugins:
   - search
-  - to-pdf:
-      # Write the PDF to site/pdf/document.pdf (default). You can change name/path if you like.
-      output_path: pdf/document.pdf
-      # Only build the PDF when this env var is set (useful to keep `mkdocs serve` fast).
-      enabled_if_env: ENABLE_PDF_EXPORT
-      # Optional: show a small PDF icon in the Material header (or "footer")
-      download_link: header
   - i18n:
       docs_structure: folder
       languages:
@@ -91,6 +78,20 @@ plugins:
             consent:
               title: "Согласие на использование cookie"
               description: "Мы используем Google Analytics, чтобы понимать использование сайта и улучшать книгу."
+      # Build just one locale when BUILD_ONLY_LOCALE is set (used in CI matrix)
+      build_only_locale: !ENV [BUILD_ONLY_LOCALE, ""]
+
+  - to-pdf:
+      # Per-locale PDF path via env; prevents overwrites across locales
+      output_path: !ENV [PDF_OUTPUT_PATH, "pdf/clrf.pdf"]
+      # Translate the PDF cover subtitle via env (set in CI matrix)
+      cover_subtitle: !ENV [PDF_COVER_SUBTITLE, ""]
+      # Only build PDF when enabled in CI
+      enabled_if_env: ENABLE_PDF_EXPORT
+      # Keeps the familiar header icon when the plugin runs (per-locale builds)
+      download_link: header
+      toc_level: 2
+      ordered_chapter_level: 2
 
 nav:
   - index.md
@@ -119,7 +120,6 @@ nav:
   - practice/p11-personal-functions.md
   - practice/p12-shared-vision.md
   - changelog.md
-#  - pdf.md
 
 markdown_extensions:
   - admonition

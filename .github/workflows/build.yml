@@ -40,7 +40,18 @@ jobs:
             echo "preview_path=previews/${{ github.ref_name }}" >> $GITHUB_OUTPUT
           fi
 
-      - name: Install system deps for WeasyPrint
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+          cache-dependency-path: requirements.txt
+
+      - name: Install Python deps
+        run: pip install -r requirements.txt
+
+      # --- PDF + i18n (ADD ONLY) --------------------------------------------
+      - name: Install system deps for WeasyPrint (PDF)
         run: |
           sudo apt-get update
           sudo apt-get install -y \
@@ -52,28 +63,54 @@ jobs:
             fonts-dejavu fonts-liberation \
             shared-mime-info
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-          cache: 'pip'
-          cache-dependency-path: requirements.txt
-
-      - name: Install Python deps
-        run: pip install -r requirements.txt
-
-      - name: Install MkDocs and PDF plugin
+      - name: Install mkdocs-to-pdf
         run: |
           python -m pip install --upgrade pip
-          pip install mkdocs mkdocs-material mkdocs-i18n   # keep your existing plugins
-          pip install mkdocs-to-pdf                        # <- the PDF plugin
-          # Optional: pin WeasyPrint if you want deterministic builds:
-          pip install "weasyprint>=52"
+          # keep your existing pip installs elsewhere as-is
+          pip install mkdocs-to-pdf "weasyprint>=52"
 
-      - name: Build site (MkDocs)
-        env:
-          ENABLE_PDF_EXPORT: "1"      # plugin only runs when this is set
-        run: mkdocs build --strict -d dist/site
+      - name: Build PDFs per locale
+        run: |
+          set -e
+          mkdir -p dist/pdfs
+
+          build_pdf () {
+            locale="$1"; subtitle="$2"
+
+            export ENABLE_PDF_EXPORT="1"
+            export BUILD_ONLY_LOCALE="$locale"
+            export PDF_COVER_SUBTITLE="$subtitle"
+
+            if [ "$locale" = "en" ]; then
+              export PDF_OUTPUT_PATH="pdf/clrf.pdf"
+            else
+              export PDF_OUTPUT_PATH="${locale}/pdf/clrf.pdf"
+            fi
+
+            mkdocs build --strict --site-dir "dist/_tmp_${locale}"
+
+            mkdir -p "dist/pdfs/${locale}"
+            cp "dist/_tmp_${locale}/${PDF_OUTPUT_PATH}" "dist/pdfs/${locale}/clrf.pdf"
+          }
+
+          build_pdf "en" "Between Us: A Practical Guide for Couples"
+          build_pdf "lt" "Tarp mūsų: Praktinis vadovas poroms"
+          build_pdf "ru" "Между нами: Практическое руководство для пар"
+
+      - name: Build full multilingual site (skip PDF for speed if not already built)
+        run: |
+          if [ ! -d dist/site ]; then
+            unset ENABLE_PDF_EXPORT BUILD_ONLY_LOCALE PDF_COVER_SUBTITLE PDF_OUTPUT_PATH
+            mkdocs build --strict --site-dir dist/site
+          fi
+
+      - name: Place PDFs into final site tree
+        run: |
+          mkdir -p dist/site/pdf dist/site/lt/pdf dist/site/ru/pdf
+          cp dist/pdfs/en/clrf.pdf  dist/site/pdf/clrf.pdf
+          cp dist/pdfs/lt/clrf.pdf  dist/site/lt/pdf/clrf.pdf
+          cp dist/pdfs/ru/clrf.pdf  dist/site/ru/pdf/clrf.pdf
+      # --- PDF + i18n (END ADD ONLY) ----------------------------------------
 
       - name: Upload dist artifacts (for debugging)
         uses: actions/upload-artifact@v4
