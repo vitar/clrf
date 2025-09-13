@@ -91,7 +91,7 @@ plugins:
       # Keeps the familiar header icon when the plugin runs (per-locale builds)
       download_link: header
       toc_level: 2
-      ordered_chapter_level: 2
+      ordered_chapter_level: 0
 
 nav:
   - index.md
