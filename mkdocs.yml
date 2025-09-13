@@ -48,6 +48,8 @@ extra:
 plugins:
   - search
   - i18n:
+      # Build just one locale when BUILD_ONLY_LOCALE is set (used in CI matrix)
+      build_only_locale: !ENV [BUILD_ONLY_LOCALE, ~]
       docs_structure: folder
       languages:
         - locale: en
@@ -78,8 +80,6 @@ plugins:
             consent:
               title: "Согласие на использование cookie"
               description: "Мы используем Google Analytics, чтобы понимать использование сайта и улучшать книгу."
-      # Build just one locale when BUILD_ONLY_LOCALE is set (used in CI matrix)
-      build_only_locale: !ENV [BUILD_ONLY_LOCALE, ""]
 
   - to-pdf:
       # Per-locale PDF path via env; prevents overwrites across locales
