@@ -95,9 +95,9 @@ jobs:
             cp "dist/_tmp_${locale}/${PDF_OUTPUT_PATH}" "dist/pdfs/${locale}/clrf.pdf"
           }
 
-          build_pdf "en" "Between Us: A Practical Guide for Couples" "How to Build Clarity and Connection with the Couple Life Reflection Framework (CLRF)" "Table of contents"
-          build_pdf "lt" "Tarp mūsų: Praktinis vadovas poroms" "Kaip kurti aiškumą ir ryšį naudojant Couple Life Reflection Framework (CLRF) - poros gyvenimo refleksijos karkasą." "Turinys"
-          build_pdf "ru" "Между нами: Практическое руководство для пар" "Как создать ясность и близость с помощью Couple Life Reflection Framework (CLRF) — каркаса рефлексии для совместной жизни пар." "Содержание"
+          build_pdf "en" "Between Us:<br/>A Practical Guide for Couples" "How to Build Clarity and Connection with the Couple Life Reflection Framework (CLRF)" "Table of contents"
+          build_pdf "lt" "Tarp mūsų:<br/>Praktinis vadovas poroms" "Kaip kurti aiškumą ir ryšį naudojant Couple Life Reflection Framework (CLRF) - poros gyvenimo refleksijos karkasą." "Turinys"
+          build_pdf "ru" "Между нами:<br/>Практическое руководство для пар" "Как создать ясность и близость с помощью Couple Life Reflection Framework (CLRF) — каркаса рефлексии для совместной жизни пар." "Содержание"
 
       - name: Build full multilingual site (skip PDF for speed if not already built)
         run: |
