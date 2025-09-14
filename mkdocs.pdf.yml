@@ -97,6 +97,7 @@ plugins:
         - 'changelog/'
 
 nav:
+  - index.md
   - theory/01-preface.md
   - theory/10-intro.md
   - theory/19-quick-start.md
@@ -121,7 +122,6 @@ nav:
   - practice/p10-rituals-map.md
   - practice/p11-personal-functions.md
   - practice/p12-shared-vision.md
-  - changelog.md
 
 markdown_extensions:
   - admonition
