@@ -91,7 +91,7 @@ plugins:
       # Only build PDF when enabled in CI
       enabled_if_env: ENABLE_PDF_EXPORT
       toc_level: 1
-      ordered_chapter_level: 1
+      ordered_chapter_level: 0
       exclude_pages:
         - 'index'
         - 'changelog/'
