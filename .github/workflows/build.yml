@@ -89,7 +89,7 @@ jobs:
               export PDF_OUTPUT_PATH="${locale}/pdf/clrf.pdf"
             fi
 
-            mkdocs build --strict --site-dir "dist/_tmp_${locale}"
+            mkdocs build --strict -f mkdocs.pdf.yml --site-dir "dist/_tmp_${locale}"
 
             mkdir -p "dist/pdfs/${locale}"
             cp "dist/_tmp_${locale}/${PDF_OUTPUT_PATH}" "dist/pdfs/${locale}/clrf.pdf"

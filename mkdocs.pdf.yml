@@ -1,0 +1,129 @@
+site_name: "Between Us: A Practical Guide for Couples"
+site_description: "How to Build Clarity and Connection with the Couple Life Reflection Framework (CLRF)"
+site_author: "Viktor Jevdokimov"
+copyright: "© 2025 Viktor Jevdokimov, Vilnius, Lithuania"
+site_url: https://vitar.github.io/clrf
+
+docs_dir: src
+
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.footer
+    - content.code.copy
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+
+extra:
+  analytics:
+    provider: google
+    property: G-ZB00MF626R
+  consent:
+    title: "Cookie consent"
+    description: "We use Google Analytics to understand site usage and improve the book."
+    actions:
+      - accept
+      - reject
+  translations:
+    consent:
+      actions:
+        accept: "Allow"
+        reject: "Decline"
+
+plugins:
+  - search
+  - i18n:
+      # Build just one locale when BUILD_ONLY_LOCALE is set (used in CI matrix)
+      build_only_locale: !ENV [BUILD_ONLY_LOCALE, ~]
+      docs_structure: folder
+      languages:
+        - locale: en
+          name: English
+          default: true
+          build: true
+        - locale: lt
+          name: Lietuvių
+          default: false
+          build: true
+          site_name: "Tarp mūsų: praktiškas gidas poroms"
+          site_description: "Kaip kurti aiškumą ir ryšį naudojant Couple Life Reflection Framework (CLRF) - poros gyvenimo refleksijos karkasą."
+          theme:
+            language: lt
+          extra:
+            consent:
+              title: "Sutikimas dėl slapukų"
+              description: "Naudojame „Google Analytics“, kad suprastume svetainės naudojimą ir tobulintume knygą."
+        - locale: ru
+          name: Русский
+          default: false
+          build: true
+          site_name: "Между нами: практическое руководство для пар"
+          site_description: "Как создать ясность и близость с помощью Couple Life Reflection Framework (CLRF) — каркаса рефлексии для совместной жизни пар."
+          theme:
+            language: ru
+          extra:
+            consent:
+              title: "Согласие на использование cookie"
+              description: "Мы используем Google Analytics, чтобы понимать использование сайта и улучшать книгу."
+
+  - to-pdf:
+      # Per-locale PDF path via env; prevents overwrites across locales
+      output_path: !ENV [PDF_OUTPUT_PATH, "pdf/clrf.pdf"]
+      # Translate the PDF cover subtitle via env (set in CI matrix)
+      cover_title:  !ENV [PDF_COVER_TITLE, ""]
+      cover_subtitle: !ENV [PDF_COVER_SUBTITLE, ""]
+      toc_title:  !ENV [PDF_TOC_TITLE, ""]
+      # Only build PDF when enabled in CI
+      enabled_if_env: ENABLE_PDF_EXPORT
+      toc_level: 1
+      ordered_chapter_level: 0
+      exclude_pages:
+        - 'index'
+        - 'changelog/'
+
+nav:
+  - theory/01-preface.md
+  - theory/10-intro.md
+  - theory/19-quick-start.md
+  - theory/20-conditions.md
+  - theory/30-needs.md
+  - theory/40-functions.md
+  - theory/50-links.md
+  - theory/60-vision.md
+  - theory/70-changes.md
+  - theory/80-priorities-strategy.md
+  - theory/90-practices-toolbox.md
+  - theory/99-outro.md
+  - practice/p01-conditions-checklist.md
+  - practice/p02-needs-checklist.md
+  - practice/p03-functions-checklist.md
+  - practice/p04-diagnostic-light.md
+  - practice/p05-individual-vision.md
+  - practice/p06-change-table.md
+  - practice/p07-priority-matrix.md
+  - practice/p08-retrospective.md
+  - practice/p09-raci.md
+  - practice/p10-rituals-map.md
+  - practice/p11-personal-functions.md
+  - practice/p12-shared-vision.md
+  - changelog.md
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
