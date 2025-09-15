@@ -1,7 +1,6 @@
 {% extends "base.html" %}
 
 {% block header %}
-  {{ super() }}
   {# i18n context from mkdocs-static-i18n #}
   {% set default = i18n_config.default_language if i18n_config is defined else "en" %}
   {% set lang = i18n_page_locale if i18n_page_locale is defined else default %}
@@ -10,9 +9,10 @@
   {% set pdf_filename = "clrf_" ~ lang ~ ".pdf" %}
 
   {# Path rules: default lang has no prefix; others use /<lang>/ #}
-  {% set pdf_path = ("pdf/" ~ pdf_filename) if lang == default else (lang ~ "/pdf/" ~ pdf_filename) %}
+  {% set pdf_path = ("pdf/" ~ pdf_filename) if lang == "en" else (lang ~ "/pdf/" ~ pdf_filename) %}
 
   <a class="md-header__button md-icon" href="{{ base_url }}/{{ pdf_path }}" title="PDF">
     {% include ".icons/material/file-pdf-box.svg" %}
   </a>
+  {{ super() }}
 {% endblock %}
