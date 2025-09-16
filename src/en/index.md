@@ -1,6 +1,6 @@
 ---
-Title: "Between Us: A Practical Guide for Couples"
-Description: "How to Build Clarity and Connection with the Couple Life Reflection Framework (CLRF)"
+title: "Between Us: A Practical Guide for Couples"
+description: "How to Build Clarity and Connection with the Couple Life Reflection Framework (CLRF)"
 ---
 # Preface
 

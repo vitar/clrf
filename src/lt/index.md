@@ -1,8 +1,12 @@
+---
+title: "Tarp mūsų: praktiškas gidas poroms"
+description: "Kaip kurti aiškumą ir ryšį naudojant Couple Life Reflection Framework (CLRF) - poros gyvenimo refleksijos karkasą"
+---
+# Pratarmė
+
 ## Tarp mūsų: praktiškas gidas poroms
 
 **Kaip kurti aiškumą ir ryšį naudojant Couple Life Reflection Framework (CLRF) - poros gyvenimo refleksijos karkasą**
-
-# Pratarmė
 
 Viskas prasidėjo nuo įpročio: suprasti sudėtingumą. Daugelį metų kūriau ir vedžiau sistemas — kodą, komandas, organizacijas — ieškodamas struktūros chaose. Galiausiai pastebėjau tą pačią sumaištį svarbiausioje sistemoje, kurios dalimi esu: santykiuose. Jei galime žemėlapiuoti paskirstytas sistemas, kodėl negalėtume pažvelgti į gyvą sistemą tarp dviejų žmonių?
 
