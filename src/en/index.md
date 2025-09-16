@@ -1,4 +1,4 @@
-## Between Us: A Practical Guide for Couples
+**Between Us: A Practical Guide for Couples**
 
 **How to Build Clarity and Connection with the Couple Life Reflection Framework (CLRF)**
 
