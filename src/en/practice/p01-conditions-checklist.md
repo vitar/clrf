@@ -47,5 +47,7 @@ My notes and additions
 ____________________________________________________________
 <br/><br/>
 ____________________________________________________________
+<br/><br/>
+____________________________________________________________
 
 **Outcome:** A clear snapshot of the external and internal factors affecting your relationship today.
