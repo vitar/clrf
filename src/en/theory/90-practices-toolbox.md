@@ -1,6 +1,6 @@
 # Chapter 9. Practices from Professional and Personal Toolkit
 
-The **Couple Life Reflection Framework (CLRF)** sets the basics: conditions, needs, and functions. To make changes real, couples can borrow simple practices from professional life and adapt them for daily use. These tools add structure, but used with respect, curiosity, and playfulness, they also strengthen trust and reduce hidden tension.
+The following practices are borrowed from professional life. They may look formal at first, but their strength is simple: structure removes blame from logistical talks and lets you solve problems as a team. Adapt what helps and ignore the rest—the goal is clarity you can live with.
 
 ## 1. VMOSA (Vision–Mission–Objectives–Strategy–Action)
 

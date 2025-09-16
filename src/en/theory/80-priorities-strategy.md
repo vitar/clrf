@@ -16,6 +16,8 @@ Ways to set priorities:
 - **Balance** — include both shared and personal changes.<br/>
   Balance honors individuality and togetherness at the same time.
 
+This simple grid replaces the anxiety of a long to-do list with the calm of a shared, manageable plan.
+
 ## 2. Strategy
 
 A strategy is the set of principles and routines that keep you on course:

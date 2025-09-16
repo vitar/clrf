@@ -6,7 +6,7 @@ Changes are the bridge between where you are and the future you want. They turn 
 
 - **Radical** changes are big, life-shaping moves like relocating, switching careers, or deciding about children, and they only work when both partners bring courage and strong support to the table.
 - **Compromise** changes are fair agreements on chores, schedules, or family boundaries that reduce friction when they’re kept visible and realistic.
-- **Micro-changes** are small daily habits—phones down at dinner, a compliment, morning coffee—that quietly build gratitude, connection, and rhythm over time.
+- **Micro-changes** are quiet, daily habits—phones down at dinner, a compliment, morning coffee—that seem small in the moment but accumulate into a durable rhythm of connection and gratitude.
 
 ## 2. Gap analysis
 
@@ -16,7 +16,7 @@ Gap analysis compares the current state with the desired future:
 - Where we want to be.
 - What steps could close the gap.
 
-This simple lens turns vague frustration into a list of options you can try. It helps couples move from doubt to clarity about what’s next.
+This simple lens turns vague frustration into a list of options you can try and helps couples move from doubt to clarity about what’s next.
 
 ## 3. Examples of changes
 

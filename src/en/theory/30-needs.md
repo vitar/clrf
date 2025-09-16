@@ -20,7 +20,7 @@ These needs ask to be seen, valued, and safe with each other — love, attention
 
 ## 3. Development / growth
 
-People need movement: learning, mastery, self-expression, new experiences. Stagnation feels like a fog. Name one area you want to grow in and one tiny step you can take this month; invite your partner to protect that step. Mutual support here turns “someday” into progress you can point to.
+People need movement: learning, mastery, self-expression, new experiences. Stagnation feels like a fog. Name one area you want to grow in and one tiny step you can take this month; invite your partner to protect that step. Mutual support here turns “someday” into progress you can both see, strengthening the “I” and enriching the “We” at the same time.
 
 ## 4. Shared / couple
 

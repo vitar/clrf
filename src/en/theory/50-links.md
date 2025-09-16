@@ -4,7 +4,7 @@ Conditions, needs, and functions don’t live on separate islands. They connect 
 
 **Condition → Need → Function**
 
-This chain shows how reality shapes requests and how requests guide action. When you name the links clearly, arguments shrink and next steps appear.
+This chain shows how reality shapes requests and how requests guide action. When you name the links clearly, the fog of argument lifts and the next clear step appears.
 
 ## 1. Condition → Need
 

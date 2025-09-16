@@ -20,13 +20,19 @@ When you map your time openly — where it overlaps, where it doesn’t — you 
 
 ## 3. Social conditions
 
+Just as schedules shape our days, our social circles shape our energy. 
+
 Naming these dynamics out loud reduces the “invisible pressure” that breeds resentment. It also gives you a moment to thank the people who actually help, which makes boundaries easier to hold.
 
 ## 4. Cultural and value conditions
 
+As relationships live inside families and communities, they also live inside cultures and values. 
+
 Different values will surface sooner or later; treating them as data points rather than verdicts keeps the conversation moving. Looking for one value you both care about — fairness, freedom, honesty — creates a place to stand while you sort out the rest.
 
 ## 5. Non-material personal conditions
+
+Underneath social and cultural currents lies the personal baseline we stand on. 
 
 Protecting your own footing matters. Small care routines — like sleep windows, a screen-free break, or a short walk — lower the general noise level, while clear signals (“I need 30 minutes alone,” “I’m available after eight”) help both of you navigate needs without guesswork.
 

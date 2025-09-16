@@ -26,6 +26,8 @@ These functions form the foundation of the “we,” nurturing connection and re
 
 ## 2. Personal functions
 
+While shared functions build your life together, personal functions are the roots that keep the “we” healthy — they give each of you a solid place to stand.
+
 They include:
 
 - **Self-care**<br/>

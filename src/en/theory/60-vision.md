@@ -1,6 +1,6 @@
 # Chapter 6. Vision
 
-A vision is a picture of the future that a person or couple wants to move toward. It sets direction and gives shape to change. Unlike fantasies, a real vision is built on actual conditions and needs, so it has weight and can guide action. A clear vision fuels hope, gives a sense of belonging, and sparks the courage to act, while leaving space for curiosity about what might come.
+A vision is a picture of the future that a person or couple wants to move toward. It sets direction and gives shape to change. Unlike fantasies, a real vision is built on actual conditions and needs, so it has weight and can guide action. A clear vision does more than set a direction; it creates a shared sense of belonging and lends the courage to act—turning hope into something you can move with.
 
 ## 1. Individual visions
 
