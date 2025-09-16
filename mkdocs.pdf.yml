@@ -82,6 +82,7 @@ plugins:
               description: "Мы используем Google Analytics, чтобы понимать использование сайта и улучшать книгу."
 
   - to-pdf:
+      custom_template_path: templates
       # Per-locale PDF path via env; prevents overwrites across locales
       output_path: !ENV [PDF_OUTPUT_PATH, "pdf/clrf.pdf"]
       # Translate the PDF cover subtitle via env (set in CI matrix)
