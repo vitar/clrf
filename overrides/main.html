@@ -1,17 +1,37 @@
 {% extends "base.html" %}
 
-{% block announce %}
-  {# i18n context from mkdocs-static-i18n #}
-  {% set default = i18n_config.default_language if i18n_config is defined else "en" %}
-  {% set lang = i18n_page_locale if i18n_page_locale is defined else default %}
+{% block header %}
+  {{ super() }}
 
-  {# Build filename like clrf_en.pdf, clrf_lt.pdf, clrf_ru.pdf #}
+  {# figure out lang and the filename you want #}
+  {% set theme_lang = (config.theme.language | default('en')) %}
+  {% set default_lang = (
+        i18n_config.default_language
+        if (i18n_config is defined and i18n_config and i18n_config.default_language is defined)
+        else theme_lang
+      ) %}
+  {% set lang = (i18n_page_locale if (i18n_page_locale is defined and i18n_page_locale) else default_lang) %}
   {% set pdf_filename = "clrf_" ~ lang ~ ".pdf" %}
+  {% set pdf_path = ("pdf/" ~ pdf_filename) if lang == default_lang else (lang ~ "/pdf/" ~ pdf_filename) %}
 
-  {# Path rules: default lang has no prefix; others use /<lang>/ #}
-  {% set pdf_path = ("pdf/" ~ pdf_filename) if lang == "en" else (lang ~ "/pdf/" ~ pdf_filename) %}
-
-  <a class="md-header__button md-icon" href="{{ base_url }}/{{ pdf_path }}" title="PDF">
+  {# render button once (temporarily outside the header); we'll move it via JS #}
+  <a id="pdf-download"
+     class="md-header__button md-icon"
+     href="{{ (base_url | default('')) ~ '/' ~ pdf_path }}"
+     title="Download PDF"
+     aria-label="Download PDF">
     {% include ".icons/material/file-pdf-box.svg" %}
   </a>
+{% endblock %}
+
+{% block extrahead %}
+  {{ super() }}
+  <script>
+    // Move the button into the actual header container on every page
+    document.addEventListener('DOMContentLoaded', function () {
+      var btn = document.getElementById('pdf-download');
+      var target = document.querySelector('.md-header .md-header__inner');
+      if (btn && target && !target.contains(btn)) target.appendChild(btn);
+    });
+  </script>
 {% endblock %}
