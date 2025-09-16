@@ -113,14 +113,6 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://vitar.github.io/clrf/ru/practice/p12-shared-vision/"/>
     </url>
     <url>
-        <loc>https://vitar.github.io/clrf/theory/01-preface/</loc>
-        <lastmod>2025-09-16</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://vitar.github.io/clrf/theory/01-preface/"/>
-        <xhtml:link rel="alternate" hreflang="lt" href="https://vitar.github.io/clrf/lt/theory/01-preface/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://vitar.github.io/clrf/ru/theory/01-preface/"/>
-    </url>
-    <url>
         <loc>https://vitar.github.io/clrf/theory/10-intro/</loc>
         <lastmod>2025-09-16</lastmod>
         <changefreq>daily</changefreq>
@@ -321,14 +313,6 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://vitar.github.io/clrf/ru/practice/p12-shared-vision/"/>
     </url>
     <url>
-        <loc>https://vitar.github.io/clrf/lt/theory/01-preface/</loc>
-        <lastmod>2025-09-16</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="lt" href="https://vitar.github.io/clrf/lt/theory/01-preface/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://vitar.github.io/clrf/theory/01-preface/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://vitar.github.io/clrf/ru/theory/01-preface/"/>
-    </url>
-    <url>
         <loc>https://vitar.github.io/clrf/lt/theory/10-intro/</loc>
         <lastmod>2025-09-16</lastmod>
         <changefreq>daily</changefreq>
@@ -527,14 +511,6 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://vitar.github.io/clrf/ru/practice/p12-shared-vision/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://vitar.github.io/clrf/practice/p12-shared-vision/"/>
         <xhtml:link rel="alternate" hreflang="lt" href="https://vitar.github.io/clrf/lt/practice/p12-shared-vision/"/>
-    </url>
-    <url>
-        <loc>https://vitar.github.io/clrf/ru/theory/01-preface/</loc>
-        <lastmod>2025-09-16</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://vitar.github.io/clrf/ru/theory/01-preface/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://vitar.github.io/clrf/theory/01-preface/"/>
-        <xhtml:link rel="alternate" hreflang="lt" href="https://vitar.github.io/clrf/lt/theory/01-preface/"/>
     </url>
     <url>
         <loc>https://vitar.github.io/clrf/ru/theory/10-intro/</loc>
