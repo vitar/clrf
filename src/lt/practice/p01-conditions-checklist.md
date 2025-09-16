@@ -47,5 +47,7 @@ Mano pastabos ir papildymai
 ____________________________________________________________
 <br/><br/>
 ____________________________________________________________
+<br/><br/>
+____________________________________________________________
 
 **Rezultatas:** Aiški išorinės ir vidinės veiksnių, veikiančių jūsų santykius šiandien, apžvalga.
