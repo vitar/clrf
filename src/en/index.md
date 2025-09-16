@@ -1,8 +1,12 @@
-**Between Us: A Practical Guide for Couples**
+---
+Title: "Between Us: A Practical Guide for Couples"
+Description: "How to Build Clarity and Connection with the Couple Life Reflection Framework (CLRF)"
+---
+# Preface
+
+## Between Us: A Practical Guide for Couples
 
 **How to Build Clarity and Connection with the Couple Life Reflection Framework (CLRF)**
-
-# Preface
 
 This began with a habit: making sense of complexity. For years I designed and led systems — code, teams, organizations — by finding structure inside the noise. Eventually I noticed the same turbulence in the most important system I’m part of: a relationship. If we can map distributed systems, why not the living system between two people?
 
