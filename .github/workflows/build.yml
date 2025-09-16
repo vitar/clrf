@@ -110,8 +110,8 @@ jobs:
         run: |
           mkdir -p dist/site/pdf dist/site/lt/pdf dist/site/ru/pdf
           cp dist/pdfs/en/clrf.pdf  dist/site/pdf/clrf_en.pdf
-          cp dist/pdfs/lt/clrf.pdf  dist/site/lt/pdf/clrf_lt.pdf
-          cp dist/pdfs/ru/clrf.pdf  dist/site/ru/pdf/clrf_ru.pdf
+          cp dist/pdfs/lt/clrf.pdf  dist/site/pdf/clrf_lt.pdf
+          cp dist/pdfs/ru/clrf.pdf  dist/site/pdf/clrf_ru.pdf
       # --- PDF + i18n (END ADD ONLY) ----------------------------------------
 
       - name: Upload dist artifacts (for debugging)
