@@ -1,0 +1,14 @@
+/* templates/styles.scss — PDF only */
+.md-typeset h1,
+.md-typeset h2 {
+  /* reduce top space before headings in the PDF */
+  margin-top: 0.4rem !important;   /* try 0.2–0.6rem */
+  margin-bottom: 0.3rem !important;
+  page-break-after: avoid;
+}
+
+/* paragraphs a bit tighter too (optional) */
+.md-typeset p { margin: 0.35rem 0 !important; }
+
+/* Give the page slightly smaller top margin (PDF only) */
+@page { margin: 12mm 16mm 16mm 16mm; }  /* top right bottom left */
