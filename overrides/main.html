@@ -17,7 +17,7 @@
   {# render button once (temporarily outside the header); we'll move it via JS #}
   <a id="pdf-download"
      class="md-header__button md-icon"
-     href="{{ (base_url | default('')) ~ '/' ~ pdf_path }}"
+     href="{{ base_url }}/{{ pdf_path }}"
      title="Download PDF"
      aria-label="Download PDF">
     {% include ".icons/material/file-pdf-box.svg" %}
