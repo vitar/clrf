@@ -1,15 +1,12 @@
 # Practice 1. Conditions Checklist
 
-Use this page when life feels messy or when arguments circle around “stuff.”
-
+Use this page when life feels messy or when arguments circle around “stuff.”<br/>
 Checking conditions together shows what’s shaping your daily rhythm before you jump into needs or fixes.
 
-**You’ll need:** pen, paper (or this page)
-
+**You’ll need:** pen, paper (or this page)<br/>
 **Time:** 10–15 minutes
 
 **Use when:**
-
 - You feel stuck in repeating arguments
 - You want to see what’s shaping your week
 - You’re about to talk about needs or functions
