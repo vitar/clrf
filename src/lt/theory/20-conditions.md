@@ -16,11 +16,11 @@ Tai būstas, pajamos, finansinis stabilumas, buities darbų pasiskirstymas ir ka
 
 ## 2. Laiko sąlygos
 
-Kaip tvarkaraščiai formuoja mūsų dienas, taip socialiniai ratai formuoja mūsų energiją. 
-
 Atvirai dėliodami savo laiką — kur jis sutampa, kur ne — galite susitarti dėl mažų korekcijų (miego laikas, darbai, tylos valandos), kurios padaro savaitę labiau bendrą, o ne išsiskiriančią.
 
 ## 3. Socialinės sąlygos
+
+Kaip tvarkaraščiai formuoja mūsų dienas, taip socialiniai ratai formuoja mūsų energiją. 
 
 Atvirai įvardijus šiuos ryšius sumažėja „nematomas spaudimas“, keliantis nuoskaudą. Tai taip pat suteikia progą padėkoti tiems, kurie išties padeda, ir tokiu būdu lengviau išlaikyti ribas.
 
