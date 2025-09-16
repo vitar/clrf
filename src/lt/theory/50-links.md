@@ -4,7 +4,7 @@ Sąlygos, poreikiai ir funkcijos nėra atskiros salos. Jas jungia paprasta grand
 
 **Sąlyga → Poreikis → Funkcija**
 
-Ši grandinė parodo, kaip realybė formuoja prašymus ir kaip prašymai nukreipia veiksmą. Aiškiai įvardijus jungtis, ginčų sumažėja, o kiti žingsniai tampa matomi.
+Ši grandinė parodo, kaip realybė formuoja prašymus ir kaip prašymai nukreipia veiksmą. Aiškiai įvardijus jungtis, ginčų rūkas išsisklaido ir atsiranda kitas aiškus žingsnis.
 
 ## 1. Sąlyga → Poreikis
 

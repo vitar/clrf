@@ -20,7 +20,7 @@ Poreikiai yra vidiniai prašymai, kylantys reaguojant į realias sąlygas. Jie p
 
 ## 3. Tobulėjimo / augimo
 
-Žmonėms reikia judėjimo: mokymosi, meistriškumo, saviraiškos, naujų patirčių. Stagnacija primena rūką. Įvardinkite vieną sritį, kurioje norite augti, ir vieną mažą žingsnį šį mėnesį; paprašykite partnerio padėti tą žingsnį apsaugoti. Abipusis palaikymas čia paverčia „kažkada“ apčiuopiamu progresu.
+Žmonėms reikia judėjimo: mokymosi, meistriškumo, saviraiškos, naujų patirčių. Stagnacija primena rūką. Įvardinkite vieną sritį, kurioje norite augti, ir vieną mažą žingsnį šį mėnesį; paprašykite partnerio padėti tą žingsnį apsaugoti. Abipusis palaikymas čia paverčia „kažkada“ apčiuopiamu progresu, kurį abu matote — stiprindami „Aš“ ir praturtindami „Mes“ tuo pačiu metu.
 
 ## 4. Bendri / poros
 

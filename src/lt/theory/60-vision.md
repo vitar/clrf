@@ -1,6 +1,6 @@
 # 6 skyrius. Vizija
 
-Vizija yra ateities vaizdas, link kurio žmogus ar pora nori judėti. Ji nustato kryptį ir suteikia pokyčiams formą. Skirtingai nei fantazijos, tikra vizija remiasi realiomis sąlygomis ir poreikiais, todėl turi svorio ir gali vesti į veiksmą. Aiški vizija įkvepia viltį, suteikia priklausymo jausmą ir drąsos veikti, palikdama vietos smalsumui, ką dar gali atnešti ateitis.
+Vizija yra ateities vaizdas, link kurio žmogus ar pora nori judėti. Ji nustato kryptį ir suteikia pokyčiams formą. Skirtingai nei fantazijos, tikra vizija remiasi realiomis sąlygomis ir poreikiais, todėl turi svorio ir gali vesti į veiksmą. Aiški vizija daro daugiau nei nustato kryptį — ji kuria bendrą priklausymo jausmą ir suteikia drąsos veikti, paversdama viltį apčiuopiama jėga.
 
 ## 1. Asmeninės vizijos
 
@@ -29,4 +29,4 @@ Sujungta vizija laiko abu: bendrą branduolį ir gerbiamus skirtumus. Toks balan
 
 ## Išvada
 
-Vizija yra gidas, o ne brėžinys. Ji suteikia kryptį ir įkvėpimą, bet išlieka lanksti, kai sąlygos ir poreikiai keičiasi. Kai praktikuojama atvirai ir lengvai, vizijų kūrimas tampa ne tik strateginis, bet ir jungiantis — svajones paverčia bendros vilties žemėlapiu.
+Vizija yra gidas, o ne brėžinys. Ji suteikia kryptį ir įkvėpimą, bet išlieka lanksti, kai sąlygos ir poreikiai keičiasi. Praktikuojama atvirai ir lengvai, vizijų kūrimas tampa ne tik strateginis, bet ir jungiantis — svajones paverčia bendros vilties žemėlapiu.

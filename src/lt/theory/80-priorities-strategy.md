@@ -11,6 +11,8 @@ Būdai nustatyti prioritetus:
     - Svarbu + neskubu → planuoti.
     - Nesvarbu + skubu → deleguoti arba sumažinti.
     - Nesvarbu + neskubu → atsisakyti.
+
+    Ši paprasta matrica ilgą užduočių sąrašą pakeičia ramesniu, bendru ir valdomu planu.
 - **„Top 3“ taisyklė** — pasirinkite ne daugiau kaip tris pagrindinius pokyčius artimiausiems 3–6 mėnesiams.<br/>
   Mažesnis prioritetų skaičius saugo energiją ir padaro sėkmę pasiekiamą.
 - **Balansas** — įtraukite tiek bendrus, tiek asmeninius pokyčius.<br/>

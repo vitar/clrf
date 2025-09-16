@@ -11,12 +11,12 @@ Ways to set priorities:
     - Important + not urgent → plan.
     - Not important + urgent → delegate or shrink.
     - Not important + not urgent → drop.
+    
+    This simple grid replaces the anxiety of a long to-do list with the calm of a shared, manageable plan.
 - **The “Top 3” rule** — pick no more than three key changes for the next 3–6 months.<br/>
   Fewer priorities protect energy and make success feel reachable.
 - **Balance** — include both shared and personal changes.<br/>
   Balance honors individuality and togetherness at the same time.
-
-This simple grid replaces the anxiety of a long to-do list with the calm of a shared, manageable plan.
 
 ## 2. Strategy
 

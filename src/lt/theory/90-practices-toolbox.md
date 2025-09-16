@@ -1,5 +1,7 @@
 # 9 skyrius. Praktikos iš profesinės ir asmeninės patirties
 
+Toliau pateiktos praktikos pasiskolintos iš profesinės aplinkos. Iš pirmo žvilgsnio jos gali atrodyti formalios, bet jų stiprybė paprasta: struktūra pašalina kaltinimus iš logistikos pokalbių ir leidžia spręsti problemas kaip komandai. Prisitaikykite tai, kas padeda, o kitą palikite — tikslas yra aiškumas, su kuriuo galima gyventi.
+
 **Couple Life Reflection Framework (CLRF)** nustato pagrindus: sąlygos, poreikiai ir funkcijos. Kad pokyčiai taptų realūs, poros gali pasiskolinti paprastų praktikų iš profesinio gyvenimo ir pritaikyti jas kasdienybėje. Šie įrankiai suteikia struktūros, bet naudojami su pagarba, smalsumu ir žaismingumu, jie taip pat stiprina pasitikėjimą ir mažina paslėptą įtampą.
 
 ## 1. VMOSA (Vizija–Misija–Tikslai–Strategija–Veiksmai)

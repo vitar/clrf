@@ -26,6 +26,8 @@ Jos apima:
 
 ## 2. Asmeninės funkcijos
 
+Nors bendros funkcijos kuria gyvenimą kartu, asmeninės yra šaknys, kurios palaiko „mes“ sveiką — jos suteikia kiekvienam tvirtą pagrindą atsistoti.
+
 Jos apima:
 
 - **Savipriežiūra**<br/>

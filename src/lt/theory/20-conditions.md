@@ -16,6 +16,8 @@ Tai būstas, pajamos, finansinis stabilumas, buities darbų pasiskirstymas ir ka
 
 ## 2. Laiko sąlygos
 
+Kaip tvarkaraščiai formuoja mūsų dienas, taip socialiniai ratai formuoja mūsų energiją. 
+
 Atvirai dėliodami savo laiką – kur jis sutampa, kur ne – galite susitarti dėl mažų korekcijų (miego laikas, darbai, tylos valandos), kurios padaro savaitę labiau bendrą, o ne išsiskiriančią.
 
 ## 3. Socialinės sąlygos
@@ -24,9 +26,13 @@ Atvirai įvardijus šiuos ryšius sumažėja „nematomas spaudimas“, kelianti
 
 ## 4. Kultūrinės ir vertybinės sąlygos
 
+Kaip santykiai gyvena šeimose ir bendruomenėse, taip jie gyvena ir kultūrose bei vertybėse. 
+
 Anksčiau ar vėliau iškils skirtingos vertybės; žiūrėdami į jas kaip į duomenis, o ne nuosprendžius, išlaikysite pokalbį gyvą. Ieškant bent vienos bendros vertybės – sąžiningumo, laisvės ar teisingumo – atsiranda pagrindas, nuo kurio galima judėti sprendžiant skirtumus.
 
 ## 5. Nematerialios asmeninės sąlygos
+
+Po socialinių ir kultūrinių srovių slypi asmeninė atrama, ant kurios stovime. 
 
 Svarbu saugoti savo atramą. Maži rūpinimosi įpročiai – miego režimas, laikas be ekranų, trumpas pasivaikščiojimas – sumažina bendrą triukšmo lygį, o aiškūs signalai („man reikia 30 minučių vienam“, „būsiu laisvas po aštuntos“) padeda abiem orientuotis be spėliojimų.
 

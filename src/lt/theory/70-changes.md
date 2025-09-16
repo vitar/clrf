@@ -6,7 +6,7 @@ Pokyčiai yra tiltas tarp dabartinės situacijos ir norimos ateities. Jie paver�
 
 - **Radikalūs** pokyčiai — tai dideli, gyvenimą formuojantys sprendimai, tokie kaip persikraustymas, karjeros keitimas ar sprendimas dėl vaikų, ir jie įmanomi tik tada, kai abu partneriai atsineša drąsos bei stipriai palaiko vienas kitą.
 - **Kompromisiniai** pokyčiai — tai sąžiningi susitarimai dėl buitinių darbų, tvarkaraščių ar ribų su artimaisiais, kurie sumažina trintį, kai yra matomi ir realistiški.
-- **Mikro-pokyčiai** — tai maži kasdieniai įpročiai, tokie kaip vakarienė be telefonų, komplimentas ar rytinė kava kartu, kurie tyliai kuria dėkingumą, ryšį ir bendrą ritmą.
+- **Mikro-pokyčiai** — tai tylūs kasdieniai įpročiai, kurie atrodo maži tą akimirką, bet laikui bėgant susikaupia į stiprų ryšio ir dėkingumo ritmą.
 
 ## 2. Tarpų analizė
 
@@ -16,7 +16,7 @@ Tarpų analizė padeda palyginti dabartinę būseną su norima ateitimi:
 - Kur norime būti.
 - Kokie žingsniai uždarytų tarpą.
 
-Ši paprasta perspektyva miglotą nusivylimą paverčia išbandytinų pasirinkimų sąrašu. Ji padeda poroms pereiti nuo abejonių prie aiškumo dėl to, kas toliau.
+Ši paprasta perspektyva miglotą nusivylimą paverčia išbandytinų pasirinkimų sąrašu ir padeda poroms pereiti nuo abejonių prie aiškumo dėl to, kas toliau.
 
 ## 3. Pokyčių pavyzdžiai
 
