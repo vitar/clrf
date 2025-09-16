@@ -3,25 +3,25 @@
 Šis sąrašas padeda kiekvienam partneriui suprasti, kurios asmeninės funkcijos palaiko jo gyvenimą ir santykius. Pažymėkite, kurios jau išvystytos, o kurioms reikia dėmesio.
 Asmeninės funkcijos
 
-☐ Savigloba – sveikata, poilsis, streso valdymas
+☐ Savigloba — sveikata, poilsis, streso valdymas
 
-☐ Emocinis darbas – savirefleksija, savireguliacija
+☐ Emocinis darbas — savirefleksija, savireguliacija
 
-☐ Savivertė – asmeninės svarbos jausmas
+☐ Savivertė — asmeninės svarbos jausmas
 
-☐ Hobiai ir kūryba – muzika, piešimas, sportas ir kt.
+☐ Hobiai ir kūryba — muzika, piešimas, sportas ir kt.
 
-☐ Socialiniai ryšiai – draugai, bendruomenė
+☐ Socialiniai ryšiai — draugai, bendruomenė
 
-☐ Profesija ir karjera – indėlis, pasiekimai
+☐ Profesija ir karjera — indėlis, pasiekimai
 
-☐ Asmeninis tobulėjimas – mokymasis, įgūdžiai
+☐ Asmeninis tobulėjimas — mokymasis, įgūdžiai
 
-☐ Dvasinės praktikos – tikėjimas, filosofija, meditacija
+☐ Dvasinės praktikos — tikėjimas, filosofija, meditacija
 
-☐ Naujovės – eksperimentai, kelionės
+☐ Naujovės — eksperimentai, kelionės
 
-☐ Autonomija – asmeninė erdvė, laikas sau
+☐ Autonomija — asmeninė erdvė, laikas sau
 
 Mano pastabos
 

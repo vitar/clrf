@@ -4,55 +4,55 @@ This checklist will help you identify functions that work well and those that co
 
 ## 1. Shared functions
 
-☐ Communication – discussing emotions and issues
+☐ Communication — discussing emotions and issues
 
-☐ Decision-making – how we choose and reach agreement
+☐ Decision-making — how we choose and reach agreement
 
-☐ Conflicts – how we handle conflict and restore trust
+☐ Conflicts — how we handle conflict and restore trust
 
-☐ Support – emotional (listening, hugging)
+☐ Support — emotional (listening, hugging)
 
-☐ Support – practical (help with tasks)
+☐ Support — practical (help with tasks)
 
-☐ Support – financial (contributions, mutual protection)
+☐ Support — financial (contributions, mutual protection)
 
-☐ Cooperation – division of responsibilities
+☐ Cooperation — division of responsibilities
 
-☐ Cooperation – flexibility (switching roles)
+☐ Cooperation — flexibility (switching roles)
 
-☐ Intimacy – physical (sex, touch)
+☐ Intimacy — physical (sex, touch)
 
-☐ Intimacy – emotional (trust, openness)
+☐ Intimacy — emotional (trust, openness)
 
-☐ Intimacy – intellectual (shared discussions)
+☐ Intimacy — intellectual (shared discussions)
 
-☐ Joint development – projects, hobbies, learning
+☐ Joint development — projects, hobbies, learning
 
-☐ Joint development – traditions and rituals
+☐ Joint development — traditions and rituals
 
-☐ Joint development – new experiences
+☐ Joint development — new experiences
 
 ## 2. Personal functions
 
-☐ Self-care – health, rest, stress management
+☐ Self-care — health, rest, stress management
 
-☐ Emotional work – self-reflection, self-regulation
+☐ Emotional work — self-reflection, self-regulation
 
-☐ Self-worth – sense of personal significance
+☐ Self-worth — sense of personal significance
 
-☐ Hobbies and creativity – music, drawing, sports, etc.
+☐ Hobbies and creativity — music, drawing, sports, etc.
 
-☐ Social connections – friends, community
+☐ Social connections — friends, community
 
-☐ Profession and career – contribution, achievements
+☐ Profession and career — contribution, achievements
 
-☐ Personal development – learning, skills
+☐ Personal development — learning, skills
 
-☐ Spiritual practices – faith, philosophy, meditation
+☐ Spiritual practices — faith, philosophy, meditation
 
-☐ Novelty – experiments, travel
+☐ Novelty — experiments, travel
 
-☐ Autonomy – personal space, time for oneself
+☐ Autonomy — personal space, time for oneself
 
 My notes and additions
 

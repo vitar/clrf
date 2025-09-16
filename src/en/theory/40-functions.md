@@ -4,8 +4,8 @@ Functions are the ways you act — together and individually — to meet current
 
 ## Categories of functions
 
-1. Shared functions – ensure interaction and shared life.
-2. Personal functions – help each person remain whole and develop.
+1. Shared functions — ensure interaction and shared life.
+2. Personal functions — help each person remain whole and develop.
 
 ## 1. Shared functions
 

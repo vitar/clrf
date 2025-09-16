@@ -22,5 +22,5 @@ ____________________________________________________________
 <br/><br/>
 ____________________________________________________________
 
-Pastaba: vaidmenis galima keisti laikui bėgant. Svarbiausia – skaidrumas ir abipusis sutarimas.
+Pastaba: vaidmenis galima keisti laikui bėgant. Svarbiausia — skaidrumas ir abipusis sutarimas.
 

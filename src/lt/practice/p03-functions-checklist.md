@@ -4,55 +4,55 @@
 
 ## 1. Bendros funkcijos
 
-☐ Bendravimas – emocijų ir problemų aptarimas
+☐ Bendravimas — emocijų ir problemų aptarimas
 
-☐ Sprendimų priėmimas – kaip renkamės ir sutariame
+☐ Sprendimų priėmimas — kaip renkamės ir sutariame
 
-☐ Konfliktai – kaip ginčijamės ir atkuriame pasitikėjimą
+☐ Konfliktai — kaip ginčijamės ir atkuriame pasitikėjimą
 
-☐ Palaikymas – emocinis (išklausyti, apkabinti)
+☐ Palaikymas — emocinis (išklausyti, apkabinti)
 
-☐ Palaikymas – praktinis (padėti darbuose)
+☐ Palaikymas — praktinis (padėti darbuose)
 
-☐ Palaikymas – finansinis (indėlis, tarpusavio apsauga)
+☐ Palaikymas — finansinis (indėlis, tarpusavio apsauga)
 
-☐ Bendradarbiavimas – pareigų pasiskirstymas
+☐ Bendradarbiavimas — pareigų pasiskirstymas
 
-☐ Bendradarbiavimas – lankstumas (keitimasis vaidmenimis)
+☐ Bendradarbiavimas — lankstumas (keitimasis vaidmenimis)
 
-☐ Intymumas – fizinis (seksas, prisilietimai)
+☐ Intymumas — fizinis (seksas, prisilietimai)
 
-☐ Intymumas – emocinis (pasitikėjimas, atvirumas)
+☐ Intymumas — emocinis (pasitikėjimas, atvirumas)
 
-☐ Intymumas – intelektinis (bendri pokalbiai)
+☐ Intymumas — intelektinis (bendri pokalbiai)
 
-☐ Bendras vystymasis – projektai, hobiai, mokymasis
+☐ Bendras vystymasis — projektai, hobiai, mokymasis
 
-☐ Bendras vystymasis – tradicijos ir ritualai
+☐ Bendras vystymasis — tradicijos ir ritualai
 
-☐ Bendras vystymasis – nauji patyrimai
+☐ Bendras vystymasis — nauji patyrimai
 
 ## 2. Asmeninės funkcijos
 
-☐ Savigloba – sveikata, poilsis, streso valdymas
+☐ Savigloba — sveikata, poilsis, streso valdymas
 
-☐ Emocinis darbas – savirefleksija, savireguliacija
+☐ Emocinis darbas — savirefleksija, savireguliacija
 
-☐ Savivertė – asmeninės svarbos jausmas
+☐ Savivertė — asmeninės svarbos jausmas
 
-☐ Hobiai ir kūryba – muzika, piešimas, sportas ir kt.
+☐ Hobiai ir kūryba — muzika, piešimas, sportas ir kt.
 
-☐ Socialiniai ryšiai – draugai, bendruomenė
+☐ Socialiniai ryšiai — draugai, bendruomenė
 
-☐ Profesija ir karjera – indėlis, pasiekimai
+☐ Profesija ir karjera — indėlis, pasiekimai
 
-☐ Asmeninis tobulėjimas – mokymasis, įgūdžiai
+☐ Asmeninis tobulėjimas — mokymasis, įgūdžiai
 
-☐ Dvasinės praktikos – tikėjimas, filosofija, meditacija
+☐ Dvasinės praktikos — tikėjimas, filosofija, meditacija
 
-☐ Naujovės – eksperimentai, kelionės
+☐ Naujovės — eksperimentai, kelionės
 
-☐ Autonomija – asmeninė erdvė, laikas sau
+☐ Autonomija — asmeninė erdvė, laikas sau
 
 Mano pastabos ir papildymai
 

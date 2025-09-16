@@ -4,7 +4,7 @@ Toliau pateiktos praktikos pasiskolintos iš profesinės aplinkos. Iš pirmo žv
 
 **Couple Life Reflection Framework (CLRF)** nustato pagrindus: sąlygos, poreikiai ir funkcijos. Kad pokyčiai taptų realūs, poros gali pasiskolinti paprastų praktikų iš profesinio gyvenimo ir pritaikyti jas kasdienybėje. Šie įrankiai suteikia struktūros, bet naudojami su pagarba, smalsumu ir žaismingumu, jie taip pat stiprina pasitikėjimą ir mažina paslėptą įtampą.
 
-## 1. VMOSA (Vizija–Misija–Tikslai–Strategija–Veiksmai)
+## 1. VMOSA (Vizija—Misija—Tikslai—Strategija—Veiksmai)
 
 VMOSA yra kelrodis, kaip idėjas paversti veiksmais:
 
@@ -16,7 +16,7 @@ VMOSA yra kelrodis, kaip idėjas paversti veiksmais:
 
 Poroms VMOSA padeda paversti neaiškius norus bendru planu, kuris atrodo ir įmanomas, ir įkvepiantis.
 
-## 2. RACI (Atsakingas–Ataskaitingas–Konsultuojamas–Informuojamas)
+## 2. RACI (Atsakingas—Ataskaitingas—Konsultuojamas—Informuojamas)
 
 RACI aiškiai paskirsto vaidmenis:
 

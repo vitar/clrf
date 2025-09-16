@@ -4,11 +4,11 @@ Conditions are the backdrop of your life together. They don’t ask for permissi
 
 ## Categories of conditions
 
-1. Material – housing, finances, household.
-2. Time – work schedules, free time, rhythm of life.
-3. Social – family, friends, community, social roles.
-4. Cultural and value conditions – faith, worldview, values, cultural environment.
-5. Non-material personal – health, emotional background, personal space.
+1. Material — housing, finances, household.
+2. Time — work schedules, free time, rhythm of life.
+3. Social — family, friends, community, social roles.
+4. Cultural and value conditions — faith, worldview, values, cultural environment.
+5. Non-material personal — health, emotional background, personal space.
 
 ## 1. Material conditions
 

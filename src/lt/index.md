@@ -10,7 +10,7 @@ description: "Kaip kurti aiškumą ir ryšį naudojant Couple Life Reflection Fr
 
 Viskas prasidėjo nuo įpročio: suprasti sudėtingumą. Daugelį metų kūriau ir vedžiau sistemas — kodą, komandas, organizacijas — ieškodamas struktūros chaose. Galiausiai pastebėjau tą pačią sumaištį svarbiausioje sistemoje, kurios dalimi esu: santykiuose. Jei galime žemėlapiuoti paskirstytas sistemas, kodėl negalėtume pažvelgti į gyvą sistemą tarp dviejų žmonių?
 
-Nenorėjau rinktis tarp patarimų stulpelių ir grynos emocijos, todėl pradėjau statyti tiltą: būdą vienu metu išlaikyti **logiką ir jausmą**. Taip atsirado (angl.) **Couple Life Reflection Framework (CLRF)** — lietuviškai: „poros gyvenimo refleksijos karkasas“ – paprastas būdas dviem žmonėms pamatyti savo **sąlygas, poreikius ir funkcijas**, o šį suvokimą paversti bendra kalba ir mažais, įgyvendinamais pasirinkimais.
+Nenorėjau rinktis tarp patarimų stulpelių ir grynos emocijos, todėl pradėjau statyti tiltą: būdą vienu metu išlaikyti **logiką ir jausmą**. Taip atsirado (angl.) **Couple Life Reflection Framework (CLRF)** — lietuviškai: „poros gyvenimo refleksijos karkasas“ — paprastas būdas dviem žmonėms pamatyti savo **sąlygas, poreikius ir funkcijas**, o šį suvokimą paversti bendra kalba ir mažais, įgyvendinamais pasirinkimais.
 
 Tam nereikia būti inžinieriumi. Nesvarbu, ar rašote kodą, mokote, kuriate, vadovaujate, auginate vaikus ar tiesiog norite gyventi kartu sąmoningiau — tie patys principai padeda. Visi susiduriame su pažįstamais trinties taškais — netikrumu, perkrova, nesuderinamumu, konfliktais — ir visi siekiame stabilesnio ritmo, su kuriuo galime gyventi.
 

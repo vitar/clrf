@@ -2,7 +2,7 @@
 
 The following practices are borrowed from professional life. They may look formal at first, but their strength is simple: structure removes blame from logistical talks and lets you solve problems as a team. Adapt what helps and ignore the rest—the goal is clarity you can live with.
 
-## 1. VMOSA (Vision–Mission–Objectives–Strategy–Action)
+## 1. VMOSA (Vision—Mission—Objectives—Strategy—Action)
 
 VMOSA is a roadmap for turning ideas into action:
 
@@ -14,7 +14,7 @@ VMOSA is a roadmap for turning ideas into action:
 
 In couples, VMOSA helps transform vague wishes into a shared plan that feels both possible and hopeful.
 
-## 2. RACI (Responsible–Accountable–Consulted–Informed)
+## 2. RACI (Responsible—Accountable—Consulted—Informed)
 
 RACI clarifies roles:
 

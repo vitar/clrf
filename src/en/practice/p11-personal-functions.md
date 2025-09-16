@@ -3,25 +3,25 @@
 This checklist helps each partner identify which personal functions support their life and relationship. Check which ones are developed and which need attention.
 Personal functions
 
-☐ Self-care – health, rest, stress management
+☐ Self-care — health, rest, stress management
 
-☐ Emotional work – self-reflection, self-regulation
+☐ Emotional work — self-reflection, self-regulation
 
-☐ Self-worth – sense of personal significance
+☐ Self-worth — sense of personal significance
 
-☐ Hobbies and creativity – music, drawing, sports, etc.
+☐ Hobbies and creativity — music, drawing, sports, etc.
 
-☐ Social connections – friends, community
+☐ Social connections — friends, community
 
-☐ Profession and career – contribution, achievements
+☐ Profession and career — contribution, achievements
 
-☐ Personal development – learning, skills
+☐ Personal development — learning, skills
 
-☐ Spiritual practices – faith, philosophy, meditation
+☐ Spiritual practices — faith, philosophy, meditation
 
-☐ Novelty – experiments and travel
+☐ Novelty — experiments and travel
 
-☐ Autonomy – personal space, time for oneself
+☐ Autonomy — personal space, time for oneself
 
 My notes
 
