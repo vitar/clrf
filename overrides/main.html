@@ -1,6 +1,6 @@
 {% extends "base.html" %}
 
-{% block header %}
+{% block announce %}
   {# i18n context from mkdocs-static-i18n #}
   {% set default = i18n_config.default_language if i18n_config is defined else "en" %}
   {% set lang = i18n_page_locale if i18n_page_locale is defined else default %}
@@ -14,5 +14,4 @@
   <a class="md-header__button md-icon" href="{{ base_url }}/{{ pdf_path }}" title="PDF">
     {% include ".icons/material/file-pdf-box.svg" %}
   </a>
-  {{ super() }}
 {% endblock %}
