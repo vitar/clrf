@@ -1,13 +1,14 @@
 # Practice 4. Simplified Diagnostic
 
-This page is for when you want a quick snapshot of your relationship.  
+This page is for when you want a quick snapshot of your relationship.<br/>
 Instead of going in circles, it helps each of you name the conditions, needs, and functions that matter most right now.
 
-**You’ll need:** pen, paper (or this page)  
-**Time:** 15–20 minutes  
-**Use when:**  
-- You want to quickly see what’s going on right now  
-- You feel stuck in the same arguments  
+**You’ll need:** pen, paper (or this page)<br/>
+**Time:** 15–20 minutes<br/>
+**Use when:**
+
+- You want to quickly see what’s going on right now
+- You feel stuck in the same arguments
 - You want to move from “talking” to “understanding”
 
 ## Step 1. Individual selection
@@ -70,8 +71,8 @@ ____________________________________________________________
 
 After filling it out individually, discuss together:
 
-* Where the selected conditions and needs overlap, where they differ.
-* What each person does well and where support is needed.
-* Read your short answers to each other.
+- Where the selected conditions and needs overlap, where they differ.
+- What each person does well and where support is needed.
+- Read your short answers to each other.
 
 **Outcome:** A shared snapshot of your current conditions, needs, and functions, turning vague frustration into clear talking points.
