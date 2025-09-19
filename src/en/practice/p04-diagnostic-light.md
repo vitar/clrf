@@ -71,19 +71,7 @@ ____________________________________________________________
 After filling it out individually, discuss together:
 
 * Where the selected conditions and needs overlap, where they differ.
-
-<br/>
-____________________________________________________________
-
 * What each person does well and where support is needed.
-
-<br/>
-____________________________________________________________
-
 * Read your short answers to each other.
-
-<br/>
-____________________________________________________________
-
 
 **Outcome:** A shared snapshot of your current conditions, needs, and functions, turning vague frustration into clear talking points.
