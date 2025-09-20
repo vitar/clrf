@@ -1,8 +1,18 @@
 # Praktika 8. Retrospektyvos šablonas
 
-Retrospektyva — tai bendras aptarimas, padedantis suprasti, kas santykiuose veikia, o ką galima pagerinti. Rekomenduojama ją rengti kartą per mėnesį arba ketvirtį.
+Retrospektyva — tai švelnus bendras aptarimas, skirtas apmąstyti santykius.<br/>
+Ji padeda pastebėti, kas veikia, kas sunku ir kur nedideli patobulinimai gali pagerinti bendrą gyvenimą.<br/>
+Kartą per mėnesį arba ketvirtį rengta retrospektyva padeda išlaikyti ryšį gyvą ir sąmoningą.<br/>
 
-Klausimai aptarimui:
+**Jums reikės:** rašiklio, popieriaus (arba šio puslapio)<br/>
+**Laikas:** 30–40 minučių<br/>
+**Naudokite kai:**
+
+- Norite reguliariai pasitikrinti, o ne tik tada, kai kyla problemų
+- Jaučiatės įstrigę rutinoje ir norite kartu apmąstyti
+- Norite turėti saugią erdvę dėkingumui ir prašymams išreikšti
+
+## Klausimai aptarimui
 
 ### 1. Kas mums šiuo laikotarpiu pavyko gerai?
 
@@ -25,7 +35,7 @@ ____________________________________________________________
 <br/><br/>
 ____________________________________________________________
 
-### 4. Už ką esu tau dėkingas/dėkinga?
+### 4. Už ką esu tau dėkingas / dėkinga?
 
 <br/>
 ____________________________________________________________
@@ -41,5 +51,6 @@ ____________________________________________________________
 
 ## Išvada
 
-Retrospektyva — ne kritika, o bendras gerinimo paieškų procesas. Svarbu išlaikyti pagarbią toną ir pabrėžti teigiamus momentus.
+Retrospektyva nėra kaltinimų paieška. Tai pagarbus gerinimo paieškų procesas, kuriame taip pat pabrėžiamas dėkingumas.
 
+**Rezultatas:** Subalansuotas santykių vaizdas — pasidžiaugimas pasiekimais, sunkumų supratimas ir vieno ar dviejų pokyčių pasirinkimas ateičiai.
