@@ -83,6 +83,7 @@ plugins:
 
   - to-pdf:
       custom_template_path: templates
+      author: !ENV [PDF_AUTHOR_DATE, "Viktor Jevdokimov"]
       # Per-locale PDF path via env; prevents overwrites across locales
       output_path: !ENV [PDF_OUTPUT_PATH, "pdf/clrf.pdf"]
       # Translate the PDF cover subtitle via env (set in CI matrix)
