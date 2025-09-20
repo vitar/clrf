@@ -17,6 +17,14 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://vitar.github.io/clrf/ru/changelog/"/>
     </url>
     <url>
+        <loc>https://vitar.github.io/clrf/practice/p00-guide/</loc>
+        <lastmod>2025-09-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vitar.github.io/clrf/practice/p00-guide/"/>
+        <xhtml:link rel="alternate" hreflang="lt" href="https://vitar.github.io/clrf/lt/practice/p00-guide/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://vitar.github.io/clrf/ru/practice/p00-guide/"/>
+    </url>
+    <url>
         <loc>https://vitar.github.io/clrf/practice/p01-conditions-checklist/</loc>
         <lastmod>2025-09-20</lastmod>
         <changefreq>daily</changefreq>
@@ -217,6 +225,14 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://vitar.github.io/clrf/ru/changelog/"/>
     </url>
     <url>
+        <loc>https://vitar.github.io/clrf/lt/practice/p00-guide/</loc>
+        <lastmod>2025-09-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="lt" href="https://vitar.github.io/clrf/lt/practice/p00-guide/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vitar.github.io/clrf/practice/p00-guide/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://vitar.github.io/clrf/ru/practice/p00-guide/"/>
+    </url>
+    <url>
         <loc>https://vitar.github.io/clrf/lt/practice/p01-conditions-checklist/</loc>
         <lastmod>2025-09-20</lastmod>
         <changefreq>daily</changefreq>
@@ -415,6 +431,14 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://vitar.github.io/clrf/ru/changelog/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://vitar.github.io/clrf/changelog/"/>
         <xhtml:link rel="alternate" hreflang="lt" href="https://vitar.github.io/clrf/lt/changelog/"/>
+    </url>
+    <url>
+        <loc>https://vitar.github.io/clrf/ru/practice/p00-guide/</loc>
+        <lastmod>2025-09-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://vitar.github.io/clrf/ru/practice/p00-guide/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vitar.github.io/clrf/practice/p00-guide/"/>
+        <xhtml:link rel="alternate" hreflang="lt" href="https://vitar.github.io/clrf/lt/practice/p00-guide/"/>
     </url>
     <url>
         <loc>https://vitar.github.io/clrf/ru/practice/p01-conditions-checklist/</loc>
