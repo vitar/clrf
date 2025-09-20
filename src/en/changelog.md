@@ -1,5 +1,12 @@
 # Book Updates
 
+## 2025-09-20
+- 🌐 Rewrote and polished **theory chapters and practices** across EN/LT/RU for consistency, clarity, and warmth.  
+- ✨ Added **Practices Guide** page explaining how to use all 12 practices.  
+- 📌 Standardized practice format with headers: *You’ll need / Time / Use when / Outcome*.  
+- 📝 Updated **PDF formatting** for improved readability (titles, index, tables, spacing).  
+- 📌 Completed **V1 release** of the book (theory + practices fully aligned).
+
 ## 2025-09-08
 - ✨ Added PDF download section.
 
