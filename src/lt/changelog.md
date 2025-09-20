@@ -1,5 +1,12 @@
 # Knygos atnaujinimai
 
+## 2025-09-20
+- 🌐 Iš naujo perrašyti ir patobulinti **teorijos skyriai ir praktikos** EN/LT/RU versijose dėl aiškumo, nuoseklumo ir šiltesnio tono.  
+- ✨ Pridėtas **Praktikų gidas**, paaiškinantis, kaip naudotis visomis 12 praktikų.  
+- 📌 Standartizuota praktikų struktūra: *Jums reikės / Laikas / Naudokite kai / Rezultatas*.  
+- 📝 Atnaujintas **PDF formatavimas** geresniam skaitomumui (pavadinimai, turinys, lentelės, tarpai).  
+- 📌 Užbaigta **V1 versija** (teorija + praktikos pilnai suderintos).
+
 ## 2025-09-08
 - ✨ Pridėta nuoroda atsisiųsti knygą PDF formatu.
 
