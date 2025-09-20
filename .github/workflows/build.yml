@@ -82,6 +82,7 @@ jobs:
             export PDF_COVER_TITLE="$title"
             export PDF_COVER_SUBTITLE="$subtitle"
             export PDF_TOC_TITLE="$toctitle"
+            export PDF_AUTHOR_DATE="Viktor Jevdokimov, $(date +'%Y-%m-%d')"
 
             if [ "$locale" = "en" ]; then
               export PDF_OUTPUT_PATH="pdf/clrf.pdf"
