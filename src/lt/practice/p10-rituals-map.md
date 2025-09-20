@@ -1,10 +1,20 @@
 # Praktika 10. Ritualų žemėlapis
 
-Tradicijos ir ritualai kuria poroje stabilumo ir artumo jausmą. Tai gali būti tiek didelės šeimos šventės, tiek maži kasdieniai įpročiai. Šis žemėlapis padės užfiksuoti esamus ritualus ir sugalvoti naujus.
+Tradicijos ir ritualai kuria santykiuose stabilumo ir artumo jausmą.<br/>
+Tai gali būti didelės šeimos šventės ar maži kasdieniai įpročiai.<br/>
+Šis žemėlapis padės užfiksuoti esamus ritualus ir sugalvoti naujų, kurie praturtins jūsų bendrą gyvenimą.
+
+**Jums reikės:** rašiklio, popieriaus (arba šio puslapio)<br/>
+**Laikas:** 15–20 minučių<br/>
+**Naudokite kai:**
+
+- Jaučiatės, kad dienos tampa per daug rutiniškos ar atsietos
+- Norite sustiprinti „mes“ jausmą
+- Ieškote džiugių įpročių, kurie taptų atrama bendram gyvenimui
 
 ### 1. Mūsų esamos tradicijos ir ritualai
 
-Pavyzdžiai: bendri savaitgalio pusryčiai, sveikinimai su sukaktimis, kasmetinės atostogos.
+Pavyzdžiai: bendri savaitgalio pusryčiai, sukakčių šventimas, kasmetinės atostogos.
 
 <br/>
 ____________________________________________________________
@@ -37,5 +47,7 @@ ____________________________________________________________
 
 ## Išvada
 
-Tradicijos ir ritualai kuria „mūsų pasaulio“ jausmą. Net maži įpročiai gali tapti artumo ir šilumos pagrindu.
+Tradicijos ir ritualai kuria „mūsų pasaulio“ jausmą.
+Net maži įpročiai gali tapti artumo ir šilumos pagrindu.
 
+**Rezultatas:** Gyvas bendrų ir asmeninių ritualų žemėlapis, stiprinantis priklausymo jausmą ir džiaugsmą kasdienybėje.
