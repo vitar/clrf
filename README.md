@@ -12,13 +12,5 @@ The book website is published at [https://vitar.github.io/clrf/](https://vitar.g
 - `src/ru` — Russian book version
 - `assets` — templates and images
 - `mkdocs.yml` — Book site configuration
-- `Makefile` — PDF build commands
+- `mkdocs.pdf.yml` — Book PDF configuration
 - `.github/workflows/build.yml` — GitHub Actions CI build pipeline
-
-## Quick start
-```bash
-pip install mkdocs mkdocs-material
-sudo apt-get install -y pandoc wkhtmltopdf
-make site
-make pdf
-```

@@ -50,7 +50,6 @@ jobs:
       - name: Install Python deps
         run: pip install -r requirements.txt
 
-      # --- PDF + i18n (ADD ONLY) --------------------------------------------
       - name: Install system deps for WeasyPrint (PDF)
         run: |
           sudo apt-get update
@@ -113,7 +112,10 @@ jobs:
           cp dist/pdfs/en/clrf.pdf  dist/site/pdf/clrf_en.pdf
           cp dist/pdfs/lt/clrf.pdf  dist/site/pdf/clrf_lt.pdf
           cp dist/pdfs/ru/clrf.pdf  dist/site/pdf/clrf_ru.pdf
-      # --- PDF + i18n (END ADD ONLY) ----------------------------------------
+
+      - name: Add Google Search verification file
+        run: |
+          cp google73eb0e017af08cbb.html  dist/site/google73eb0e017af08cbb.html
 
       - name: Upload dist artifacts (for debugging)
         uses: actions/upload-artifact@v4
