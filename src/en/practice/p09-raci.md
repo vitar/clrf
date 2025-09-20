@@ -1,6 +1,6 @@
 # Practice 9. RACI
 
-This page helps distribute roles and responsibilities fairly in your relationship.
+This page helps distribute roles and responsibilities fairly in your relationship.<br/>
 The method is adapted from project management but works just as well at home. It reduces hidden assumptions and makes agreements visible.
 
 **You’ll need:** pen, paper (or this page)<br/>
