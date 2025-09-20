@@ -16,6 +16,7 @@ Filling the table together gives you a clear map: where you are now, where you w
         width: 100%;
     }
 </style>
+
 | Now | Desired future | Type of change<br/>(radical / compromise / micro) | Example steps |
 |:--:|:--:|:--:|:--:|
 |<br/><br/><br/><br/><br/>||||
