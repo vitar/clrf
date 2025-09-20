@@ -1,6 +1,15 @@
 # Praktika 4. Supaprastinta diagnostika
 
-Ši supaprastinta diagnostika padės kiekvienam partneriui užfiksuoti pagrindines sąlygas, poreikius ir funkcijas šiuo metu. Pirmiausia užpildykite individualiai, tuomet aptarkite kartu.
+Šis puslapis skirtas, kai norite greitos savo santykių nuotraukos.<br/>
+Užuot sukatęsi ratu, abu įvardijate sąlygas, poreikius ir funkcijas, kurios šiuo metu jums svarbiausios.
+
+**Jums reikės:** rašiklio, popieriaus (arba šio puslapio)<br/>
+**Laikas:** 15–20 minučių<br/>
+**Naudokite kai:**
+
+- Norite greitai pamatyti, kas vyksta dabar
+- Įstrigote besikartojančiuose ginčuose
+- Norite pereiti nuo „kalbėjimo“ prie „supratimo“
 
 ## 1 žingsnis. Individualus pasirinkimas
 
@@ -10,10 +19,14 @@
 ____________________________________________________________
 <br/><br/>
 ____________________________________________________________
+<br/><br/>
+____________________________________________________________
 
 ### 2. Pasirinkite iki 5 svarbiausių jums šiuo metu poreikių:
 
 <br/>
+____________________________________________________________
+<br/><br/>
 ____________________________________________________________
 <br/><br/>
 ____________________________________________________________
@@ -62,3 +75,4 @@ Užpildę atskirai, aptarkite kartu:
 - Ką kiekvienas daro gerai ir kur reikia palaikymo.
 - Perskaitykite vienas kitam trumpus atsakymus.
 
+**Rezultatas:** Bendra dabartinių sąlygų, poreikių ir funkcijų nuotrauka, kuri miglotą nusivylimą paverčia aiškiais pokalbio taškais.

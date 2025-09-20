@@ -1,50 +1,46 @@
-# Praktika 2. Poreikių kontrolinis sąrašas
+# Praktika 2. Poreikių sąrašas
 
-Šis sąrašas padės užfiksuoti asmeninius ir bendrus poreikius. Pasirinkite sau svarbiausius ir, jei reikia, papildykite savais. Taip pat galite nustatyti prioritetus (pvz., nuo 1 iki 5).
+Naudokite šį puslapį tam, kad atskleistumėte, ko jums iš tikrųjų reikia šiuo metu — tiek kaip asmeniui, tiek kaip porai. Poreikiai dažnai slepiasi už ginčų apie darbus, pinigus ar laiką. Tiesiai juos įvardijus įtampa virsta supratimu.
+
+**Jums reikės:** rašiklio, popieriaus (arba šio puslapio)<br/>
+**Laikas:** 10–15 minučių<br/>
+**Naudokite kai:**
+
+- Ginčai kartojasi be sprendimo
+- Jaučiatės nepastebėti ar nesuprasti
+- Norite sujungti tai, kas svarbu „Aš“, ir tai, kas svarbu „Mes“
 
 ## 1. Fiziologiniai / baziniai
 
-☐ Sveikata (miegas, mityba, fizinis aktyvumas)
-
-☐ Seksualinis artumas
-
-☐ Saugumas (būstas, finansinis stabilumas)
+- ☐ Sveikata (miegas, mityba, fizinis aktyvumas)
+- ☐ Seksualinis artumas
+- ☐ Saugumas (būstas, finansinis stabilumas)
 
 ## 2. Emociniai / psichologiniai
 
-☐ Meilė ir prisirišimas (jausmas būti mylimam ir reikalingam)
+- ☐ Meilė ir prisirišimas (jaustis mylimam ir reikalingam)
+- ☐ Pripažinimas ir pagarba (jaustis vertinamam partnerio akyse)
+- ☐ Palaikymas ir dėmesys (empatija, rūpestis)
+- ☐ Emocinis saugumas (galimybė būti savimi be baimės)
 
-☐ Pripažinimas ir pagarba (būti vertinamam partnerio akyse)
+## 3. Tobulėjimo / augimo
 
-☐ Palaikymas ir dėmesys (empatija, rūpestis)
+- ☐ Asmeninis tobulėjimas (mokymasis, įgūdžiai, kūryba)
+- ☐ Savirealizacija (prasmingumo ir pasiekimo jausmas)
+- ☐ Naujovės ir patirtys (kelionės, hobiai, naujos praktikos)
 
-☐ Emocinis saugumas (galimybė būti savimi be baimės)
+## 4. Bendri / poros
 
-## 3. Vystymosi / augimo
-
-☐ Asmeninis tobulėjimas (mokymasis, įgūdžiai, kūryba)
-
-☐ Savirealizacija (prasmingumo ir pasiekimo jausmas)
-
-☐ Naujovės ir patirtys (kelionės, hobiai, naujos praktikos)
-
-## 4. Bendri / poriniai
-
-☐ Bendri tikslai (šeimos ateitis, projektai, planai)
-
-☐ Tradicijos ir ritualai (bendros šventės, įpročiai)
-
-☐ Bendras laikas (kokybė, o ne tik kiekis)
-
-☐ „Mes“ jausmas (poros tapatybė, o ne tik du individai)
+- ☐ Bendri tikslai (šeimos ateitis, projektai, planai)
+- ☐ Tradicijos ir ritualai (bendros šventės, rutinos)
+- ☐ Bendras laikas (kokybė, ne tik kiekybė)
+- ☐ „Mes“ jausmas (poros tapatybė, o ne tik du individai)
 
 ## 5. Socialiniai / išoriniai
 
-☐ Poros pripažinimas (iš šeimos, draugų, bendruomenės)
-
-☐ Socialinis palaikymas (vengiant izoliacijos)
-
-☐ Darna su aplinka (minimalus išorinis spaudimas)
+- ☐ Pripažinimas kaip poros (iš šeimos, draugų, bendruomenės)
+- ☐ Socialinė parama (kad išvengtumėte izoliacijos)
+- ☐ Darna su aplinka (mažiau išorinio spaudimo)
 
 Mano pastabos ir papildymai
 
@@ -55,3 +51,4 @@ ____________________________________________________________
 <br/><br/>
 ____________________________________________________________
 
+**Rezultatas:** Prioritetinis asmeninių ir bendrų poreikių sąrašas, kuris paaiškina, kas šiuo metu svarbiausia.

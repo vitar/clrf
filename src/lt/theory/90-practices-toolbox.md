@@ -1,116 +1,110 @@
-# 9 skyrius. Praktikos iš profesinio ir asmeninio bagažo
+# 9 skyrius. Praktikos iš profesinės ir asmeninės patirties
 
-**> CL/RF _ Couple Life Reflection karkasas** nustato pagrindus: sąlygas, poreikius ir funkcijas. Tačiau pokyčius ir veiksmus galima įgyvendinti įvairiomis praktikomis. Daugelis jų atkeliavo iš profesinės aplinkos ir gali būti pritaikytos porai. Papildomai įtraukti įrankiai, padedantys kasdienėje sąveikoje.
+Toliau pateiktos praktikos pasiskolintos iš profesinės aplinkos. Iš pirmo žvilgsnio jos gali atrodyti formalios, bet jų stiprybė paprasta: struktūra pašalina kaltinimus iš logistikos pokalbių ir leidžia spręsti problemas kaip komandai. Prisitaikykite tai, kas padeda, o kitą palikite — tikslas yra aiškumas, su kuriuo galima gyventi.
 
-## 1. VMOSA (Vision–Mission–Objectives–Strategy–Action)
+## 1. VMOSA (Vizija—Misija—Tikslai—Strategija—Veiksmai)
 
-Ši struktūra padeda kurti viziją ir kelią jai pasiekti.
+VMOSA yra kelrodis, kaip idėjas paversti veiksmais:
 
-- Vision: kur norime nueiti.
-- Mission: kodėl tai darome.
-- Objectives: konkretūs tikslai.
-- Strategy: kaip veiksime.
-- Action: ką darome dabar.
+- **Vizija** — kur norime eiti.
+- **Misija** — kodėl tai svarbu.
+- **Tikslai** — aiškūs siekiai.
+- **Strategija** — kaip judame.
+- **Veiksmai** — ką darome šiandien.
 
-Santykiuose VMOSA padeda paversti abstrakčius norus veiksmų planu.
+Poroms VMOSA padeda paversti neaiškius norus bendru planu, kuris atrodo ir įmanomas, ir įkvepiantis.
 
-## 2. RACI (Responsible–Accountable–Consulted–Informed)
+## 2. RACI (Atsakingas—Ataskaitingas—Konsultuojamas—Informuojamas)
 
-RACI padeda paskirstyti vaidmenis ir atsakomybę.
+RACI aiškiai paskirsto vaidmenis:
 
-- Responsible: kas vykdo užduotį.
-- Accountable: kas galutinai atsako.
-- Consulted: su kuo reikia pasitarti.
-- Informed: ką reikia informuoti.
+- **Atsakingas** — kas daro užduotį.
+- **Ataskaitingas** — kas užtikrina, kad ji atlikta.
+- **Konsultuojamas** — kas duoda patarimus.
+- **Informuojamas** — kas turi žinoti naujienas.
 
-Porai tai pritaikoma finansams ar buičiai, kad sumažėtų konfliktų dėl „kas turėjo padaryti“.
+Taikant finansams, buičiai ar projektams, RACI sumažina ginčus „galvojau, kad tu darysi“ ir padaro teisingumą matomą.
 
 ## 3. Agile / Scrum praktikos
 
-Agile suteikia įrankių reguliariam bendravimui.
+Agile siūlo lengvas rutinas išlikti suderintiems:
 
-- Savaitiniai „standup“ (kas svarbu dabar, kas trukdo, ką geriname).
-- Retrospektyvos (kartą per mėnesį: kas veikia, kas ne, ką bandome).
-- Trumpos iteracijos (eksperimentai su naujais įpročiais).
+- **Savaitinis stand-up** — kas svarbu dabar, kas trukdo, ką bandome toliau.
+- **Retrospektyvos** — kartą per mėnesį klauskite, kas veikia, kas ne, ką keisti.
+- **Maži iteracijų ciklai** — išbandykite naujus įpročius trumpais etapais.
 
-Tai padeda neperkrauti ir judėti žingsnis po žingsnio.
+Tokios rutinos apsaugo nuo perkrovos ir paverčia skundus smalsumu.
 
-## 4. Kanban ir WIP ribos
+## 4. Kanban ir WIP limitai
 
-Kanban daro užduotis matomas ir mažina perkrovą.
+Kanban daro darbą matomą:
 
-- Lenta: laukia → vykdoma → padaryta.
-- WIP riba: ne daugiau kaip 2–3 projektai vienu metu.
+- **Lenta** — reikia padaryti → daroma → atlikta.
+- **WIP limitas** — ne daugiau kaip 2–3 aktyvūs darbai vienu metu.
 
-Tinka remontui, atostogoms ar bet kokiems šeimos projektams.
+Nesvarbu, ar planuojate remontą, kelionę ar bendrą projektą, Kanban kuria skaidrumą ir padeda išlaikyti realius lūkesčius.
 
 ## 5. Wardley Maps
 
-Wardley Maps padeda matyti vertybes, poreikius ir praktikas dinamiškai: kas jau tapo įprasta, o kas dar nauja.
+Wardley Maps parodo, kaip poreikiai ir praktikos vystosi — kas jau tapo įprasta, o kas dar tik atsiranda.
 
-Porai tai įrankis strateginiams sprendimams: persikraustymas, darbo keitimas, būsimos krypties pasirinkimas.
+Poroms tai padeda priimti didelius sprendimus, pavyzdžiui, dėl persikraustymo, darbo keitimo ar ilgalaikės krypties. Žemėlapių kūrimas kartu skatina smalsumą ir praplečia požiūrį.
 
 ## 6. Rizikų valdymas
 
-Rizikų analizė leidžia pasiruošti krizėms.
+Mąstymas apie rizikas paruošia krizėms:
 
-- Kokias rizikas turime (finansines, emocines, sveikatos).
-- Kaip jas mažiname (rezervas, draudimas, palaikymas).
-- Kaip reaguojame, jei jos įvyksta (elgesio taisyklės krizėje).
+- Kokios rizikos egzistuoja (finansinės, sveikatos, emocinės).
+- Kaip jas sumažinti (rezervai, draudimas, palaikymas).
+- Kaip veikti, jei jos įvyks (sutarti veiksmai).
 
-Tai mažina neapibrėžtumą ir suteikia užtikrintumo.
+Pokalbiai apie rizikas mažina nerimą ir kuria atsparumą.
 
 ## 7. Situacinė lyderystė (D1–D4)
 
-Situacinės lyderystės modelis rodo, kad sąveikos stilius priklauso nuo partnerio brandos ir pasirengimo. Išskiriamos keturios būsenos:
+Situacinė lyderystė rodo, kad parama priklauso nuo pasirengimo:
 
-- D1: entuziazmas be patirties – reikia palaikymo ir instrukcijų.
-- D2: pirmieji nusivylimai – reikia pagalbos ir bendrų sprendimų.
-- D3: dalinė kompetencija – naudinga parama ir pasitikėjimas.
-- D4: branda ir patirtis – galima deleguoti ir suteikti laisvę.
+- **D1** — entuziazmas, bet trūksta patirties → reikia struktūros ir aiškių nurodymų.
+- **D2** — pirmi sunkumai → reikia palaikymo ir bendro sprendimų priėmimo.
+- **D3** — augantis gebėjimas → reikia pasitikėjimo ir padrąsinimo.
+- **D4** — brandumas → galima deleguoti ir suteikti laisvės.
 
-Porai šis modelis padeda suprasti, kada partneriui reikia atramos, o kada – erdvės.
+Poroms tai padeda atskirti, kada partneriui reikia daugiau pagalbos, o kada — erdvės, sukuriant balansą tarp palaikymo ir autonomijos.
 
-## 8. Working Agreements
+## 8. Susitarimai
 
-Working Agreements – tai bendros taisyklės, dėl kurių pora susitaria kasdienei sąveikai. Jos fiksuoja, kas mums svarbu.
+Susitarimai yra bendros taisyklės kasdienybei. Pavyzdžiai:
 
-Pavyzdžiai:
+- Jokių didelių sprendimų konflikto metu.
+- Savaitinis planavimas sekmadienio vakarą.
+- Pagarbus tonas net ginčuose.
 
-- Svarbių sprendimų neaptariame konflikto metu.
-- Savaitinį planavimą darome sekmadienio vakarais.
-- Net ginče vartojame pagarbią kalbą.
+Susitarimai kuria nuspėjamumą ir saugumą, o tai virsta ramybe ir priklausymu.
 
-Tokie susitarimai kuria nuspėjamumo ir saugumo jausmą.
+## 9. „Aš“ vadovas
 
-## 9. Me Manual
+„Aš“ vadovas — tai trumpas gidas, kurį kiekvienas parašo apie save:
 
-Me Manual – tai „instrukcija apie mane“, kurią parašo kiekvienas partneris. Ji padeda geriau suprasti vienas kito ypatumus ir sumažinti nesusipratimus.
+- Kaip reaguoju į stresą.
+- Kas padeda nusiraminti.
+- Kas mane labiausiai erzina.
+- Kaip man patinka gauti grįžtamąjį ryšį.
 
-Pavyzdžių turinys:
+Pasikeitus vadovais sumažėja nesusipratimų ir padidėja dėkingumas už partnerio unikalumą.
 
-- Kaip paprastai reaguoju į stresą.
-- Kas padeda man greičiau nusiraminti.
-- Kas mane ypač erzina.
-- Kaip geriausia man pateikti grįžtamąjį ryšį.
+## 10. Kitos praktikos smalsumui
 
-Keitimasis tokiomis „instrukcijomis“ leidžia veikti sąmoningai ir nekartoti tų pačių klaidų.
+Dar keli naudingi įrankiai:
 
-## 10. Kitos praktikos susidomėjimui
+- **NVC (Ne smurtinė komunikacija)** — kalbėkite jausmais ir poreikiais.
+- **Johari langas** — atraskite akląsias zonas ir kurkite pasitikėjimą.
+- **GROW modelis** — struktūruokite pokalbius apie tikslus.
+- **Moving Motivators, DiSC, Big Five, MBTI** — supraskite asmenybę ir motyvaciją.
+- **Imago dialogas** — struktūruotas pokalbis sudėtingoms temoms.
+- **OKR ir SMART** — aiškiai nusistatykite tikslus.
 
-Yra ir kitų populiarių įrankių, kuriuos galima tyrinėti ir išbandyti:
-
-- NVC (Nonviolent Communication) – bendravimas per jausmus ir poreikius.
-- Johari Window – aklųjų zonų ir pasitikėjimo tyrimas.
-- GROW Model – struktūra pokalbiams apie tikslus.
-- Eisenhower Matrix – klasikinė prioritetų matrica.
-- Moving Motivators, DiSC, Big Five, MBTI – asmenybės ir motyvacijos modeliai.
-- Imago Dialogue – struktūruotas dialogas sudėtingiems pokalbiams.
-- OKR ir SMART – tikslų nustatymo metodai.
-
-Šios praktikos neįeina į karkaso branduolį, bet gali būti naudingos plėtrai ir įkvėpimui.
+Tai nėra CLRF branduolio dalis, bet jos praplečia pasirinkimus. Išbandytos su smalsumu, jos įneša įkvėpimo be spaudimo.
 
 ## Išvada
 
-Profesinės ir pritaikytos praktikos padeda paversti teoriją veiksmais. Jos neprimeta taisyklių, o siūlo patogius įrankius, kuriuos galima pritaikyti konkrečios poros stiliui. Situacinės lyderystės, susitarimų ir asmeninių „manualų“ įtraukimas daro praktikų rinkinį pilnesnį ir praktiškesnį.
-
+Profesinės praktikos, pritaikytos su rūpesčiu, daro santykių darbą konkretesnį. Jos nediktuoja taisyklių, o siūlo pasirinkimus, kuriuos poros gali pritaikyti pagal save. Nuo susitarimų iki asmeninių vadovų — kiekviena praktika prideda aiškumo ir stabilumo. Naudojamos su žaismingumu, jos tampa ne tik praktiškos, bet ir jungiančios.

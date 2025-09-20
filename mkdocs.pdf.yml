@@ -8,7 +8,6 @@ docs_dir: src
 
 theme:
   name: material
-  custom_dir: overrides
   features:
     - navigation.sections
     - navigation.expand
@@ -83,6 +82,8 @@ plugins:
               description: "Мы используем Google Analytics, чтобы понимать использование сайта и улучшать книгу."
 
   - to-pdf:
+      custom_template_path: templates
+      author: !ENV [PDF_AUTHOR_DATE, "Viktor Jevdokimov"]
       # Per-locale PDF path via env; prevents overwrites across locales
       output_path: !ENV [PDF_OUTPUT_PATH, "pdf/clrf.pdf"]
       # Translate the PDF cover subtitle via env (set in CI matrix)
@@ -123,7 +124,6 @@ nav:
   - practice/p10-rituals-map.md
   - practice/p11-personal-functions.md
   - practice/p12-shared-vision.md
-  - changelog.md
 
 markdown_extensions:
   - admonition

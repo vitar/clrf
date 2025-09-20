@@ -1,43 +1,66 @@
 # Chapter 5. Links
 
-Conditions, needs, and functions do not exist separately. They are connected in the sequence: Condition → Need → Function. This logic helps us understand how reality shapes requests and how requests determine actions.
+Conditions, needs, and functions don’t live on separate islands. They connect in a simple chain:
+
+**Condition → Need → Function**
+
+This chain shows how reality shapes requests and how requests guide action. When you name the links clearly, the fog of argument lifts and the next clear step appears.
 
 ## 1. Condition → Need
 
-Examples:
+Examples (name the fact, then the request it creates):
 
-- Condition: little time together → Need: closeness, togetherness.
-- Condition: financial instability → Need: safety, confidence.
-- Condition: pressure from relatives → Need: autonomy, boundaries.
-- Condition: chronic stress → Need: emotional safety.
+- **Little time together → need for closeness.**<br/>
+  Shift from *“we never meet”* to *“I want to feel close to you.”* The request points to what the next page should solve.
+
+- **Financial instability → need for safety and predictability.**<br/>
+  Once named, you can decide what “safer” means this month (budget review, spending freeze, clear roles).
+
+- **Pressure from relatives → need for autonomy and boundaries.**<br/>
+  Agree where you say “yes,” where you say “not this week,” and who delivers the message.
+
+- **Chronic stress → need for emotional shelter.**<br/>
+  Define what shelter looks like in practice (quieter evenings, fewer asks after 8 p.m., a check-in phrase).
 
 ## 2. Need → Function
 
-Examples:
+Now pick actions that meet the named need:
 
-- Need: recognition → Function: communication (gratitude, compliments).
-- Need: shared time → Function: cooperation (planning leisure time).
-- Need: emotional safety → Function: support (empathy, attention).
-- Need: development → Function: joint development (new projects, learning).
+- **Need: recognition → function: communication.**<br/>
+  Add a tiny habit: one gratitude or compliment per day, said out loud or in a note.
 
-## 3. Personal functions and their impact on shared ones
+- **Need: shared time → function: cooperation (planning).**<br/>
+  Choose one anchor block for the week and protect it like any other appointment.
 
-Strong personal functions reduce the load on shared functions. For example, if a person can manage stress, there are fewer conflicts. If they have hobbies and social connections, their partner does not become the sole source of joy and recognition.
+- **Need: emotional safety → function: support.**<br/>
+  Use a short script: *“I hear you. Do you want help or just company?”* Then follow the answer.
 
-Weak personal functions increase the load on shared functions: a lack of autonomy, social connections, or self-regulation can create excessive expectations and tension.
+- **Need: development → function: joint development.**<br/>
+  Pick one micro-project for the month and schedule the first 30 minutes.
+
+## 3. Personal functions shape shared ones
+
+When personal functions are strong, the shared space breathes easier.
+
+If someone manages stress, there’s less spillover. If hobbies and friendships are alive, a partner isn’t the only source of joy or recognition. That space makes curiosity and play easier together.
+
+When personal functions sag, the shared space gets heavy.
+
+Lack of rest, autonomy, or outside support turns the partner into a patch for everything. Noticing the gap — and encouraging one concrete personal step — lightens the load for both.
 
 ## 4. Universal formula
 
-Condition (background) → Need (request) → Function (mode of action)
+**Condition (background) → Need (request) → Function (action mode)**
 
 Example:
 
-- Condition: lots of work, little time.
-- Need: to be closer and communicate.
-- Shared function: a weekly gadget-free evening.
-- Personal function: managing fatigue to stay engaged.
+- **Condition:** lots of work, little time
+- **Need:** feel close and stay in touch
+- **Shared function:** one gadget-free evening each week
+- **Personal function:** plan recovery so there’s energy to show up
+
+This sequence turns a vague problem into a plan you can try.
 
 ## Conclusion
 
-Links turn abstract conversations (“we need more closeness”) into concrete steps (“we set aside an evening, we create a ritual”). This is the key to practical use of the framework.
-
+Linking is the move that turns *“We need more closeness”* into *“We’ll set aside Thursday night and make it a ritual.”* Practice saying the links out loud. The clearer the chain, the easier it is to choose a next step that actually helps.

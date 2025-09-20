@@ -50,16 +50,70 @@ jobs:
       - name: Install Python deps
         run: pip install -r requirements.txt
 
-      - name: Install Pandoc & wkhtmltopdf
+      # --- PDF + i18n (ADD ONLY) --------------------------------------------
+      - name: Install system deps for WeasyPrint (PDF)
         run: |
           sudo apt-get update
-          sudo apt-get install -y pandoc wkhtmltopdf
+          sudo apt-get install -y \
+            libcairo2 \
+            libpango-1.0-0 libpangoft2-1.0-0 libpangocairo-1.0-0 \
+            libgdk-pixbuf2.0-0 \
+            libffi-dev \
+            libxml2 libxslt1.1 \
+            fonts-dejavu fonts-liberation \
+            shared-mime-info
 
-      - name: Build site (MkDocs)
-        run: mkdocs build -d dist/site
+      - name: Install mkdocs-to-pdf
+        run: |
+          python -m pip install --upgrade pip
+          # keep your existing pip installs elsewhere as-is
+          pip install mkdocs-to-pdf "weasyprint>=52"
 
-      - name: Build PDFs (Pandoc → wkhtmltopdf)
-        run: make pdf
+      - name: Build PDFs per locale
+        run: |
+          set -e
+          mkdir -p dist/pdfs
+
+          build_pdf () {
+            locale="$1"; title="$2"; subtitle="$3"; toctitle="$4"
+
+            export ENABLE_PDF_EXPORT="1"
+            export BUILD_ONLY_LOCALE="$locale"
+            export PDF_COVER_TITLE="$title"
+            export PDF_COVER_SUBTITLE="$subtitle"
+            export PDF_TOC_TITLE="$toctitle"
+            export PDF_AUTHOR_DATE="Viktor Jevdokimov, $(date +'%Y-%m-%d')"
+
+            if [ "$locale" = "en" ]; then
+              export PDF_OUTPUT_PATH="pdf/clrf.pdf"
+            else
+              export PDF_OUTPUT_PATH="${locale}/pdf/clrf.pdf"
+            fi
+
+            mkdocs build --strict -f mkdocs.pdf.yml --site-dir "dist/_tmp_${locale}"
+
+            mkdir -p "dist/pdfs/${locale}"
+            cp "dist/_tmp_${locale}/${PDF_OUTPUT_PATH}" "dist/pdfs/${locale}/clrf.pdf"
+          }
+
+          build_pdf "en" "Between Us: A Practical Guide for Couples" "How to Build Clarity and Connection with the Couple Life Reflection Framework (CLRF)" "Table of contents"
+          build_pdf "lt" "Tarp mūsų: Praktinis vadovas poroms" "Kaip kurti aiškumą ir ryšį naudojant Couple Life Reflection Framework (CLRF) - poros gyvenimo refleksijos karkasą." "Turinys"
+          build_pdf "ru" "Между нами: Практическое руководство для пар" "Как создать ясность и близость с помощью Couple Life Reflection Framework (CLRF) — каркаса рефлексии для совместной жизни пар." "Содержание"
+
+      - name: Build full multilingual site (skip PDF for speed if not already built)
+        run: |
+          if [ ! -d dist/site ]; then
+            unset ENABLE_PDF_EXPORT BUILD_ONLY_LOCALE PDF_OUTPUT_PATH
+            mkdocs build --strict --site-dir dist/site
+          fi
+
+      - name: Place PDFs into final site tree
+        run: |
+          mkdir -p dist/site/pdf dist/site/lt/pdf dist/site/ru/pdf
+          cp dist/pdfs/en/clrf.pdf  dist/site/pdf/clrf_en.pdf
+          cp dist/pdfs/lt/clrf.pdf  dist/site/pdf/clrf_lt.pdf
+          cp dist/pdfs/ru/clrf.pdf  dist/site/pdf/clrf_ru.pdf
+      # --- PDF + i18n (END ADD ONLY) ----------------------------------------
 
       - name: Upload dist artifacts (for debugging)
         uses: actions/upload-artifact@v4

@@ -1,6 +1,16 @@
 # Practice 12. Shared Vision
 
-This practice helps you form a shared picture of the future. First, each partner shares their individual vision; then you create a shared one together. It should include a common core (what matches) and respectful acknowledgment of differences (what remains personal).
+This page helps you create a shared picture of the future.<br/>
+First, each partner shares their individual vision; then you bring them together.<br/>
+The shared vision should highlight the common core (what matches) and also respect differences (what remains personal).
+
+**You’ll need:** pen, paper (or this page)<br/>
+**Time:** 30–40 minutes<br/>
+**Use when:**
+
+- You’ve already written individual visions
+- You want to align your direction as a couple
+- You want to see how similarities and differences can both enrich your future
 
 ### 1. Our common core (overlaps)
 
@@ -26,7 +36,7 @@ ____________________________________________________________
 
 ### 3. Joint formulation of the vision
 
-Together, formulate 2–3 paragraphs that describe your shared vision:
+Together, write 2–3 paragraphs that describe your shared vision:
 
 <br/>
 ____________________________________________________________
@@ -37,5 +47,7 @@ ____________________________________________________________
 
 ## Conclusion
 
-A shared vision is a guideline, not a rigid plan. It helps you move in the same direction while preserving each partner’s individuality.
+A shared vision is a compass, not a rigid plan.
+It helps you move in the same direction while honoring each partner’s individuality.
 
+**Outcome:** A clear and motivating vision that combines “I” and “We” into a shared path forward.

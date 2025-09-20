@@ -1,43 +1,66 @@
-# 5 skyrius. Sąsajos
+# 5 skyrius. Jungtys
 
-Sąlygos, poreikiai ir funkcijos neegzistuoja atskirai. Juos sieja seka: Sąlyga → Poreikis → Funkcija. Ši logika padeda suprasti, kaip realybė formuoja poreikius, o poreikiai lemia veiksmus.
+Sąlygos, poreikiai ir funkcijos nėra atskiros salos. Jas jungia paprasta grandinė:
+
+**Sąlyga → Poreikis → Funkcija**
+
+Ši grandinė parodo, kaip realybė formuoja prašymus ir kaip prašymai nukreipia veiksmą. Aiškiai įvardijus jungtis, ginčų rūkas išsisklaido ir atsiranda kitas aiškus žingsnis.
 
 ## 1. Sąlyga → Poreikis
 
-Pavyzdžiai:
+Pavyzdžiai (įvardykite faktą ir tada prašymą, kurį jis sukuria):
 
-- Sąlyga: mažai bendro laiko → Poreikis: artumas, bendrumas.
-- Sąlyga: nestabilūs finansai → Poreikis: saugumas, užtikrintumas.
-- Sąlyga: giminaičių spaudimas → Poreikis: autonomija, ribos.
-- Sąlyga: lėtinis stresas → Poreikis: emocinis saugumas.
+- **Mažai laiko kartu → poreikis artumui.**</br>
+  Pereikite nuo *„mes niekada nesusitinkame“* prie *„noriu jaustis arčiau tavęs“*. Prašymas nurodo, ką reikia spręsti toliau.
+
+- **Finansinis nestabilumas → poreikis saugumui ir nuspėjamumui.**</br>
+  Įvardijus galima nuspręsti, ką šį mėnesį reiškia „saugiau“ (biudžeto peržiūra, išlaidų sustabdymas, aiškūs vaidmenys).
+
+- **Spaudimas iš artimųjų → poreikis autonomijai ir riboms.**</br>
+  Susitarkite, kur sakote „taip“, kur „ne šią savaitę“, ir kas perduoda žinią.
+
+- **Nuolatinis stresas → poreikis emocinei užuovėjai.**</br>
+  Apibrėžkite, kaip tai atrodo praktiškai (ramesni vakarai, mažiau prašymų po 20 val., trumpos patikrinimo frazės).
 
 ## 2. Poreikis → Funkcija
 
-Pavyzdžiai:
+Tada pasirinkite veiksmus, kurie atitinka poreikį:
 
-- Poreikis: pripažinimas → Funkcija: bendravimas (padėka, komplimentai).
-- Poreikis: bendras laikas → Funkcija: bendradarbiavimas (laisvalaikio planavimas).
-- Poreikis: emocinis saugumas → Funkcija: palaikymas (empatija, dėmesys).
-- Poreikis: vystymasis → Funkcija: bendras vystymasis (nauji projektai, mokymasis).
+- **Poreikis: pripažinimas → funkcija: komunikacija.**</br>
+  Pridėkite mažą įprotį: viena padėka ar komplimentas per dieną, pasakytas garsiai ar užrašytas.
 
-## 3. Asmeninės funkcijos ir jų įtaka bendroms
+- **Poreikis: bendras laikas → funkcija: bendradarbiavimas (planavimas).**</br>
+  Pasirinkite vieną savaitės laiką ir saugokite jį kaip bet kokį kitą susitikimą.
 
-Stiprios asmeninės funkcijos mažina bendrųjų funkcijų krūvį. Pavyzdžiui, jei žmogus moka valdyti stresą, konfliktų mažiau. Jei turi hobių ir socialinių ryšių, partneris netampa vieninteliu džiaugsmo ir pripažinimo šaltiniu.
+- **Poreikis: emocinis saugumas → funkcija: palaikymas.**</br>
+  Naudokite trumpą sakinį: *„Aš tave girdžiu. Nori pagalbos ar tiesiog kompanijos?“* Ir laikykitės atsakymo.
 
-Silpnos asmeninės funkcijos padidina bendrųjų funkcijų krūvį: autonomijos, draugų ar savireguliacijos stoka gali kelti per didelius lūkesčius ir įtampą.
+- **Poreikis: tobulėjimas → funkcija: bendras tobulėjimas.**</br>
+  Pasirinkite vieną mažą projektą šiam mėnesiui ir suplanuokite pirmas 30 minučių.
 
-## 4. Universalioji formulė
+## 3. Asmeninės funkcijos formuoja bendras
 
-Sąlyga (fonas) → Poreikis (prašymas) → Funkcija (veikimo būdas)
+Kai asmeninės funkcijos stiprios, bendra erdvė kvėpuoja lengviau.
+
+Jei žmogus susitvarko su stresu, mažiau jo persiduoda santykiui. Jei pomėgiai ir draugystės gyvi, partneris nėra vienintelis džiaugsmo ar pripažinimo šaltinis. Tai sukuria daugiau vietos smalsumui ir žaismingumui kartu.
+
+Kai asmeninės funkcijos silpsta, bendra erdvė tampa sunki.
+
+Miego, autonomijos ar išorinės paramos trūkumas verčia partnerį būti viskam „lopu“. Pastebėjus šią spragą ir paskatinus vieną konkretų asmeninį žingsnį, našta palengvėja abiem.
+
+## 4. Universali formulė
+
+**Sąlyga (fonas) → Poreikis (prašymas) → Funkcija (veiksmo būdas)**
 
 Pavyzdys:
 
-- Sąlyga: daug darbo, mažai laiko.
-- Poreikis: būti artimesniems ir bendrauti.
-- Bendra funkcija: savaitinis vakaras be gadžetų.
-- Asmeninė funkcija: nuovargio valdymas, kad būtų galima įsitraukti.
+- **Sąlyga:** daug darbo, mažai laiko
+- **Poreikis:** jaustis artimai ir palaikyti ryšį
+- **Bendra funkcija:** vienas vakaras per savaitę be ekranų
+- **Asmeninė funkcija:** suplanuoti poilsį, kad užtektų energijos ateiti
+
+Ši seka paverčia miglotą problemą planu, kurį galima išbandyti.
 
 ## Išvada
 
-Sąsajos leidžia paversti abstrakčius pokalbius („mums reikia daugiau artumo“) į konkrečius žingsnius („skiriame vakarą, sukuriame ritualą“). Tai raktas į praktinį karkaso naudojimą.
-
+Jungtys leidžia paversti *„Mums reikia daugiau artumo“* į *„Ketvirtadienio vakarą paliekame kaip ritualą“*. Įpraskite jungtis įvardyti garsiai. Kuo aiškesnė grandinė, tuo lengviau pasirinkti žingsnį, kuris iš tiesų padeda.

@@ -1,30 +1,31 @@
 # Chapter 10. Conclusion
 
-The “Couple Life Reflection Framework” offers a structure that helps couples approach their relationships consciously. It is built on three levels: conditions, needs, and functions. These levels form the foundation for diagnostics, vision, and change.
+The **Couple Life Reflection Framework (CLRF)** gives couples a simple way to see what is happening and decide what to do next. It rests on three levels — **conditions**, **needs**, and **functions** — which together turn confusion into a map you can use.
 
-## 1. Framework summary
+## 1. Framework in one glance
 
-- Conditions – the background and environment that affect the relationship.
-- Needs – internal requests forming motivation.
-- Functions – actions and mechanisms that satisfy needs.
+- **Conditions** — the facts and environment that shape daily life.
+- **Needs** — the requests that arise from those facts.
+- **Functions** — the actions you choose to meet those needs.
 
-Together they create a map that helps us understand where we are and where we want to go.
+Named in this order, they show where you are, what matters now, and how to move.
 
 ## 2. Practical value
 
-The framework allows you to:
+CLRF helps you:
 
-- Avoid confusion between facts and desires.
-- Separate the personal and the shared while maintaining balance.
-- Turn abstract conversations into concrete steps.
-- Build visions grounded in reality.
+- Avoid mixing up facts with desires.
+- Separate the **personal** from the **shared** without losing either.
+- Turn open-ended talks into specific next steps.
+- Build visions anchored in reality.
 - Plan changes without overload.
 
-## 3. Use in life
+In practice, this looks like fewer circular arguments, clearer requests, and small wins you can feel during the week.
 
-This tool is not a substitute for emotions or intuition. It helps give them shape. You can use it regularly, or return to it when you feel the relationship needs renewal or review.
+## 3. Using CLRF in real life
 
-## 4. Final word
+CLRF doesn’t replace feelings or intuition — it gives them shape. Use it regularly, or return to it when the rhythm feels off. A short check of *condition → need → function* before a tough talk lowers defensiveness and makes it easier to choose a step you both can support.
 
-Relationships are a living process. The framework helps make it more conscious and flexible. It does not provide ready-made recipes, but it offers a map on which each couple can find their own path.
+## 4. Final note
 
+Relationships are living systems. A framework can’t hand you answers, but it can keep the path visible. Used with honesty and a light touch, CLRF helps you find your way back to each other — one page, one question, one small agreement at a time.

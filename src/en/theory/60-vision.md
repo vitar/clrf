@@ -1,33 +1,32 @@
 # Chapter 6. Vision
 
-A vision is a picture of the future that a person or couple strives for. It helps set the direction and build a strategy for change. It is important to distinguish fantasies from a vision: a vision must take into account real conditions and needs to be achievable and useful.
+A vision is a picture of the future that a person or couple wants to move toward. It sets direction and gives shape to change. Unlike fantasies, a real vision is built on actual conditions and needs, so it has weight and can guide action. A clear vision does more than set a direction; it creates a shared sense of belonging and lends the courage to act—turning hope into something you can move with.
 
 ## 1. Individual visions
 
-Each partner formulates their own picture of the future. It is important to write in the first person: “I want…”, “I see myself…”. An individual vision reflects personal needs, dreams, and goals. Even if they do not fully coincide, acknowledging these visions is important for understanding each other’s inner world.
+Each partner begins with their own picture of the future. Write it in the first person: *“I want…”*, *“I see myself…”*. These visions reflect personal needs, dreams, and goals. They won’t match completely—and that’s fine. Naming them makes the inner world visible and easier to respect, even when it differs.
 
-## 2. Partner’s vision as seen by the other
+## 2. Seeing your partner’s vision
 
-A helpful practice is to describe how you imagine your partner’s vision. For example: “I think it is important for you…”. This helps reveal misunderstandings and assess how well you know one another.
+One useful step is to write how you imagine your partner’s vision: *“I think it’s important for you…”*. This simple reflection often reveals gaps in understanding and shows how closely you know each other. Shared back with openness, it builds trust and creates gratitude for being noticed.
 
 ## 3. Joint vision
 
-After both partners share their visions, a joint picture of the future is created. It includes a common core (what matches) and room for differences (what remains personal). A joint vision should be both realistic and inspiring.
+Once both personal visions are shared, you can sketch a joint picture. It includes what overlaps (the common core) and what stays personal. A good joint vision is realistic enough to be reachable and inspiring enough to energize. Belonging grows when you can point to a shared purpose, and respect deepens when differences are left in view rather than hidden.
 
-## 4. Recognition of personal goals and fantasies
+## 4. Personal goals and fantasies
 
-Not all personal dreams and fantasies can be realized. However, recognizing them matters: they show values and desires. The fantasy “a house by the sea” may express the value of “calm and space”. Such values can be considered when creating a joint vision, even if the dream itself remains personal.
+Not every dream can be realized. Still, naming fantasies matters because they reveal values. The wish for *“a house by the sea”* might point to the value of calm and open space. That value can be honored in other forms—quiet weekends, time in nature—even if the house never comes. Curiosity here turns frustration into clearer understanding.
 
-## 5. Comparison and synthesis of visions
+## 5. Comparing and combining visions
 
-Comparing visions helps reveal:
+Laying visions side by side helps you see:
 
-- Overlaps (common core, basis for the future).
-- Differences (where to seek compromise or preserve what is personal).
+- **Overlaps** — the common core that anchors the shared path.
+- **Differences** — areas where you compromise or simply protect what’s personal.
 
-The synthesized vision of the couple includes the common core and a respectful acknowledgment of differences. This forms a sense of union without losing individuality.
+A combined vision holds both: the shared core and the respected differences. This balance builds a sense of unity without erasing individuality. The ability to carry both strengthens resilience and makes trust in the shared path more real.
 
 ## Conclusion
 
-A vision is a guideline, not a rigid plan. It sets direction and inspires, yet allows changes as conditions and needs evolve.
-
+A vision is a guide, not a blueprint. It gives direction and inspiration but stays flexible as conditions and needs shift. When practiced with honesty and a light touch, visioning is not only strategic but also connecting — it turns dreams into a map of shared hope.

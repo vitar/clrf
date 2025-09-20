@@ -1,33 +1,32 @@
 # 6 skyrius. Vizija
 
-Vizija – tai ateities vaizdas, kurio siekia žmogus ar pora. Ji padeda nustatyti kryptį ir sukurti pokyčių strategiją. Svarbu atskirti fantazijas nuo vizijos: vizija turi atsižvelgti į realias sąlygas ir poreikius, kad būtų pasiekiama ir naudinga.
+Vizija yra ateities vaizdas, link kurio žmogus ar pora nori judėti. Ji nustato kryptį ir suteikia pokyčiams formą. Skirtingai nei fantazijos, tikra vizija remiasi realiomis sąlygomis ir poreikiais, todėl turi svorio ir gali vesti į veiksmą. Aiški vizija daro daugiau nei nustato kryptį — ji kuria bendrą priklausymo jausmą ir suteikia drąsos veikti, paversdama viltį apčiuopiama jėga.
 
-## 1. Individualios vizijos
+## 1. Asmeninės vizijos
 
-Kiekvienas partneris formuluoja savo ateities vaizdą. Svarbu rašyti pirmuoju asmeniu: „Aš noriu…“, „Aš matau save…“. Individuali vizija atspindi asmeninius poreikius, svajones ir tikslus. Net jei jie visiškai nesutampa, šių vizijų pripažinimas svarbus siekiant suprasti vienas kito vidinį pasaulį.
+Kiekvienas partneris pradeda nuo savo ateities vaizdo. Rašykite pirmuoju asmeniu: *„Aš noriu…“*, *„Aš matau save…“*. Šios vizijos atspindi asmeninius poreikius, svajones ir tikslus. Jos niekada visiškai nesutaps — ir tai normalu. Jų įvardijimas padaro vidinį pasaulį matomą ir lengviau gerbiamą, net jei jis skiriasi.
 
-## 2. Partnerio vizija kito akimis
+## 2. Partnerio vizijos matymas
 
-Naudinga praktika – aprašyti, kaip įsivaizduojate partnerio viziją. Pavyzdžiui: „Manau, tau svarbu…“. Tai padeda atskleisti nesusipratimus ir patikrinti, kaip gerai pažįstate vienas kitą.
+Naudingas žingsnis — parašyti, kaip įsivaizduojate partnerio viziją: *„Manau, tau svarbu…“*. Toks paprastas atspindys dažnai atskleidžia supratimo spragas ir parodo, kiek gerai pažįstate vienas kitą. Pasidalijus atvirai, tai stiprina pasitikėjimą ir sukuria dėkingumą už tai, kad esate pastebėti.
 
 ## 3. Bendra vizija
 
-Kai kiekvienas pasidalija savo vizija, kuriamas bendras ateities vaizdas. Jis apima bendrą branduolį (tai, kas sutampa) ir erdvę skirtumams (kas lieka asmeniška). Bendra vizija turi būti ir realistiška, ir įkvepianti.
+Kai abi asmeninės vizijos pasidalintos, galima nupiešti bendrą vaizdą. Jame yra tai, kas sutampa (bendras branduolys), ir tai, kas lieka asmeniška. Bendra vizija turi būti pakankamai realistiška, kad būtų pasiekiama, ir pakankamai įkvepianti, kad suteiktų energijos. Priklausymo jausmas auga, kai galima įvardyti bendrą tikslą, o pagarba gilėja, kai skirtumai lieka matomi, o ne slepiami.
 
-## 4. Asmeninių tikslų ir fantazijų pripažinimas
+## 4. Asmeniniai tikslai ir fantazijos
 
-Ne visos asmeninės svajonės ir fantazijos gali būti įgyvendintos. Tačiau jų pripažinimas svarbus: jos atskleidžia vertybes ir norus. Fantazija „namas prie jūros“ gali reikšti vertę „ramybė ir erdvė“. Į tokias vertybes galima atsižvelgti kuriant bendrą viziją, net jei pati svajonė lieka asmeniška.
+Ne kiekviena svajonė gali būti įgyvendinta. Vis dėlto fantazijų įvardijimas svarbus, nes jos parodo vertybes. Noras *„namas prie jūros“* gali reikšti vertybę „ramybė ir erdvė“. Tą vertybę galima gerbti kitomis formomis — ramiais savaitgaliais, laiku gamtoje — net jei namo niekada neatsiras. Smalsumas čia paverčia nusivylimą aiškesniu supratimu.
 
-## 5. Vizijų palyginimas ir sintezė
+## 5. Vizijų palyginimas ir sujungimas
 
-Vizijų palyginimas padeda pamatyti:
+Sudėjus vizijas greta, tampa aišku:
 
-- Sutapimus (bendrą branduolį, pagrindą ateičiai).
-- Skirtumus (kur reikia ieškoti kompromiso ar išlaikyti asmeniškumą).
+- **Sutapimai** — bendras branduolys, kuris tampa bendro kelio atrama.
+- **Skirtumai** — sritys, kur reikia kompromiso arba kur verta išsaugoti asmeniškumą.
 
-Sintetinė poros vizija apima bendrą branduolį ir pagarbų skirtumų pripažinimą. Tai sukuria sąjungos jausmą neprarandant individualumo.
+Sujungta vizija laiko abu: bendrą branduolį ir gerbiamus skirtumus. Toks balansas kuria vienybės jausmą neaukojant individualumo. Gebėjimas išlaikyti abu stiprina atsparumą ir pasitikėjimą bendru keliu.
 
 ## Išvada
 
-Vizija – tai gairė, o ne griežtas planas. Ji nurodo kryptį ir įkvepia, bet leidžia keistis, kai kinta sąlygos ir poreikiai.
-
+Vizija yra gidas, o ne brėžinys. Ji suteikia kryptį ir įkvėpimą, bet išlieka lanksti, kai sąlygos ir poreikiai keičiasi. Praktikuojama atvirai ir lengvai, vizijų kūrimas tampa ne tik strateginis, bet ir jungiantis — svajones paverčia bendros vilties žemėlapiu.
