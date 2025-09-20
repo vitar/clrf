@@ -16,6 +16,7 @@ Užpildydami lentelę kartu turėsite aiškų žemėlapį: kur esate dabar, kur 
         width: 100%;
     }
 </style>
+
 | Dabar | Norima ateitis | Pokyčio tipas<br/>(kardinalus / kompromisinis / mikro) | Žingsnių pavyzdžiai |
 |:--:|:--:|:--:|:--:|
 |<br/><br/><br/><br/><br/>||||
