@@ -16,12 +16,14 @@ The matrix sorts changes by importance and urgency, making it easier to decide w
         width: 100%;
     }
 </style>
+
 |||
 |:--:|:--:|
 | **Important and urgent**<br/>(do immediately)<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/> | **Important but not urgent**<br/>(plan and schedule)<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/> |
 | **Not important but urgent**<br/>(delegate or minimize)<br/><br/><br/><br/><br/><br/><br/><br/><br/> | **Not important and not urgent**<br/>(discard)<br/><br/><br/><br/><br/><br/><br/><br/><br/> |
 
 **Tips:**
+
 - Start with 3–5 key changes. This avoids overload and keeps focus.
 - Revisit this matrix regularly — priorities shift as life changes.
 - Be realistic: some “urgent” things may not be important at all.
