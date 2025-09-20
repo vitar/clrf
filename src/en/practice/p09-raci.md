@@ -26,11 +26,11 @@ The principle is simple:
 
 | Area / task | Responsible<br/>(who does the work) | Accountable<br/>(final responsibility) | Consulted<br/>(whose input is needed) | Informed<br/>(who is kept updated) |
 |---|:--:|:--:|:--:|:--:|
-| Finances (budget, payments)<br/><br/><br/><br/> |||||
-| Household chores (cleaning, cooking)<br/><br/><br/><br/> |||||
-| Children (school, activities)<br/><br/><br/><br/> |||||
-| Relatives (communication, holidays)<br/><br/><br/><br/> |||||
-| Leisure and vacation (planning)<br/><br/><br/><br/> |||||
+| Finances<br/>(budget, payments)<br/><br/><br/><br/> |||||
+| Household chores<br/>(cleaning, cooking)<br/><br/><br/><br/> |||||
+| Children<br/>(school, activities)<br/><br/><br/><br/> |||||
+| Relatives<br/>(communication, holidays)<br/><br/><br/><br/> |||||
+| Leisure and vacation<br/>(planning)<br/><br/><br/><br/> |||||
 
 <br/>
 ____________________________________________________________
