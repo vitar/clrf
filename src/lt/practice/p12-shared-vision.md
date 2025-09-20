@@ -1,6 +1,16 @@
 # Praktika 12. Bendra vizija
 
-Ši praktika padeda sukurti bendrą ateities vaizdą. Pirmiausia, kiekvienas pasidalija savo individualia vizija, tuomet kartu kuriate bendrą. Joje turi būti bendras branduolys (kas sutampa) ir pagarbiai pripažinti skirtumai (tai, kas lieka asmeniška).
+Šis puslapis padeda sukurti bendrą ateities vaizdą.<br/>
+Pirmiausia kiekvienas pasidalija savo individualia vizija, tada jas sujungiate.<br/>
+Bendra vizija turi atspindėti bendrą branduolį (kas sutampa) ir pagarbiai pripažinti skirtumus (tai, kas lieka asmeniška).
+
+**Jums reikės:** rašiklio, popieriaus (arba šio puslapio)<br/>
+**Laikas:** 30–40 minučių<br/>
+**Naudokite kai:**
+
+- Jau esate užrašę asmenines vizijas
+- Norite suderinti savo kryptį kaip pora
+- Norite pamatyti, kaip panašumai ir skirtumai gali praturtinti jūsų ateitį
 
 ### 1. Mūsų bendras branduolys (sutapimai)
 
@@ -26,7 +36,7 @@ ____________________________________________________________
 
 ### 3. Bendra vizijos formuluotė
 
-Pabandykite kartu suformuluoti 2–3 pastraipas, aprašančias jūsų bendrą viziją:
+Kartu parašykite 2–3 pastraipas, aprašančias jūsų bendrą viziją:
 
 <br/>
 ____________________________________________________________
@@ -37,5 +47,7 @@ ____________________________________________________________
 
 ## Išvada
 
-Bendra vizija — gairė, o ne griežtas planas. Ji padeda judėti ta pačia kryptimi, išsaugant kiekvieno partnerio individualumą.
+Bendra vizija yra kompasas, o ne griežtas planas.
+Ji padeda judėti ta pačia kryptimi, gerbiant kiekvieno individualumą.
 
+**Rezultatas:** Aiški ir įkvepianti vizija, sujungianti „Aš“ ir „Mes“ į bendrą kelią į priekį.
