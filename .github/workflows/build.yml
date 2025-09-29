@@ -116,6 +116,7 @@ jobs:
       - name: Add Google Search verification file
         run: |
           cp google73eb0e017af08cbb.html  dist/site/google73eb0e017af08cbb.html
+          cp sitemapman.xml  dist/site/sitemapman.xml
 
       - name: Upload dist artifacts (for debugging)
         uses: actions/upload-artifact@v4
